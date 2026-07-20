@@ -1,0 +1,19 @@
+{
+    "exit_code": 0,
+    "arguments": [
+        "--fastafile",
+        "putative_hlyR4_homologs.fasta",
+        "--organism",
+        "other",
+        "--mode",
+        "fast",
+        "--output_dir",
+        "/home/signalp/output",
+        "--format",
+        "all"
+    ],
+    "app_uri": "DTU/SignalP-6:0.0.56",
+    "ended_at": "2025-08-25T18:38:23.955950Z",
+    "job_uuid": "969b7b29-80a9-455a-b324-156e0dd2452e",
+    "started_at": "2025-08-25T18:37:34.817644Z"
+}

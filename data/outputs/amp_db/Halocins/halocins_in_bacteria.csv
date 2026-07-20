@@ -1,0 +1,19 @@
+gtdb_phylum,gtdb_class,gtdb_order,gtdb_family,gtdb_genus,Halocin H4,Halocin C8,Halocin S8
+Actinomycetota,Actinomycetia,Mycobacteriales,Micromonosporaceae,Glycomyces,0,1,0
+Actinomycetota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Corynebacterium,0,2,0
+Bacillota,Bacilli,Bacillales,Bacillaceae B,Rossellomorea,0,1,0
+Bacillota,Bacilli,Bacillales,DSM-18226,Niallia,0,1,0
+Bacillota,Bacilli,Bacillales,Planococcaceae,Planococcus,0,3,0
+Bacillota,Bacilli,Bacillales D,Amphibacillaceae,Paucisalibacillus,0,1,0
+Bacillota,Bacilli,Bacillales D,Halobacillaceae,Halobacillus,0,3,0
+Bacillota,Bacilli,Bacillales D,Halobacillaceae,Halobacillus A,0,1,0
+Bacillota,Bacilli,Bacillales H,Marinococcaceae,Alteribacillus,0,1,0
+Bacillota,Bacilli,Bacillales H,Salisediminibacteriaceae,Alteribacter,0,1,0
+Bacillota,Bacilli,Paenibacillales,Paenibacillaceae,Paenibacillus,3,0,0
+Bacillota,Bacilli,RES148,Pasteuriaceae,Pasteuria,0,1,0
+Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,0,5,0
+Bacillota A,Clostridia,Lachnospirales,DSM-24629,Natranaerovirga,1,0,0
+Bacillota A,Clostridia,Tissierellales,Peptoniphilaceae,Anaerococcus,0,1,0
+Chloroflexota,Chloroflexia,Chloroflexales,Roseiflexaceae,AL-N1,0,1,0
+Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,0,3,0
+WOR-3,UBA3072,UBA3072,UBA3072,JAGLZA01,0,1,0

@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         phmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/rs1521/Downloads/NP_391622.fasta
+# Target file:     /Users/rs1521/workspace/data/amp_db/Subtilosin_A/Thermococcus celer/GCF_002214365.1_ASM221436v1_protein.faa
+# Option settings: phmmer -o /dev/null --tblout /Users/rs1521/workspace/data/amp_db/Subtilosin_A/NP_391622_vs_T_celer.tblout.txt /Users/rs1521/Downloads/NP_391622.fasta /Users/rs1521/workspace/data/amp_db/Subtilosin_A/Thermococcus celer/GCF_002214365.1_ASM221436v1_protein.faa 
+# Current dir:     /Users/rs1521
+# Date:            Mon Jul 28 15:13:20 2025
+# [ok]

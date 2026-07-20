@@ -1,0 +1,15 @@
+domain,gtdb_phylum,amp_id,protein_id
+Archaea,Halobacteriota,Halocin_C8,58
+Bacteria,Bacillota,Halocin_C8,9
+Archaea,Halobacteriota,Halocin_H4,7
+Archaea,Thermoplasmatota,Halocin_C8,5
+Archaea,Halobacteriota,Halocin_S8,4
+Bacteria,Chloroflexota,Halocin_C8,4
+Archaea,Methanobacteriota_B,Halocin_C8,2
+Archaea,Thermoproteota,Halocin_C8,1
+Bacteria,Actinomycetota,Halocin_C8,1
+Bacteria,Bacillota_A,Halocin_H4,1
+Bacteria,Desulfobacterota,Halocin_H4,1
+Bacteria,Patescibacteria,Halocin_H4,1
+Bacteria,Pseudomonadota,Halocin_H4,1
+Bacteria,WOR-3,Halocin_C8,1

@@ -1,0 +1,109 @@
+id,assembly_accession,protein_id,domain,gtdb_phylum,gtdb_class,gtdb_order,gtdb_family,gtdb_genus,gtdb_species,ncbi_organism_name,uniprot_id,length
+WP_148183473.1@GCF_000008665.1,GCF_000008665.1,WP_148183473.1,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus,Archaeoglobus fulgidus,Archaeoglobus fulgidus DSM 4304,,195
+MCS7130230.1@GCA_025058955.1,GCA_025058955.1,MCS7130230.1,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,WYZ-LMO2,WYZ-LMO2 sp025058955,Archaeoglobaceae archaeon,,263
+MCS7131040.1@GCA_025058955.1,GCA_025058955.1,MCS7131040.1,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,WYZ-LMO2,WYZ-LMO2 sp025058955,Archaeoglobaceae archaeon,,89
+WP_139025500.1@GCF_000376445.1,GCF_000376445.1,WP_139025500.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Haladaptatus,Haladaptatus paucihalophilus,Haladaptatus paucihalophilus DX253,A0A1M7C1A1,287
+WP_082837828.1@GCF_001625445.1,GCF_001625445.1,WP_082837828.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Haladaptatus,Haladaptatus sp001625445,Haladaptatus sp. R4,,266
+WP_231186491.1@GCF_021083305.1,GCF_021083305.1,WP_231186491.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Haladaptatus,Haladaptatus sp021083305,Haladaptatus sp. DYF46,,285
+CP100465.1_75@GCA_024227995.1,GCA_024227995.1,CP100465.1_75,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Haladaptatus,Haladaptatus sp024227995,Halobacteriaceae archaeon GSLN9,,247
+WP_202935063.1@GCF_004143485.2,GCF_004143485.2,WP_202935063.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus amylolyticus,Halorussus amylolyticus,,289
+NZ_CP035119.1_1595@GCF_004087835.1,GCF_004087835.1,NZ_CP035119.1_1595,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus pelagicus,Halorussus pelagicus,,288
+NZ_CP035119.1_2349@GCF_004087835.1,GCF_004087835.1,NZ_CP035119.1_2349,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus pelagicus,Halorussus pelagicus,,288
+WP_135825305.1@GCF_004765785.1,GCF_004765785.1,WP_135825305.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus ruber,Halorussus ruber,,681
+WP_135852295.1@GCF_004765815.2,GCF_004765815.2,WP_135852295.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus salinus,Halorussus salinus,,287
+WP_135854137.1@GCF_004765815.2,GCF_004765815.2,WP_135854137.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus salinus,Halorussus salinus,,680
+WP_202932656.1@GCF_004765815.2,GCF_004765815.2,WP_202932656.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus salinus,Halorussus salinus,,288
+NZ_VSLZ01000004.1_181@GCF_010747475.1,GCF_010747475.1,NZ_VSLZ01000004.1_181,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus sp010747475,Halorussus sp. MSC15.2,A0A6G3ZMD2,212
+WP_253478286.1@GCF_024138125.1,GCF_024138125.1,WP_253478286.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus sp024138125,Halorussus sp. YCN54,,289
+WP_079979488.1@GCF_004799665.1,GCF_004799665.1,WP_079979488.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halapricum,Halapricum salinum,Halapricum salinum,A0A4D6HFK7,277
+NZ_BIXZ01000012.1_61@GCF_005406125.1,GCF_005406125.1,NZ_BIXZ01000012.1_61,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula,Haloarcula mannanilytica,Haloarcula mannanilytica,A0A4C2ENS6,249
+WP_248907559.1@GCF_023276375.1,GCF_023276375.1,WP_248907559.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halocatena,Halocatena sp023276375,Halocatena sp. DFN5,,281
+WP_164731977.1@GCF_000023965.1,GCF_000023965.1,WP_164731977.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halomicrobium,Halomicrobium mukohataei,Halomicrobium mukohataei DSM 12286,,309
+WP_153552385.1@GCF_009617995.1,GCF_009617995.1,WP_153552385.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halomicrobium,Halomicrobium sp009617995,Halomicrobium sp. LC1Hm,,265
+WP_135663906.1@GCF_900880625.1,GCF_900880625.1,WP_135663906.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halorhabdus,Halorhabdus rudnickae,Halorhabdus rudnickae,,114
+WP_136361702.1@GCF_008124605.1,GCF_008124605.1,WP_136361702.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,Halobacterium salinarum,Halobacterium salinarum DSM 3754,A0A895AJK3,296
+WP_244289023.1@GCF_008124605.1,GCF_008124605.1,WP_244289023.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,Halobacterium salinarum,Halobacterium salinarum DSM 3754,,242
+WP_009762310.1@GCF_000230955.2,GCF_000230955.2,WP_009762310.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,Halobacterium sp000230955,Halobacterium sp. DL1,,296
+WP_195156013.1@GCF_000334895.1,GCF_000334895.1,WP_195156013.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halococcaceae,Halococcus,Halococcus agarilyticus,Halococcus agarilyticus,,227
+WP_161606962.1@GCF_000336935.1,GCF_000336935.1,WP_161606962.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halococcaceae,Halococcus,Halococcus salifodinae,Halococcus salifodinae DSM 8989,,281
+WP_234299077.1@GCF_021431925.1,GCF_021431925.1,WP_234299077.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halobaculum,Halobaculum sp021431925,Halobaculum sp. CBA1158,,312
+WP_239639938.1@GCF_000336775.1,GCF_000336775.1,WP_239639938.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax gibbonsii,Haloferax gibbonsii ATCC 33959,,270
+WP_206536420.1@GCF_000336955.1,GCF_000336955.1,WP_206536420.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax larsenii,Haloferax larsenii JCM 13917,,310
+WP_004043226.1@GCF_000025685.1,GCF_000025685.1,WP_004043226.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax volcanii,Haloferax volcanii DS2,A0A8T5C7M9,305
+WP_197427780.1@GCF_900115675.1,GCF_900115675.1,WP_197427780.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halolamina,Halolamina pelagica,Halolamina pelagica,,374
+CP002989.1_262@GCA_000224475.1,GCA_000224475.1,CP002989.1_262,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halolamina,Halolamina sp000224475,halophilic archaeon DL31,,296
+AEN07551.1@GCA_000224475.1,GCA_000224475.1,AEN07551.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halolamina,Halolamina sp000224475,halophilic archaeon DL31,,296
+NZ_AP017570.1_62@GCF_002355655.1,GCF_002355655.1,NZ_AP017570.1_62,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halorubrum,Halorubrum trapanicum A,Halorubrum trapanicum,A0A1I5UQF1,345
+WP_049926653.1@GCF_000455345.1,GCF_000455345.1,WP_049926653.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Halopiger A,Halopiger A goleimassiliensis,Halopiger goleimassiliensis,,263
+WP_174681857.1@GCF_013342145.1,GCF_013342145.1,WP_174681857.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena gelatinilytica,Haloterrigena sp. SYSU A558-1,,248
+WP_174682227.1@GCF_013342145.1,GCF_013342145.1,WP_174682227.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena gelatinilytica,Haloterrigena sp. SYSU A558-1,,316
+WP_211338378.1@GCF_003977755.1,GCF_003977755.1,WP_211338378.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salifodinae,Haloterrigena salifodinae,,248
+WP_008892994.1@GCF_000337495.1,GCF_000337495.1,WP_008892994.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salina,Haloterrigena salina JCM 13891,,277
+WP_008893279.1@GCF_000337495.1,GCF_000337495.1,WP_008893279.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salina,Haloterrigena salina JCM 13891,,248
+WP_083870254.1@GCF_000337495.1,GCF_000337495.1,WP_083870254.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salina,Haloterrigena salina JCM 13891,,315
+WP_012943185.1@GCF_000025325.1,GCF_000025325.1,WP_012943185.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena turkmenica,Haloterrigena turkmenica DSM 5511,D2RT16,264
+WP_012945653.1@GCF_000025325.1,GCF_000025325.1,WP_012945653.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena turkmenica,Haloterrigena turkmenica DSM 5511,D2S212,314
+WP_161958287.1@GCF_003430825.1,GCF_003430825.1,WP_161958287.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrarchaeobaculum,Natrarchaeobaculum sulfurireducens,Natrarchaeobaculum sulfurireducens,,162
+WP_124193256.1@GCF_003841465.1,GCF_003841465.1,WP_124193256.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrarchaeobius,Natrarchaeobius chitinivorans A,Natrarchaeobius chitinivorans,A0A3N6M7T8,279
+WP_007110057.1@GCF_000731985.1,GCF_000731985.1,WP_007110057.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema altunense,Natrinema altunense,,283
+WP_241432498.1@GCF_000337175.1,GCF_000337175.1,WP_241432498.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema gari,Natrinema gari JCM 14663,,114
+NZ_CP058601.1_2884@GCF_013402815.2,GCF_013402815.2,NZ_CP058601.1_2884,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema halophilum,Natrinema halophilum,A0A7D5KJY3,286
+NZ_CP058601.1_2716@GCF_013402815.2,GCF_013402815.2,NZ_CP058601.1_2716,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema halophilum,Natrinema halophilum,A0A7D5KXX8,296
+OAQ51225.1@GCA_000690595.2,GCA_000690595.2,OAQ51225.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema mahii,Haloterrigena mahii,,241
+WP_083864448.1@GCF_000337615.1,GCF_000337615.1,WP_083864448.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pallidum,Natrinema pallidum DSM 3751,,258
+WP_083864503.1@GCF_000337615.1,GCF_000337615.1,WP_083864503.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pallidum,Natrinema pallidum DSM 3751,,264
+WP_015298689.1@GCF_000230735.2,GCF_000230735.2,WP_015298689.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pellirubrum,Natrinema pellirubrum DSM 15624,L0JJ00,273
+WP_015299009.1@GCF_000230735.2,GCF_000230735.2,WP_015299009.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pellirubrum,Natrinema pellirubrum DSM 15624,L0JNK8,264
+WP_015299281.1@GCF_000230735.2,GCF_000230735.2,WP_015299281.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pellirubrum,Natrinema pellirubrum DSM 15624,L0JQ08,294
+WP_081597641.1@GCF_000230735.2,GCF_000230735.2,WP_081597641.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pellirubrum,Natrinema pellirubrum DSM 15624,,270
+NZ_CP084472.1_3305@GCF_020405225.1,GCF_020405225.1,NZ_CP084472.1_3305,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema sp020405225,Natrinema sp. DC36,,288
+ELZ16389.1@GCA_000337115.1,GCA_000337115.1,ELZ16389.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema thermotolerans,Haloterrigena thermotolerans DSM 11552,,273
+AOIR01000038.1_26@GCA_000337115.1,GCA_000337115.1,AOIR01000038.1_26,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema thermotolerans,Haloterrigena thermotolerans DSM 11552,,298
+WP_157224598.1@GCF_000328685.1,GCF_000328685.1,WP_157224598.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natronococcus,Natronococcus occultus,Natronococcus occultus SP4,,264
+WP_175459731.1@GCF_900108095.1,GCF_900108095.1,WP_175459731.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natronorubrum,Natronorubrum sediminis,Natronorubrum sediminis,,289
+WP_006092146.1@GCF_000383975.1,GCF_000383975.1,WP_006092146.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natronorubrum,Natronorubrum tibetense,Natronorubrum tibetense GA33,L9VJX3,274
+CP040678.1_2475@GCA_005954745.1,GCA_005954745.1,CP040678.1_2475,Archaea,Halobacteriota,Halobacteria,Halobacteriales,QS-9-68-17,Halostella,Halostella pelagica,Halostella pelagica,,295
+SKSD01000001.1_94@GCA_007118145.1,GCA_007118145.1,SKSD01000001.1_94,Archaea,Halobacteriota,Halobacteria,Halobacteriales,SKSH01,SKSH01,SKSH01 sp007118145,Halobacteriales archaeon,,273
+DARA01000066.1_3@GCA_002503135.1,GCA_002503135.1,DARA01000066.1_3,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanoculleaceae,UBA207,UBA207 sp002503135,Methanomicrobiaceae archaeon UBA207,,180
+NZ_FZMP01000010.1_36@GCF_900196725.1,GCF_900196725.1,NZ_FZMP01000010.1_36,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanoperedenaceae,Methanoperedens,Methanoperedens nitroreducens A,Candidatus Methanoperedens nitroreducens,,223
+WP_250867346.1@GCF_023684405.1,GCF_023684405.1,WP_250867346.1,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides,Methanococcoides seepicolus,Methanococcoides seepicolus,,235
+NZ_FNCA01000005.1_84@GCF_900100715.1,GCF_900100715.1,NZ_FNCA01000005.1_84,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanolobus,Methanolobus vulcani,Methanolobus vulcani,A0A7Z7FCV1,276
+WP_052722646.1@GCF_000969965.1,GCF_000969965.1,WP_052722646.1,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina sp000969965,Methanosarcina sp. WWM596,A0A0E3NKG2,267
+NZ_LMVP01000201.1_31@GCF_002287235.1,GCF_002287235.1,NZ_LMVP01000201.1_31,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina spelaei,Methanosarcina spelaei,A0A2A2HTT2,182
+WP_014788716.1@GCF_000265525.1,GCF_000265525.1,WP_014788716.1,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus cleftensis,Thermococcus cleftensis,I3ZTP7,313
+NZ_CP102602.1_1598@GCF_024707485.1,GCF_024707485.1,NZ_CP102602.1_1598,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus sp024707485,Thermococcus sp. 813A4,,323
+NZ_AJLF01000002.1_27@GCF_000258515.1,GCF_000258515.1,NZ_AJLF01000002.1_27,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus zilligii,Thermococcus zilligii AN1,,329
+WAKV01000040.1_2@GCA_015523185.1,GCA_015523185.1,WAKV01000040.1_2,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus sp015523185,Thermococcus sp.,,312
+PWKY01000076.1_62@GCA_003560595.1,GCA_003560595.1,PWKY01000076.1_62,Archaea,Thermoplasmatota,Thermoplasmata,PWKY01,PWKY01,PWKY01,PWKY01 sp003560595,Thermoplasmata archaeon,,153
+EQB64365.1@GCA_001856825.1,GCA_001856825.1,EQB64365.1,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,GCA-001856825,GCA-001856825,GCA-001856825 sp001856825,Thermoplasmatales archaeon I-plasma,,215
+ATMD01000005.1_21@GCA_001856825.1,GCA_001856825.1,ATMD01000005.1_21,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,GCA-001856825,GCA-001856825,GCA-001856825 sp001856825,Thermoplasmatales archaeon I-plasma,,206
+WP_148690163.1@GCF_900083515.1,GCF_900083515.1,WP_148690163.1,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Cuniculiplasma,Cuniculiplasma divulgatum,Cuniculiplasma divulgatum,A0A1N5WFV7,206
+WP_021792159.1@GCF_000011185.1,GCF_000011185.1,WP_021792159.1,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma,Thermoplasma volcanium,Thermoplasma volcanium GSS1,,215
+DAJC01000023.1_20@GCA_002498845.1,GCA_002498845.1,DAJC01000023.1_20,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,UBA509,UBA509 sp002498845,Thermoplasmatales archaeon UBA509,,203
+WP_048057428.1@GCF_000204925.1,GCF_000204925.1,WP_048057428.1,Archaea,Thermoproteota,Thermoprotei A,Sulfolobales,Sulfolobaceae,Metallosphaera,Metallosphaera cuprina,Metallosphaera cuprina Ar-4,,122
+WP_228090750.1@GCF_019710475.1,GCF_019710475.1,WP_228090750.1,Bacteria,Actinomycetota,Actinomycetia,Mycobacteriales,Micromonosporaceae,Glycomyces,Glycomyces sp019710475,Glycomyces sp. TRM65418,A0A8G1J0K7,246
+NZ_CP068159.1_483@GCF_016728505.1,GCF_016728505.1,NZ_CP068159.1_483,Bacteria,Actinomycetota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Corynebacterium,Corynebacterium riegelii,Corynebacterium riegelii,,254
+CALUAK010000087.1_2@GCA_943914015.1,GCA_943914015.1,CALUAK010000087.1_2,Bacteria,Actinomycetota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Corynebacterium,Corynebacterium sp943914015,uncultured Corynebacterium sp.,,122
+NZ_NTUP01000066.1_457@GCF_002561455.1,GCF_002561455.1,NZ_NTUP01000066.1_457,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae B,Rossellomorea,Rossellomorea sp002561455,Bacillus sp. AFS015802,A0A2A8V226,257
+WP_016202224.1@GCF_012933555.1,GCF_012933555.1,WP_016202224.1,Bacteria,Bacillota,Bacilli,Bacillales,DSM-18226,Niallia,Niallia alba,Niallia alba,R9C692,142
+NZ_CP013659.2_504@GCF_001465795.2,GCF_001465795.2,NZ_CP013659.2_504,Bacteria,Bacillota,Bacilli,Bacillales,Planococcaceae,Planococcus,Planococcus rifietoensis,Planococcus rifietoensis,A0A0U2Z4M8,261
+NZ_JAAMTH010000001.1_3313@GCF_018283455.1,GCF_018283455.1,NZ_JAAMTH010000001.1_3313,Bacteria,Bacillota,Bacilli,Bacillales,Planococcaceae,Planococcus,Planococcus sp018283455,Planococcus sp. MSAK28401,,257
+NZ_JAAMTH010000001.1_858@GCF_018283455.1,GCF_018283455.1,NZ_JAAMTH010000001.1_858,Bacteria,Bacillota,Bacilli,Bacillales,Planococcaceae,Planococcus,Planococcus sp018283455,Planococcus sp. MSAK28401,,261
+NZ_JRNX01000089.1_3@GCF_000786645.1,GCF_000786645.1,NZ_JRNX01000089.1_3,Bacteria,Bacillota,Bacilli,Bacillales D,Halobacillaceae,Halobacillus,Halobacillus sp000786645,Halobacillus sp. BBL2006,A0A0B0D932,198
+WP_008634360.1@GCF_000469135.2,GCF_000469135.2,WP_008634360.1,Bacteria,Bacillota,Bacilli,Bacillales D,Halobacillaceae,Halobacillus,Halobacillus sp001592845,Bacillus sp. SB49,L5NAY5,262
+NZ_JAIEZV010000002.1_369@GCF_019599545.1,GCF_019599545.1,NZ_JAIEZV010000002.1_369,Bacteria,Bacillota,Bacilli,Bacillales D,Halobacillaceae,Halobacillus,Halobacillus sp019599545,Halobacillus sp. Nhm2S1,,259
+WP_082233103.1@GCF_900166625.1,GCF_900166625.1,WP_082233103.1,Bacteria,Bacillota,Bacilli,Bacillales D,Halobacillaceae,Halobacillus A,Halobacillus A massiliensis,Halobacillus massiliensis,,261
+WP_091587091.1@GCF_002886255.1,GCF_002886255.1,WP_091587091.1,Bacteria,Bacillota,Bacilli,Bacillales H,Marinococcaceae,Alteribacillus,Alteribacillus bidgolensis,Alteribacillus bidgolensis,A0A1G8NNL8,265
+WP_110516892.1@GCF_003226345.1,GCF_003226345.1,WP_110516892.1,Bacteria,Bacillota,Bacilli,Bacillales H,Salisediminibacteriaceae,Alteribacter,Alteribacter lacisalsi,Bacillus lacisalsi,A0A2W0H8Y2,262
+WP_212922126.1@GCF_018333235.1,GCF_018333235.1,WP_212922126.1,Bacteria,Bacillota,Bacilli,Bacillales_D,Amphibacillaceae,Paucisalibacillus,Paucisalibacillus bavariensis,Ornithinibacillus bavariensis,,124
+WP_149453579.1@GCF_900538055.1,GCF_900538055.1,WP_149453579.1,Bacteria,Bacillota,Bacilli,RES148,Pasteuriaceae,Pasteuria,Pasteuria penetrans,Pasteuria penetrans,,313
+NZ_PPPX01000001.1_513@GCF_002902305.1,GCF_002902305.1,NZ_PPPX01000001.1_513,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus argensis,Staphylococcus argensis,A0A2K4FEA0,244
+WP_103159623.1@GCF_002901945.1,GCF_002901945.1,WP_103159623.1,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus chromogenes,Staphylococcus chromogenes,,244
+NZ_LR134263.1_321@GCF_900636325.1,GCF_900636325.1,NZ_LR134263.1_321,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus delphini,Staphylococcus delphini,A0A447YVF0,121
+WP_002456424.1@GCF_006742205.1,GCF_006742205.1,WP_002456424.1,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis,A0A0H2VGU6,244
+NZ_PPQH01000083.1_2@GCF_002902385.1,GCF_002902385.1,NZ_PPQH01000083.1_2,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus intermedius,Staphylococcus intermedius NCTC 11048,A0A380FY09,227
+NOK57773.1@GCA_013122435.1,GCA_013122435.1,NOK57773.1,Bacteria,Chloroflexota,Chloroflexia,Chloroflexales,Roseiflexaceae,AL-N1,AL-N1 sp013122435,Chloroflexi bacterium AL-N1,A0A972G812,117
+WP_008479858.1@GCF_000297255.1,GCF_000297255.1,WP_008479858.1,Bacteria,Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,Nitrolancea hollandica,Nitrolancea hollandica Lb,I4EKE5,292
+WP_008479876.1@GCF_000297255.1,GCF_000297255.1,WP_008479876.1,Bacteria,Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,Nitrolancea hollandica,Nitrolancea hollandica Lb,,1438
+WP_238538535.1@GCF_000297255.1,GCF_000297255.1,WP_238538535.1,Bacteria,Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,Nitrolancea hollandica,Nitrolancea hollandica Lb,,181
+MCK4529253.1@GCA_023131835.1,GCA_023131835.1,MCK4529253.1,Bacteria,WOR-3,UBA3072,UBA3072,UBA3072,JAGLZA01,JAGLZA01 sp023131835,candidate division WOR-3 bacterium,,279

@@ -1,0 +1,26 @@
+[project]
+name = "baab"
+version = "0.1.0"
+description = "Bacteriocins in Archaea & Archaeocins in Bacteria — paper code and data"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    # Data handling / numerics
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "scipy>=1.14",
+    # Bioinformatics
+    "biopython>=1.84",          # imported as `Bio`
+    "dna_features_viewer>=3.1", # gene-context / synteny figures
+    # Plotting
+    "matplotlib>=3.9",
+    "seaborn>=0.13",
+    # HTTP (NCBI / UniProt queries)
+    "requests>=2.31",
+    # Notebook runtime
+    "jupyterlab>=4.0",
+]
+
+[tool.uv]
+package = false

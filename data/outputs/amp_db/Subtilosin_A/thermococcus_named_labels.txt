@@ -1,0 +1,26 @@
+LABELS
+SEPARATOR COMMA
+DATA
+RS_GCF_002214485.1,Thermococcus pacificus
+RS_GCF_002214505.1,Thermococcus siculi
+RS_GCF_904067545.1,Thermococcus camini
+RS_GCF_001484195.1,Thermococcus celericrescens
+RS_GCF_006274605.1,Thermococcus indicus
+RS_GCF_000265525.1,Thermococcus cleftensis
+RS_GCF_002214365.1,Thermococcus celer
+RS_GCF_002214565.1,Thermococcus radiotolerans
+RS_GCF_002214545.1,Thermococcus thioreducens
+RS_GCF_002214465.1,Thermococcus barossii
+RS_GCF_001647085.1,Thermococcus piezophilus
+RS_GCF_000018365.1,Thermococcus onnurineus
+RS_GCF_017873335.1,Thermococcus stetteri
+RS_GCF_000009965.1,Thermococcus kodakarensis
+RS_GCF_001592435.1,Thermococcus peptonophilus
+RS_GCF_000258515.1,Thermococcus zilligii
+RS_GCF_002214385.1,Thermococcus gorgonarius
+RS_GCF_002214585.1,Thermococcus profundus
+RS_GCF_900198835.1,Thermococcus henrietii
+RS_GCF_000585495.1,Thermococcus nautili
+RS_GCF_000769655.1,Thermococcus eurythermalis
+RS_GCF_000022365.1,Thermococcus gammatolerans
+RS_GCF_000816105.1,Thermococcus guaymasensis

@@ -1,0 +1,254 @@
+id,uniprot_id,gtdb_id,db_proka_id,domain,gtdb_phylum,gtdb_class,gtdb_order,gtdb_family,gtdb_genus,gtdb_species,ncbi_organism_name,length,source
+O28702,O28702,NC_000917.1_1621,,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus,Archaeoglobus fulgidus,Archaeoglobus fulgidus (strain ATCC 49558 / DSM 4304 / JCM 9628 / NBRC 100126 / VC-16),207.0,Wider GTDB 214
+WP_148183473.1@GCF_000008665.1,,,WP_148183473.1@GCF_000008665.1,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus,Archaeoglobus fulgidus,Archaeoglobus fulgidus DSM 4304,195.0,DB prokaryotes (GTDB 214 subset)
+MCS7130230.1@GCA_025058955.1,,,MCS7130230.1@GCA_025058955.1,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,WYZ-LMO2,WYZ-LMO2 sp025058955,Archaeoglobaceae archaeon,263.0,DB prokaryotes (GTDB 214 subset)
+MCS7131040.1@GCA_025058955.1,,,MCS7131040.1@GCA_025058955.1,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,WYZ-LMO2,WYZ-LMO2 sp025058955,Archaeoglobaceae archaeon,89.0,DB prokaryotes (GTDB 214 subset)
+JANXDV010000019.1_2,,JANXDV010000019.1_2,,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,WYZ-LMO2,WYZ-LMO2 sp025058955,,264.0,Wider GTDB 214
+A0A1M7C1A1,A0A1M7C1A1,NZ_AQXI01000005.1_93,WP_139025500.1@GCF_000376445.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Haladaptatus,Haladaptatus paucihalophilus,Haladaptatus paucihalophilus DX253,287.0,DB prokaryotes (GTDB 214 subset)
+WP_082837828.1@GCF_001625445.1,,NZ_LWHG01000021.1_1133,WP_082837828.1@GCF_001625445.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Haladaptatus,Haladaptatus sp001625445,Haladaptatus sp. R4,266.0,DB prokaryotes (GTDB 214 subset)
+WP_231186491.1@GCF_021083305.1,,NZ_JAJFAY010000003.1_196,WP_231186491.1@GCF_021083305.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Haladaptatus,Haladaptatus sp021083305,Haladaptatus sp. DYF46,285.0,DB prokaryotes (GTDB 214 subset)
+CP100465.1_75@GCA_024227995.1,,,CP100465.1_75@GCA_024227995.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Haladaptatus,Haladaptatus sp024227995,Halobacteriaceae archaeon GSLN9,247.0,DB prokaryotes (GTDB 214 subset)
+CP100465.1_75,,CP100465.1_75,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Haladaptatus,Haladaptatus sp024227995,,247.0,Wider GTDB 214
+WP_202935063.1@GCF_004143485.2,,NZ_ML974131.1_203,WP_202935063.1@GCF_004143485.2,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus amylolyticus,Halorussus amylolyticus,289.0,DB prokaryotes (GTDB 214 subset)
+NZ_CP035119.1_1595,,NZ_CP035119.1_1595,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus pelagicus,,288.0,Wider GTDB 214
+NZ_CP035119.1_2349,,NZ_CP035119.1_2349,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus pelagicus,,288.0,Wider GTDB 214
+WP_135825305.1@GCF_004765785.1,,,WP_135825305.1@GCF_004765785.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus ruber,Halorussus ruber,681.0,DB prokaryotes (GTDB 214 subset)
+WP_135852295.1@GCF_004765815.2,,NZ_ML974127.1_156,WP_135852295.1@GCF_004765815.2,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus salinus,Halorussus salinus,287.0,DB prokaryotes (GTDB 214 subset)
+WP_135854137.1@GCF_004765815.2,,,WP_135854137.1@GCF_004765815.2,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus salinus,Halorussus salinus,680.0,DB prokaryotes (GTDB 214 subset)
+WP_202932656.1@GCF_004765815.2,,NZ_SBIS02000007.1_351,WP_202932656.1@GCF_004765815.2,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus salinus,Halorussus salinus,288.0,DB prokaryotes (GTDB 214 subset)
+A0A6G3ZMD2,A0A6G3ZMD2,NZ_VSLZ01000004.1_181,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus sp010747475,Halorussus sp. MSC15.2,212.0,Wider GTDB 214
+WP_253478286.1@GCF_024138125.1,,NZ_CP099993.1_2066,WP_253478286.1@GCF_024138125.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haladaptataceae,Halorussus,Halorussus sp024138125,Halorussus sp. YCN54,289.0,DB prokaryotes (GTDB 214 subset)
+A0A4D6HFK7,A0A4D6HFK7,NZ_CP031310.1_2352,WP_079979488.1@GCF_004799665.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halapricum,Halapricum salinum,Halapricum salinum,277.0,DB prokaryotes (GTDB 214 subset)
+A0A4C2ENS6,A0A4C2ENS6,NZ_BIXZ01000012.1_61,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula,Haloarcula mannanilytica,Haloarcula mannanilytica,249.0,Wider GTDB 214
+WP_248907559.1@GCF_023276375.1,,NZ_JALLPK010000001.1_2583,WP_248907559.1@GCF_023276375.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halocatena,Halocatena sp023276375,Halocatena sp. DFN5,281.0,DB prokaryotes (GTDB 214 subset)
+WP_164731977.1@GCF_000023965.1,,NC_013202.1_958,WP_164731977.1@GCF_000023965.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halomicrobium,Halomicrobium mukohataei,Halomicrobium mukohataei DSM 12286,309.0,DB prokaryotes (GTDB 214 subset)
+WP_153552385.1@GCF_009617995.1,,NZ_CP044129.1_444,WP_153552385.1@GCF_009617995.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halomicrobium,Halomicrobium sp009617995,Halomicrobium sp. LC1Hm,265.0,DB prokaryotes (GTDB 214 subset)
+WP_135663906.1@GCF_900880625.1,,,WP_135663906.1@GCF_900880625.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halorhabdus,Halorhabdus rudnickae,Halorhabdus rudnickae,114.0,DB prokaryotes (GTDB 214 subset)
+NZ_CAAHFB010000001.1_1648,,NZ_CAAHFB010000001.1_1648,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halorhabdus,Halorhabdus rudnickae,,260.0,Wider GTDB 214
+A0A663A714,A0A663A714,NZ_VRYN01000005.1_8,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,Halobacterium salinarum,Halobacterium salinarum (strain ATCC 33171 / DSM 3754 / JCM 8978 / NBRC 102687 / NCIMB 764 / 91-R6),254.0,Wider GTDB 214
+A0A895AJK3,A0A895AJK3,NZ_VRYN01000036.1_1,WP_136361702.1@GCF_008124605.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,Halobacterium salinarum,Halobacterium salinarum DSM 3754,296.0,DB prokaryotes (GTDB 214 subset)
+WP_244289023.1@GCF_008124605.1,,,WP_244289023.1@GCF_008124605.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,Halobacterium salinarum,Halobacterium salinarum DSM 3754,242.0,DB prokaryotes (GTDB 214 subset)
+WP_009762310.1@GCF_000230955.2,,NZ_CP007061.1_33,WP_009762310.1@GCF_000230955.2,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,Halobacterium sp000230955,Halobacterium sp. DL1,296.0,DB prokaryotes (GTDB 214 subset)
+WP_195156013.1@GCF_000334895.1,,NZ_BAFM01000006.1_110,WP_195156013.1@GCF_000334895.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halococcaceae,Halococcus,Halococcus agarilyticus,Halococcus agarilyticus,227.0,DB prokaryotes (GTDB 214 subset)
+WP_161606962.1@GCF_000336935.1,,NZ_AOME01000068.1_17,WP_161606962.1@GCF_000336935.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halococcaceae,Halococcus,Halococcus salifodinae,Halococcus salifodinae DSM 8989,281.0,DB prokaryotes (GTDB 214 subset)
+WP_234299077.1@GCF_021431925.1,,,WP_234299077.1@GCF_021431925.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halobaculum,Halobaculum sp021431925,Halobaculum sp. CBA1158,312.0,DB prokaryotes (GTDB 214 subset)
+WP_239639938.1@GCF_000336775.1,,,WP_239639938.1@GCF_000336775.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax gibbonsii,Haloferax gibbonsii ATCC 33959,270.0,DB prokaryotes (GTDB 214 subset)
+NZ_AOLJ01000018.1_115,,NZ_AOLJ01000018.1_115,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax gibbonsii,,321.0,Wider GTDB 214
+WP_206536420.1@GCF_000336955.1,,NZ_AOLI01000017.1_204,WP_206536420.1@GCF_000336955.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax larsenii,Haloferax larsenii JCM 13917,310.0,DB prokaryotes (GTDB 214 subset)
+A0A8T5C7M9,A0A8T5C7M9,NC_013966.1_286,WP_004043226.1@GCF_000025685.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax volcanii,Haloferax volcanii DS2,305.0,DB prokaryotes (GTDB 214 subset)
+WP_197427780.1@GCF_900115675.1,,,WP_197427780.1@GCF_900115675.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halolamina,Halolamina pelagica,Halolamina pelagica,374.0,DB prokaryotes (GTDB 214 subset)
+NZ_FOXI01000014.1_10,,NZ_FOXI01000014.1_10,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halolamina,Halolamina pelagica,Halolamina pelagica,345.0,Wider GTDB 214
+CP002989.1_262,,CP002989.1_262,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halolamina,Halolamina sp000224475,Halobacterium sp. DL1,296.0,DB prokaryotes (GTDB 214 subset)
+AEN07551.1@GCA_000224475.1,,,AEN07551.1@GCA_000224475.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halolamina,Halolamina sp000224475,halophilic archaeon DL31,296.0,DB prokaryotes (GTDB 214 subset)
+A0A1I5UQF1,A0A1I5UQF1,NZ_AP017570.1_62,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halorubrum,Halorubrum trapanicum A,Halolamina pelagica,345.0,Wider GTDB 214
+WP_049926653.1@GCF_000455345.1,,NZ_HG315690.1_1402,WP_049926653.1@GCF_000455345.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Halopiger A,Halopiger A goleimassiliensis,Halopiger goleimassiliensis,263.0,DB prokaryotes (GTDB 214 subset)
+WP_174681857.1@GCF_013342145.1,,,WP_174681857.1@GCF_013342145.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena gelatinilytica,Haloterrigena sp. SYSU A558-1,248.0,DB prokaryotes (GTDB 214 subset)
+WP_174682227.1@GCF_013342145.1,,NZ_JABUQZ010000001.1_3948,WP_174682227.1@GCF_013342145.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena gelatinilytica,Haloterrigena sp. SYSU A558-1,316.0,DB prokaryotes (GTDB 214 subset)
+NZ_JABUQZ010000001.1_3516,,NZ_JABUQZ010000001.1_3516,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena gelatinilytica,,283.0,Wider GTDB 214
+WP_211338378.1@GCF_003977755.1,,,WP_211338378.1@GCF_003977755.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salifodinae,Haloterrigena salifodinae,248.0,DB prokaryotes (GTDB 214 subset)
+NZ_RQWN01000003.1_527,,NZ_RQWN01000003.1_527,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salifodinae,,283.0,Wider GTDB 214
+WP_008892994.1@GCF_000337495.1,,,WP_008892994.1@GCF_000337495.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salina,Haloterrigena salina JCM 13891,277.0,DB prokaryotes (GTDB 214 subset)
+WP_008893279.1@GCF_000337495.1,,,WP_008893279.1@GCF_000337495.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salina,Haloterrigena salina JCM 13891,248.0,DB prokaryotes (GTDB 214 subset)
+WP_083870254.1@GCF_000337495.1,,NZ_AOIS01000027.1_81,WP_083870254.1@GCF_000337495.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salina,Haloterrigena salina JCM 13891,315.0,DB prokaryotes (GTDB 214 subset)
+NZ_AOIS01000013.1_6,,NZ_AOIS01000013.1_6,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salina,,284.0,Wider GTDB 214
+NZ_AOIS01000017.1_52,,NZ_AOIS01000017.1_52,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena salina,,283.0,Wider GTDB 214
+D2RT16,D2RT16,NC_013743.1_2014,WP_012943185.1@GCF_000025325.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena turkmenica,Haloterrigena turkmenica DSM 5511,264.0,DB prokaryotes (GTDB 214 subset)
+D2S212,D2S212,NC_013745.1_182,WP_012945653.1@GCF_000025325.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Haloterrigena,Haloterrigena turkmenica,Haloterrigena turkmenica DSM 5511,314.0,DB prokaryotes (GTDB 214 subset)
+WP_161958287.1@GCF_003430825.1,,,WP_161958287.1@GCF_003430825.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrarchaeobaculum,Natrarchaeobaculum sulfurireducens,Natrarchaeobaculum sulfurireducens,162.0,DB prokaryotes (GTDB 214 subset)
+A0A3N6M7T8,A0A3N6M7T8,NZ_REFZ01000024.1_27,WP_124193256.1@GCF_003841465.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrarchaeobius,Natrarchaeobius chitinivorans A,Natrarchaeobius chitinivorans,279.0,DB prokaryotes (GTDB 214 subset)
+A0A1W6ALC8,A0A1W6ALC8,NZ_JNCS01000004.1_296,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema altunense,Natrinema altunense,283.0,Wider GTDB 214
+WP_007110057.1@GCF_000731985.1,,,WP_007110057.1@GCF_000731985.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema altunense,Natrinema altunense,248.0,DB prokaryotes (GTDB 214 subset)
+WP_241432498.1@GCF_000337175.1,,NZ_AOIJ01000052.1_25,WP_241432498.1@GCF_000337175.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema gari,Natrinema gari JCM 14663,114.0,DB prokaryotes (GTDB 214 subset)
+A0A7D5KJY3,A0A7D5KJY3,NZ_CP058601.1_2884,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema halophilum,Natrinema halophilum,286.0,Wider GTDB 214
+A0A7D5KXX8,A0A7D5KXX8,NZ_CP058601.1_2716,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema halophilum,Natrinema halophilum,296.0,Wider GTDB 214
+OAQ51225.1@GCA_000690595.2,,JHUT02000017.1_13,OAQ51225.1@GCA_000690595.2,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema mahii,Haloterrigena mahii,241.0,DB prokaryotes (GTDB 214 subset)
+L9ZA08,L9ZA08,NZ_AOII01000014.1_48,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pallidum,Natrinema pallidum DSM 3751,241.0,Wider GTDB 214
+WP_083864448.1@GCF_000337615.1,,,WP_083864448.1@GCF_000337615.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pallidum,Natrinema pallidum DSM 3751,258.0,DB prokaryotes (GTDB 214 subset)
+WP_083864503.1@GCF_000337615.1,,NZ_AOII01000036.1_36,WP_083864503.1@GCF_000337615.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pallidum,Natrinema pallidum DSM 3751,264.0,DB prokaryotes (GTDB 214 subset)
+L0JJ00,L0JJ00,NC_019962.1_354,WP_015298689.1@GCF_000230735.2,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pellirubrum,Natrinema pellirubrum DSM 15624,273.0,DB prokaryotes (GTDB 214 subset)
+L0JNK8,L0JNK8,NC_019962.1_2078,WP_015299009.1@GCF_000230735.2,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pellirubrum,Natrinema pellirubrum DSM 15624,264.0,DB prokaryotes (GTDB 214 subset)
+L0JQ08,L0JQ08,NC_019962.1_3778,WP_015299281.1@GCF_000230735.2,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pellirubrum,Natrinema pellirubrum DSM 15624,294.0,DB prokaryotes (GTDB 214 subset)
+WP_081597641.1@GCF_000230735.2,,NC_019962.1_2354,WP_081597641.1@GCF_000230735.2,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema pellirubrum,Natrinema pellirubrum DSM 15624,270.0,DB prokaryotes (GTDB 214 subset)
+NZ_CP084472.1_3305,,NZ_CP084472.1_3305,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema sp020405225,,288.0,Wider GTDB 214
+ELZ16389.1@GCA_000337115.1,,AOIR01000031.1_72,ELZ16389.1@GCA_000337115.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema thermotolerans,Haloterrigena thermotolerans DSM 11552,273.0,DB prokaryotes (GTDB 214 subset)
+AOIR01000038.1_26,,AOIR01000038.1_26,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema thermotolerans,,298.0,Wider GTDB 214
+L0JZR0,L0JZR0,NC_019974.1_1502,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natronococcus,Natronococcus occultus,Natronococcus occultus SP4,241.0,Wider GTDB 214
+WP_157224598.1@GCF_000328685.1,,,WP_157224598.1@GCF_000328685.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natronococcus,Natronococcus occultus,Natronococcus occultus SP4,264.0,DB prokaryotes (GTDB 214 subset)
+A0A1H6FZD9,A0A1H6FZD9,NZ_FNWL01000002.1_725,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natronorubrum,Natronorubrum sediminis,Natronorubrum sediminis,299.0,Wider GTDB 214
+WP_175459731.1@GCF_900108095.1,,,WP_175459731.1@GCF_900108095.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natronorubrum,Natronorubrum sediminis,Natronorubrum sediminis,289.0,DB prokaryotes (GTDB 214 subset)
+L9VJX3,L9VJX3,NZ_KB913017.1_495,WP_006092146.1@GCF_000383975.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natronorubrum,Natronorubrum tibetense,Natronorubrum tibetense GA33,274.0,DB prokaryotes (GTDB 214 subset)
+CP040678.1_2475@GCA_005954745.1,,,CP040678.1_2475@GCA_005954745.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,QS-9-68-17,Halostella,Halostella pelagica,Halostella pelagica,295.0,DB prokaryotes (GTDB 214 subset)
+CP040678.1_2475,,CP040678.1_2475,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,QS-9-68-17,Halostella,Halostella pelagica,,295.0,Wider GTDB 214
+SKSD01000001.1_94@GCA_007118145.1,,,SKSD01000001.1_94@GCA_007118145.1,Archaea,Halobacteriota,Halobacteria,Halobacteriales,SKSH01,SKSH01,SKSH01 sp007118145,Halobacteriales archaeon,273.0,DB prokaryotes (GTDB 214 subset)
+SKSD01000001.1_94,,SKSD01000001.1_94,,Archaea,Halobacteriota,Halobacteria,Halobacteriales,SKSH01,SKSH01,SKSH01 sp007118145,,273.0,Wider GTDB 214
+DARA01000066.1_3@GCA_002503135.1,,,DARA01000066.1_3@GCA_002503135.1,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanoculleaceae,UBA207,UBA207 sp002503135,Methanomicrobiaceae archaeon UBA207,180.0,DB prokaryotes (GTDB 214 subset)
+DARA01000066.1_3,,DARA01000066.1_3,,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanoculleaceae,UBA207,UBA207 sp002503135,,180.0,Wider GTDB 214
+NZ_FZMP01000010.1_36,,NZ_FZMP01000010.1_36,,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanoperedenaceae,Methanoperedens,Methanoperedens nitroreducens A,,223.0,Wider GTDB 214
+WP_250867346.1@GCF_023684405.1,,,WP_250867346.1@GCF_023684405.1,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides,Methanococcoides seepicolus,Methanococcoides seepicolus,235.0,DB prokaryotes (GTDB 214 subset)
+NZ_JAGSOI010000007.1_24,,NZ_JAGSOI010000007.1_24,,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides,Methanococcoides seepicolus,,250.0,Wider GTDB 214
+A0A7Z7FCV1,A0A7Z7FCV1,NZ_FNCA01000005.1_84,,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanolobus,Methanolobus vulcani,Methanolobus vulcani,276.0,Wider GTDB 214
+JAMXHR010000010.1_984,,JAMXHR010000010.1_984,,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina barkeri C,,266.0,Wider GTDB 214
+A0A0E3NKG2,A0A0E3NKG2,NZ_CP009503.1_1446,WP_052722646.1@GCF_000969965.1,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina sp000969965,Methanosarcina sp. WWM596,267.0,DB prokaryotes (GTDB 214 subset)
+A0A2A2HTT2,A0A2A2HTT2,NZ_LMVP01000201.1_31,,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina spelaei,Methanosarcina spelaei,182.0,Wider GTDB 214
+I3ZTP7,I3ZTP7,NC_018015.1_899,WP_014788716.1@GCF_000265525.1,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus cleftensis,Thermococcus cleftensis,313.0,DB prokaryotes (GTDB 214 subset)
+WAKV01000040.1_2,,WAKV01000040.1_2,,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus sp015523185,,312.0,Wider GTDB 214
+NZ_CP102602.1_1598,,NZ_CP102602.1_1598,,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus sp024707485,,323.0,Wider GTDB 214
+NZ_AJLF01000002.1_27,,NZ_AJLF01000002.1_27,,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus zilligii,,329.0,Wider GTDB 214
+WAKV01000040.1_2@GCA_015523185.1,,,WAKV01000040.1_2@GCA_015523185.1,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus sp015523185,Thermococcus sp.,312.0,DB prokaryotes (GTDB 214 subset)
+PWKY01000076.1_62@GCA_003560595.1,,,PWKY01000076.1_62@GCA_003560595.1,Archaea,Thermoplasmatota,Thermoplasmata,PWKY01,PWKY01,PWKY01,PWKY01 sp003560595,Thermoplasmata archaeon,153.0,DB prokaryotes (GTDB 214 subset)
+PWKY01000076.1_62,,PWKY01000076.1_62,,Archaea,Thermoplasmatota,Thermoplasmata,PWKY01,PWKY01,PWKY01,PWKY01 sp003560595,,153.0,Wider GTDB 214
+EQB64365.1@GCA_001856825.1,,,EQB64365.1@GCA_001856825.1,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,GCA-001856825,GCA-001856825,GCA-001856825 sp001856825,Thermoplasmatales archaeon I-plasma,215.0,DB prokaryotes (GTDB 214 subset)
+ATMD01000005.1_21,,ATMD01000005.1_21,,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,GCA-001856825,GCA-001856825,GCA-001856825 sp001856825,,206.0,Wider GTDB 214
+A0A1N5WFV7,A0A1N5WFV7,NZ_LT671858.1_1752,WP_148690163.1@GCF_900083515.1,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Cuniculiplasma,Cuniculiplasma divulgatum,Cuniculiplasma divulgatum,206.0,DB prokaryotes (GTDB 214 subset)
+WP_021792159.1@GCF_000011185.1,,,WP_021792159.1@GCF_000011185.1,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma,Thermoplasma volcanium,Thermoplasma volcanium GSS1,215.0,DB prokaryotes (GTDB 214 subset)
+NC_002689.2_1603,,NC_002689.2_1603,,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma,Thermoplasma volcanium,,230.0,Wider GTDB 214
+DAJC01000023.1_20@GCA_002498845.1,,,DAJC01000023.1_20@GCA_002498845.1,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,UBA509,UBA509 sp002498845,Thermoplasmatales archaeon UBA509,203.0,DB prokaryotes (GTDB 214 subset)
+DAJC01000023.1_19,,DAJC01000023.1_19,,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,UBA509,UBA509 sp002498845,,203.0,Wider GTDB 214
+WP_048057428.1@GCF_000204925.1,,NC_015435.1_643,WP_048057428.1@GCF_000204925.1,Archaea,Thermoproteota,Thermoprotei A,Sulfolobales,Sulfolobaceae,Metallosphaera,Metallosphaera cuprina,Metallosphaera cuprina Ar-4,122.0,DB prokaryotes (GTDB 214 subset)
+A0A0Q0RYC2,A0A0Q0RYC2,,,Archaea,,,,,,,Acidiplasma cupricumulans,233.0,UniProt
+A0A117KLI3,A0A117KLI3,,,Archaea,,,,,,,Archaeoglobus fulgidus,207.0,UniProt
+A0A7J3M086,A0A7J3M086,,,Archaea,,,,,,,Archaeoglobus fulgidus,155.0,UniProt
+A0A075WFM8,A0A075WFM8,,,Archaea,,,,,,,Archaeoglobus fulgidus DSM 8774,308.0,UniProt
+A0A284VIX2,A0A284VIX2,,,Archaea,,,,,,,Candidatus Methanoperedens nitroreducens,199.0,UniProt
+A0A1R4A9B7,A0A1R4A9B7,,,Archaea,,,,,,,Cuniculiplasma divulgatum,229.0,UniProt
+A0A7K4FLI4,A0A7K4FLI4,,,Archaea,,,,,,,Ferroplasma acidiphilum,215.0,UniProt
+T0NDA5,T0NDA5,,,Archaea,,,,,,,Ferroplasma sp. Type II,229.0,UniProt
+A0A7C3YPM0,A0A7C3YPM0,,,Archaea,,,,,,,Geoglobus ahangari,50.0,UniProt
+A0A161XFS4,A0A161XFS4,,,Archaea,,,,,,,Haladaptatus sp. R4,232.0,UniProt
+A0A841HCK3,A0A841HCK3,,,Archaea,,,,,,,Halobacterium salinarum (Halobacterium halobium),242.0,UniProt
+A0A841HDW6,A0A841HDW6,,,Archaea,,,,,,,Halobacterium salinarum (Halobacterium halobium),253.0,UniProt
+B0R494,B0R494,,,Archaea,,,,,,,Halobacterium salinarum (strain ATCC 29341 / DSM 671 / R1),254.0,UniProt
+A0A4D6GVY6,A0A4D6GVY6,,,Archaea,,,,,,,Halobacterium salinarum (strain ATCC 33171 / DSM 3754 / JCM 8978 / NBRC 102687 / NCIMB 764 / 91-R6),242.0,UniProt
+A0A4D6GZZ5,A0A4D6GZZ5,,,Archaea,,,,,,,Halobacterium salinarum (strain ATCC 33171 / DSM 3754 / JCM 8978 / NBRC 102687 / NCIMB 764 / 91-R6),296.0,UniProt
+A0A510N5R3,A0A510N5R3,,,Archaea,,,,,,,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1) (Halobacterium halobium),254.0,UniProt
+Q9HHM0,Q9HHM0,,,Archaea,,,,,,,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1) (Halobacterium halobium),253.0,UniProt
+P83716,P83716,,,Archaea,,,,,,,Halobacterium sp. (strain AS7092),283.0,UniProt
+A0A895AV76,A0A895AV76,,,Archaea,,,,,,,Halobacterium sp. BOL4-2,264.0,UniProt
+A0A895AGW4,A0A895AGW4,,,Archaea,,,,,,,Halobacterium sp. GSL-19,298.0,UniProt
+A0A895AJV8,A0A895AJV8,,,Archaea,,,,,,,Halobacterium sp. GSL-19,296.0,UniProt
+M0N127,M0N127,,,Archaea,,,,,,,Halococcus salifodinae DSM 8989,168.0,UniProt
+A0A3A5JHE5,A0A3A5JHE5,,,Archaea,,,,,,,Halococcus sp. IIIV-5B,322.0,UniProt
+A0A3A5JJX3,A0A3A5JJX3,,,Archaea,,,,,,,Halococcus sp. IIIV-5B,271.0,UniProt
+A0A6C0UTI0,A0A6C0UTI0,,,Archaea,,,,,,,Haloferax alexandrinus,306.0,UniProt
+M0HYN6,M0HYN6,,,Archaea,,,,,,,Haloferax alexandrinus JCM 10717,306.0,UniProt
+A0A0K1IUZ8,A0A0K1IUZ8,,,Archaea,,,,,,,Haloferax gibbonsii,306.0,UniProt
+M0H5W0,M0H5W0,,,Archaea,,,,,,,Haloferax gibbonsii (strain ATCC 33959 / DSM 4427 / JCM 8863 / NBRC 102184 / NCIMB 2188 / Ma 2.38),306.0,UniProt
+A0A1H7T849,A0A1H7T849,,,Archaea,,,,,,,Haloferax larsenii,310.0,UniProt
+M0H930,M0H930,,,Archaea,,,,,,,Haloferax larsenii JCM 13917,296.0,UniProt
+M0GM17,M0GM17,,,Archaea,,,,,,,Haloferax lucentense (strain DSM 14919 / JCM 9276 / NCIMB 13854 / Aa 2.2) (Haloferax alicantei),306.0,UniProt
+A0A842PTS4,A0A842PTS4,,,Archaea,,,,,,,Haloferax sp. AS1,306.0,UniProt
+M0GN70,M0GN70,,,Archaea,,,,,,,Haloferax sp. ATCC BAA-644,306.0,UniProt
+M0FJY7,M0FJY7,,,Archaea,,,,,,,Haloferax sp. ATCC BAA-645,306.0,UniProt
+M0FGL7,M0FGL7,,,Archaea,,,,,,,Haloferax sp. ATCC BAA-646,306.0,UniProt
+A0A498EAK4,A0A498EAK4,,,Archaea,,,,,,,Haloferax sp. Atlit-105R,306.0,UniProt
+A0A498DZ70,A0A498DZ70,,,Archaea,,,,,,,Haloferax sp. Atlit-109R,306.0,UniProt
+A0A371LSZ9,A0A371LSZ9,,,Archaea,,,,,,,Haloferax sp. Atlit-10N,171.0,UniProt
+A0A371KIN0,A0A371KIN0,,,Archaea,,,,,,,Haloferax sp. Atlit-24N,306.0,UniProt
+A0A371KPK0,A0A371KPK0,,,Archaea,,,,,,,Haloferax sp. Atlit-47N,306.0,UniProt
+A0A371K9U1,A0A371K9U1,,,Archaea,,,,,,,Haloferax sp. Atlit-48N,306.0,UniProt
+A0A371LX49,A0A371LX49,,,Archaea,,,,,,,Haloferax sp. Atlit-4N,306.0,UniProt
+L5NYT2,L5NYT2,,,Archaea,,,,,,,Haloferax sp. BAB-2207,306.0,UniProt
+A0A558GC35,A0A558GC35,,,Archaea,,,,,,,Haloferax volcanii (Halobacterium volcanii),306.0,UniProt
+A0A384L8J8,A0A384L8J8,,,Archaea,,,,,,,Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) (Halobacterium volcanii),305.0,UniProt
+D4GQY8,D4GQY8,,,Archaea,,,,,,,Haloferax volcanii (strain ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2) (Halobacterium volcanii),305.0,UniProt
+A0A482T740,A0A482T740,,,Archaea,,,,,,,Halogeometricum borinquense,70.0,UniProt
+A0A6G2FUG1,A0A6G2FUG1,,,Archaea,,,,,,,Halogeometricum sp. CBA1124,296.0,UniProt
+A0A4D6KBW0,A0A4D6KBW0,,,Archaea,,,,,,,Halomicrobium mukohataei,316.0,UniProt
+A0A847UEQ4,A0A847UEQ4,,,Archaea,,,,,,,Halomicrobium mukohataei,169.0,UniProt
+C7P188,C7P188,,,Archaea,,,,,,,Halomicrobium mukohataei (strain ATCC 700874 / DSM 12286 / JCM 9738 / NCIMB 13541) (Haloarcula mukohataei),254.0,UniProt
+A0A5Q0UL39,A0A5Q0UL39,,,Archaea,,,,,,,Halomicrobium sp. LC1Hm,237.0,UniProt
+A0A5P8LW38,A0A5P8LW38,,,Archaea,,,,,,,Halomicrobium sp. ZPS1,316.0,UniProt
+A0A8J8GIP9,A0A8J8GIP9,,,Archaea,,,,,,,Haloterrigena gelatinilytica,248.0,UniProt
+A0A8T8DWK0,A0A8T8DWK0,,,Archaea,,,,,,,Haloterrigena salifodinae,315.0,UniProt
+A0A8T8E6W5,A0A8T8E6W5,,,Archaea,,,,,,,Haloterrigena salifodinae,248.0,UniProt
+A0A1W6ALD9,A0A1W6ALD9,,,Archaea,,,,,,,Haloterrigena salina,275.0,UniProt
+M0CHN6,M0CHN6,,,Archaea,,,,,,,Haloterrigena salina JCM 13891,277.0,UniProt
+M0CHT2,M0CHT2,,,Archaea,,,,,,,Haloterrigena salina JCM 13891,248.0,UniProt
+A0A1W6ALD3,A0A1W6ALD3,,,Archaea,,,,,,,Haloterrigena turkmenica,283.0,UniProt
+A0A9E5D9C8,A0A9E5D9C8,,,Archaea,,,,,,,Methanococcoides seepicolus,235.0,UniProt
+A0A6C0VKD2,A0A6C0VKD2,,,Archaea,,,,,,,Methanosarcina mazei (Methanosarcina frisia),184.0,UniProt
+A0A482Y060,A0A482Y060,,,Archaea,,,,,,,Natrinema altunense,152.0,UniProt
+A0A482Y2L7,A0A482Y2L7,,,Archaea,,,,,,,Natrinema altunense,301.0,UniProt
+L9ZDM4,L9ZDM4,,,Archaea,,,,,,,Natrinema altunense (strain JCM 12890 / CGMCC 1.3731 / AJ2),248.0,UniProt
+A0A1W6ALD1,A0A1W6ALD1,,,Archaea,,,,,,,Natrinema ejinorense,283.0,UniProt
+L9Z1R6,L9Z1R6,,,Archaea,,,,,,,Natrinema gari JCM 14663,133.0,UniProt
+A0A1W6ALE0,A0A1W6ALE0,,,Archaea,,,,,,,Natrinema hispanicum,217.0,UniProt
+A0A1W6ALE1,A0A1W6ALE1,,,Archaea,,,,,,,Natrinema pallidum,217.0,UniProt
+A0A4P9TFS7,A0A4P9TFS7,,,Archaea,,,,,,,Natrinema pallidum,298.0,UniProt
+A0A4P9TIX4,A0A4P9TIX4,,,Archaea,,,,,,,Natrinema pallidum,133.0,UniProt
+L0JLR2,L0JLR2,,,Archaea,,,,,,,Natrinema pellirubrum (strain DSM 15624 / CIP 106293 / JCM 10476 / NCIMB 786 / 157),298.0,UniProt
+L9Y9U7,L9Y9U7,,,Archaea,,,,,,,Natrinema pellirubrum (strain DSM 15624 / CIP 106293 / JCM 10476 / NCIMB 786 / 157),286.0,UniProt
+A0A1W6ALC4,A0A1W6ALC4,,,Archaea,,,,,,,Natrinema salaciae,283.0,UniProt
+I7BHG2,I7BHG2,,,Archaea,,,,,,,Natrinema sp. (strain J7-2),133.0,UniProt
+A0A0K0KFP1,A0A0K0KFP1,,,Archaea,,,,,,,Natrinema sp. SI14,283.0,UniProt
+A0A0K0KFY8,A0A0K0KFY8,,,Archaea,,,,,,,Natrinema sp. SI4,283.0,UniProt
+A0A0K0KG39,A0A0K0KG39,,,Archaea,,,,,,,Natrinema sp. SSI3,283.0,UniProt
+A0A0K0KFQ3,A0A0K0KFQ3,,,Archaea,,,,,,,Natrinema sp. SSI9,275.0,UniProt
+A0A0K0KFP9,A0A0K0KFP9,,,Archaea,,,,,,,Natrinema sp. SWI15,283.0,UniProt
+A0A0K0KGM5,A0A0K0KGM5,,,Archaea,,,,,,,Natrinema sp. SWI6,283.0,UniProt
+A0A1W6ALB1,A0A1W6ALB1,,,Archaea,,,,,,,Natrinema thermotolerans,283.0,UniProt
+A0A1W6ALE4,A0A1W6ALE4,,,Archaea,,,,,,,Natrinema thermotolerans,283.0,UniProt
+A0AAF0T0E6,A0AAF0T0E6,,,Archaea,,,,,,,Natrinema thermotolerans,170.0,UniProt
+A0A1W6ALE2,A0A1W6ALE2,,,Archaea,,,,,,,Natrinema versiforme,217.0,UniProt
+A0A3G8DRD6,A0A3G8DRD6,,,Archaea,,,,,,,Saccharolobus solfataricus (Sulfolobus solfataricus),87.0,UniProt
+A0A8J8EMF9,A0A8J8EMF9,,,Archaea,,,,,,,Thermococcus sp. GR4,326.0,UniProt
+A0A8J8JIG8,A0A8J8JIG8,,,Archaea,,,,,,,Thermococcus sp. GR5,326.0,UniProt
+A0A8J8DYP0,A0A8J8DYP0,,,Archaea,,,,,,,Thermococcus sp. GR6,323.0,UniProt
+A0A8J8DY53,A0A8J8DY53,,,Archaea,,,,,,,Thermococcus sp. GR7,326.0,UniProt
+A0AAE4NU05,A0AAE4NU05,,,Archaea,,,,,,,Thermococcus waiotapuensis,329.0,UniProt
+Q978B7,Q978B7,,,Archaea,,,,,,,Thermoplasma volcanium (strain ATCC 51530 / DSM 4299 / JCM 9571 / NBRC 15438 / GSS1),233.0,UniProt
+T0MSV0,T0MSV0,,,Archaea,,,,,,,Thermoplasmatales archaeon I-plasma,215.0,UniProt
+U1PME0,U1PME0,,,Archaea,,,,,,,halophilic archaeon J07HB67,346.0,UniProt
+U1N0A7,U1N0A7,,,Archaea,,,,,,,halophilic archaeon J07HX5,90.0,UniProt
+A0A8G1J0K7,A0A8G1J0K7,NZ_JAJFAX010000001.1_346,WP_228090750.1@GCF_019710475.1,Bacteria,Actinomycetota,Actinomycetia,Mycobacteriales,Micromonosporaceae,Glycomyces,Glycomyces sp019710475,Glycomyces sp. TRM65418,246.0,DB prokaryotes (GTDB 214 subset)
+JALFAQ010000035.1_29,,JALFAQ010000035.1_29,,Bacteria,Actinomycetota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Corynebacterium,Corynebacterium glucuronolyticum A,,206.0,Wider GTDB 214
+NZ_CP068159.1_483,,NZ_CP068159.1_483,,Bacteria,Actinomycetota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Corynebacterium,Corynebacterium riegelii,,254.0,Wider GTDB 214
+CALUAK010000087.1_2,,CALUAK010000087.1_2,,Bacteria,Actinomycetota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Corynebacterium,Corynebacterium sp943914015,,122.0,Wider GTDB 214
+A0A2A8V226,A0A2A8V226,NZ_NTUP01000066.1_457,,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae B,Rossellomorea,Rossellomorea sp002561455,Bacillus sp. AFS015802,257.0,Wider GTDB 214
+R9C692,R9C692,NZ_JABBPK010000001.1_711,WP_016202224.1@GCF_012933555.1,Bacteria,Bacillota,Bacilli,Bacillales,DSM-18226,Niallia,Niallia alba,Niallia alba,142.0,DB prokaryotes (GTDB 214 subset)
+A0A0U2Z4M8,A0A0U2Z4M8,NZ_CP013659.2_504,,Bacteria,Bacillota,Bacilli,Bacillales,Planococcaceae,Planococcus,Planococcus rifietoensis,Planococcus rifietoensis,261.0,Wider GTDB 214
+NZ_JAAMTH010000001.1_3313,,NZ_JAAMTH010000001.1_3313,,Bacteria,Bacillota,Bacilli,Bacillales,Planococcaceae,Planococcus,Planococcus sp018283455,,257.0,Wider GTDB 214
+NZ_JAAMTH010000001.1_858,,NZ_JAAMTH010000001.1_858,,Bacteria,Bacillota,Bacilli,Bacillales,Planococcaceae,Planococcus,Planococcus sp018283455,,261.0,Wider GTDB 214
+NZ_BORP01000008.1_88,,NZ_BORP01000008.1_88,,Bacteria,Bacillota,Bacilli,Bacillales D,Amphibacillaceae,Paucisalibacillus,Paucisalibacillus bavariensis,,125.0,Wider GTDB 214
+A0A0B0D932,A0A0B0D932,NZ_JRNX01000089.1_3,,Bacteria,Bacillota,Bacilli,Bacillales D,Halobacillaceae,Halobacillus,Halobacillus sp000786645,Halobacillus sp. BBL2006,198.0,Wider GTDB 214
+L5NAY5,L5NAY5,NZ_CP048117.1_3818,WP_008634360.1@GCF_000469135.2,Bacteria,Bacillota,Bacilli,Bacillales D,Halobacillaceae,Halobacillus,Halobacillus sp001592845,Bacillus sp. SB49,262.0,DB prokaryotes (GTDB 214 subset)
+NZ_JAIEZV010000002.1_369,,NZ_JAIEZV010000002.1_369,,Bacteria,Bacillota,Bacilli,Bacillales D,Halobacillaceae,Halobacillus,Halobacillus sp019599545,,259.0,Wider GTDB 214
+WP_082233103.1@GCF_900166625.1,,NZ_LT800499.1_1151,WP_082233103.1@GCF_900166625.1,Bacteria,Bacillota,Bacilli,Bacillales D,Halobacillaceae,Halobacillus A,Halobacillus A massiliensis,Halobacillus massiliensis,261.0,DB prokaryotes (GTDB 214 subset)
+A0A1G8NNL8,A0A1G8NNL8,NZ_KZ614149.1_2911,WP_091587091.1@GCF_002886255.1,Bacteria,Bacillota,Bacilli,Bacillales H,Marinococcaceae,Alteribacillus,Alteribacillus bidgolensis,Alteribacillus bidgolensis,265.0,DB prokaryotes (GTDB 214 subset)
+A0A2W0H8Y2,A0A2W0H8Y2,NZ_PDOF01000001.1_643,WP_110516892.1@GCF_003226345.1,Bacteria,Bacillota,Bacilli,Bacillales H,Salisediminibacteriaceae,Alteribacter,Alteribacter lacisalsi,Bacillus lacisalsi,262.0,DB prokaryotes (GTDB 214 subset)
+WP_212922126.1@GCF_018333235.1,,,WP_212922126.1@GCF_018333235.1,Bacteria,Bacillota,Bacilli,Bacillales_D,Amphibacillaceae,Paucisalibacillus,Paucisalibacillus bavariensis,Ornithinibacillus bavariensis,124.0,DB prokaryotes (GTDB 214 subset)
+WP_149453579.1@GCF_900538055.1,,,WP_149453579.1@GCF_900538055.1,Bacteria,Bacillota,Bacilli,RES148,Pasteuriaceae,Pasteuria,Pasteuria penetrans,Pasteuria penetrans,313.0,DB prokaryotes (GTDB 214 subset)
+A0A2K4FEA0,A0A2K4FEA0,NZ_PPPX01000001.1_513,,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus argensis,Staphylococcus argensis,244.0,Wider GTDB 214
+WP_103159623.1@GCF_002901945.1,,NZ_PPQK01000076.1_1,WP_103159623.1@GCF_002901945.1,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus chromogenes,Staphylococcus chromogenes,244.0,DB prokaryotes (GTDB 214 subset)
+A0A447YVF0,A0A447YVF0,NZ_LR134263.1_321,,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus delphini,,121.0,Wider GTDB 214
+A0A0H2VGU6,A0A0H2VGU6,NZ_AP019721.1_929,WP_002456424.1@GCF_006742205.1,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis,244.0,DB prokaryotes (GTDB 214 subset)
+A0A380FY09,A0A380FY09,NZ_PPQH01000083.1_2,,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus intermedius,Staphylococcus intermedius NCTC 11048,227.0,Wider GTDB 214
+CALTXP010000111.1_2,,CALTXP010000111.1_2,,Bacteria,Bacillota A,Clostridia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus sp943913325,Staphylococcus epidermidis,244.0,DB prokaryotes (GTDB 214 subset)
+A0A972G812,A0A972G812,WYDT01000002.1_38,NOK57773.1@GCA_013122435.1,Bacteria,Chloroflexota,Chloroflexia,Chloroflexales,Roseiflexaceae,AL-N1,AL-N1 sp013122435,Chloroflexi bacterium AL-N1,117.0,DB prokaryotes (GTDB 214 subset)
+I4EKE5,I4EKE5,NZ_CAGS01000398.1_7,WP_008479858.1@GCF_000297255.1,Bacteria,Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,Nitrolancea hollandica,Nitrolancea hollandica Lb,292.0,DB prokaryotes (GTDB 214 subset)
+WP_008479876.1@GCF_000297255.1,,,WP_008479876.1@GCF_000297255.1,Bacteria,Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,Nitrolancea hollandica,Nitrolancea hollandica Lb,1438.0,DB prokaryotes (GTDB 214 subset)
+WP_238538535.1@GCF_000297255.1,,NZ_CAGS01000398.1_8,WP_238538535.1@GCF_000297255.1,Bacteria,Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,Nitrolancea hollandica,Nitrolancea hollandica Lb,181.0,DB prokaryotes (GTDB 214 subset)
+NZ_CAGS01000400.1_2,,NZ_CAGS01000400.1_2,,Bacteria,Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,Nitrolancea hollandica,,1457.0,Wider GTDB 214
+MCK4529253.1@GCA_023131835.1,,,MCK4529253.1@GCA_023131835.1,Bacteria,WOR-3,UBA3072,UBA3072,UBA3072,JAGLZA01,JAGLZA01 sp023131835,candidate division WOR-3 bacterium,279.0,DB prokaryotes (GTDB 214 subset)
+JAGLZA010000417.1_6,,JAGLZA010000417.1_6,,Bacteria,WOR-3,UBA3072,UBA3072,UBA3072,JAGLZA01,JAGLZA01 sp023131835,,250.0,Wider GTDB 214
+A0A7C1F7V1,A0A7C1F7V1,,,Bacteria,,,,,,,Ammonifex degensii,162.0,UniProt
+A0A7Z2T0I4,A0A7Z2T0I4,,,Bacteria,,,,,,,Bacillus sp. SB49,144.0,UniProt
+A0A7G7CSN9,A0A7G7CSN9,,,Bacteria,,,,,,,Corynebacterium incognita,57.0,UniProt
+A0A2W5SWS7,A0A2W5SWS7,,,Bacteria,,,,,,,Corynebacterium kroppenstedtii,52.0,UniProt
+A0A0K1RC71,A0A0K1RC71,,,Bacteria,,,,,,,Corynebacterium riegelii,255.0,UniProt
+A0A233V7Q7,A0A233V7Q7,,,Bacteria,,,,,,,Finegoldia magna (Peptostreptococcus magnus),234.0,UniProt
+A0A233VLU4,A0A233VLU4,,,Bacteria,,,,,,,Finegoldia magna (Peptostreptococcus magnus),234.0,UniProt
+A0A929TID4,A0A929TID4,,,Bacteria,,,,,,,Lachnospiraceae bacterium,235.0,UniProt
+A0A7Y0K5F6,A0A7Y0K5F6,,,Bacteria,,,,,,,Niallia alba,142.0,UniProt
+I4EKE7,I4EKE7,,,Bacteria,,,,,,,Nitrolancea hollandica Lb,177.0,UniProt
+I4EKF2,I4EKF2,,,Bacteria,,,,,,,Nitrolancea hollandica Lb,1438.0,UniProt
+I4EMP9,I4EMP9,,,Bacteria,,,,,,,Nitrolancea hollandica Lb,91.0,UniProt
+A0A919XDK8,A0A919XDK8,,,Bacteria,,,,,,,Ornithinibacillus bavariensis,119.0,UniProt
+A0A345NIG9,A0A345NIG9,,,Bacteria,,,,,,,Ornithinimicrobium avium,194.0,UniProt
+A0A2A4HF10,A0A2A4HF10,,,Bacteria,,,,,,,Staphylococcus delphini,121.0,UniProt
+A0A509LRT7,A0A509LRT7,,,Bacteria,,,,,,,Staphylococcus epidermidis,244.0,UniProt
+A0A8I0W9I0,A0A8I0W9I0,,,Bacteria,,,,,,,Staphylococcus epidermidis,244.0,UniProt
+Q5HNA8,Q5HNA8,,,Bacteria,,,,,,,Staphylococcus epidermidis (strain ATCC 35984 / RP62A),244.0,UniProt
+A0A1Z3U3W1,A0A1Z3U3W1,,,Bacteria,,,,,,,Staphylococcus pettenkoferi,244.0,UniProt
+A0A1E9A322,A0A1E9A322,,,Bacteria,,,,,,,Staphylococcus sp. HMSC071G07,244.0,UniProt
+A0A9Q5P106,A0A9Q5P106,,,Bacteria,,,,,,,Staphylococcus sp. HMSC073E10,244.0,UniProt

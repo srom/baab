@@ -1,0 +1,613 @@
+IQ-TREE version 3.0.1 for MacOS ARM 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    MRC-11495.local (SSE4.2, 16 GB RAM)
+Command: iqtree -s HalC8_GTDB_r214_hits.aln.clip.fasta -pre Halocin_C8_full -m MFP -B 1000 -T 7
+Seed:    650603 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Sep 12 14:20:08 2025
+Kernel:  SSE2 - 7 threads (8 CPU cores detected)
+
+Reading alignment file HalC8_GTDB_r214_hits.aln.clip.fasta ... Fasta format detected
+Reading fasta file: done in 0.000746012 secs using 86.73% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.000524044 secs using 71.56% CPU
+Alignment has 108 sequences with 523 columns, 503 distinct patterns
+457 parsimony-informative, 0 singleton sites, 66 constant sites
+WARNING: Some sequence names are changed as follows:
+AEN07551.1@GCA_000224475.1 -> AEN07551.1_GCA_000224475.1
+EQB64365.1@GCA_001856825.1 -> EQB64365.1_GCA_001856825.1
+DAJC01000023.1_20@GCA_002498845.1 -> DAJC01000023.1_20_GCA_002498845.1
+DARA01000066.1_3@GCA_002503135.1 -> DARA01000066.1_3_GCA_002503135.1
+PWKY01000076.1_62@GCA_003560595.1 -> PWKY01000076.1_62_GCA_003560595.1
+CP040678.1_2475@GCA_005954745.1 -> CP040678.1_2475_GCA_005954745.1
+SKSD01000001.1_94@GCA_007118145.1 -> SKSD01000001.1_94_GCA_007118145.1
+WAKV01000040.1_2@GCA_015523185.1 -> WAKV01000040.1_2_GCA_015523185.1
+MCK4529253.1@GCA_023131835.1 -> MCK4529253.1_GCA_023131835.1
+CP100465.1_75@GCA_024227995.1 -> CP100465.1_75_GCA_024227995.1
+MCS7130230.1@GCA_025058955.1 -> MCS7130230.1_GCA_025058955.1
+MCS7131040.1@GCA_025058955.1 -> MCS7131040.1_GCA_025058955.1
+WP_148183473.1@GCF_000008665.1 -> WP_148183473.1_GCF_000008665.1
+WP_021792159.1@GCF_000011185.1 -> WP_021792159.1_GCF_000011185.1
+WP_008479876.1@GCF_000297255.1 -> WP_008479876.1_GCF_000297255.1
+WP_157224598.1@GCF_000328685.1 -> WP_157224598.1_GCF_000328685.1
+WP_004975848.1@GCF_000336775.1 -> WP_004975848.1_GCF_000336775.1
+WP_008892994.1@GCF_000337495.1 -> WP_008892994.1_GCF_000337495.1
+WP_008893279.1@GCF_000337495.1 -> WP_008893279.1_GCF_000337495.1
+WP_083864448.1@GCF_000337615.1 -> WP_083864448.1_GCF_000337615.1
+WP_007110057.1@GCF_000731985.1 -> WP_007110057.1_GCF_000731985.1
+WP_161958287.1@GCF_003430825.1 -> WP_161958287.1_GCF_003430825.1
+WP_211338378.1@GCF_003977755.1 -> WP_211338378.1_GCF_003977755.1
+WP_135825305.1@GCF_004765785.1 -> WP_135825305.1_GCF_004765785.1
+WP_135854137.1@GCF_004765815.2 -> WP_135854137.1_GCF_004765815.2
+WP_136361253.1@GCF_008124605.1 -> WP_136361253.1_GCF_008124605.1
+WP_174681857.1@GCF_013342145.1 -> WP_174681857.1_GCF_013342145.1
+WP_212922126.1@GCF_018333235.1 -> WP_212922126.1_GCF_018333235.1
+WP_234299077.1@GCF_021431925.1 -> WP_234299077.1_GCF_021431925.1
+WP_250867346.1@GCF_023684405.1 -> WP_250867346.1_GCF_023684405.1
+WP_175459731.1@GCF_900108095.1 -> WP_175459731.1_GCF_900108095.1
+WP_197427780.1@GCF_900115675.1 -> WP_197427780.1_GCF_900115675.1
+WP_149453579.1@GCF_900538055.1 -> WP_149453579.1_GCF_900538055.1
+WP_135663906.1@GCF_900880625.1 -> WP_135663906.1_GCF_900880625.1
+WP_079979488.1@GCF_004799665.1 -> WP_079979488.1_GCF_004799665.1
+WP_103159623.1@GCF_002901945.1 -> WP_103159623.1_GCF_002901945.1
+WP_082233103.1@GCF_900166625.1 -> WP_082233103.1_GCF_900166625.1
+WP_143311560.1@GCF_900196725.1 -> WP_143311560.1_GCF_900196725.1
+WP_253478286.1@GCF_024138125.1 -> WP_253478286.1_GCF_024138125.1
+WP_248907559.1@GCF_023276375.1 -> WP_248907559.1_GCF_023276375.1
+WP_211655516.1@GCF_018283455.1 -> WP_211655516.1_GCF_018283455.1
+WP_048057428.1@GCF_000204925.1 -> WP_048057428.1_GCF_000204925.1
+NZ_LR134263.1_321@GCF_900636325.1 -> NZ_LR134263.1_321_GCF_900636325.1
+WP_110516892.1@GCF_003226345.1 -> WP_110516892.1_GCF_003226345.1
+WP_098354128.1@GCF_002561455.1 -> WP_098354128.1_GCF_002561455.1
+WP_163522828.1@GCF_010747475.1 -> WP_163522828.1_GCF_010747475.1
+WP_195156013.1@GCF_000334895.1 -> WP_195156013.1_GCF_000334895.1
+WP_081597641.1@GCF_000230735.2 -> WP_081597641.1_GCF_000230735.2
+AOIR01000038.1_26@GCA_000337115.1 -> AOIR01000038.1_26_GCA_000337115.1
+WP_010479029.1@GCF_000258515.1 -> WP_010479029.1_GCF_000258515.1
+WP_012943185.1@GCF_000025325.1 -> WP_012943185.1_GCF_000025325.1
+WP_258083318.1@GCF_024707485.1 -> WP_258083318.1_GCF_024707485.1
+WP_049926653.1@GCF_000455345.1 -> WP_049926653.1_GCF_000455345.1
+WP_228090750.1@GCF_019710475.1 -> WP_228090750.1_GCF_019710475.1
+WP_035542916.1@GCF_000786645.1 -> WP_035542916.1_GCF_000786645.1
+WP_012945653.1@GCF_000025325.1 -> WP_012945653.1_GCF_000025325.1
+WP_008634360.1@GCF_000469135.2 -> WP_008634360.1_GCF_000469135.2
+WP_211653467.1@GCF_018283455.1 -> WP_211653467.1_GCF_018283455.1
+NOK57773.1@GCA_013122435.1 -> NOK57773.1_GCA_013122435.1
+WP_006092146.1@GCF_000383975.1 -> WP_006092146.1_GCF_000383975.1
+WP_014788716.1@GCF_000265525.1 -> WP_014788716.1_GCF_000265525.1
+WP_226039787.1@GCF_020405225.1 -> WP_226039787.1_GCF_020405225.1
+WP_009762310.1@GCF_000230955.2 -> WP_009762310.1_GCF_000230955.2
+WP_161606962.1@GCF_000336935.1 -> WP_161606962.1_GCF_000336935.1
+WP_008479858.1@GCF_000297255.1 -> WP_008479858.1_GCF_000297255.1
+WP_136361702.1@GCF_008124605.1 -> WP_136361702.1_GCF_008124605.1
+ELZ16389.1@GCA_000337115.1 -> ELZ16389.1_GCA_000337115.1
+WP_231186491.1@GCF_021083305.1 -> WP_231186491.1_GCF_021083305.1
+WP_002456424.1@GCF_006742205.1 -> WP_002456424.1_GCF_006742205.1
+WP_238538535.1@GCF_000297255.1 -> WP_238538535.1_GCF_000297255.1
+WP_206536420.1@GCF_000336955.1 -> WP_206536420.1_GCF_000336955.1
+CP002989.1_262@GCA_000224475.1 -> CP002989.1_262_GCA_000224475.1
+WP_220584321.1@GCF_019599545.1 -> WP_220584321.1_GCF_019599545.1
+WP_148690163.1@GCF_900083515.1 -> WP_148690163.1_GCF_900083515.1
+WP_164731977.1@GCF_000023965.1 -> WP_164731977.1_GCF_000023965.1
+WP_052722646.1@GCF_000969965.1 -> WP_052722646.1_GCF_000969965.1
+WP_166035560.1@GCF_004087835.1 -> WP_166035560.1_GCF_004087835.1
+WP_016202224.1@GCF_012933555.1 -> WP_016202224.1_GCF_012933555.1
+CALUAK010000087.1_2@GCA_943914015.1 -> CALUAK010000087.1_2_GCA_943914015.1
+WP_153552385.1@GCF_009617995.1 -> WP_153552385.1_GCF_009617995.1
+WP_124193256.1@GCF_003841465.1 -> WP_124193256.1_GCF_003841465.1
+WP_091710089.1@GCF_900100715.1 -> WP_091710089.1_GCF_900100715.1
+WP_015299009.1@GCF_000230735.2 -> WP_015299009.1_GCF_000230735.2
+WP_179261544.1@GCF_013402815.2 -> WP_179261544.1_GCF_013402815.2
+WP_103370993.1@GCF_002902305.1 -> WP_103370993.1_GCF_002902305.1
+NZ_PPQH01000083.1_2@GCF_002902385.1 -> NZ_PPQH01000083.1_2_GCF_002902385.1
+WP_135852295.1@GCF_004765815.2 -> WP_135852295.1_GCF_004765815.2
+WP_202932656.1@GCF_004765815.2 -> WP_202932656.1_GCF_004765815.2
+WP_197427780.1@GCF_002355655.1 -> WP_197427780.1_GCF_002355655.1
+WP_201822017.1@GCF_016728505.1 -> WP_201822017.1_GCF_016728505.1
+WP_083864503.1@GCF_000337615.1 -> WP_083864503.1_GCF_000337615.1
+WP_091587091.1@GCF_002886255.1 -> WP_091587091.1_GCF_002886255.1
+WP_139025500.1@GCF_000376445.1 -> WP_139025500.1_GCF_000376445.1
+WP_095644465.1@GCF_002287235.1 -> WP_095644465.1_GCF_002287235.1
+WP_015298689.1@GCF_000230735.2 -> WP_015298689.1_GCF_000230735.2
+WP_015299281.1@GCF_000230735.2 -> WP_015299281.1_GCF_000230735.2
+ATMD01000005.1_21@GCA_001856825.1 -> ATMD01000005.1_21_GCA_001856825.1
+WP_083870254.1@GCF_000337495.1 -> WP_083870254.1_GCF_000337495.1
+WP_058381518.1@GCF_001465795.2 -> WP_058381518.1_GCF_001465795.2
+WP_082837828.1@GCF_001625445.1 -> WP_082837828.1_GCF_001625445.1
+WP_202935063.1@GCF_004143485.2 -> WP_202935063.1_GCF_004143485.2
+WP_179261808.1@GCF_013402815.2 -> WP_179261808.1_GCF_013402815.2
+WP_004043226.1@GCF_000025685.1 -> WP_004043226.1_GCF_000025685.1
+WP_137685344.1@GCF_005406125.1 -> WP_137685344.1_GCF_005406125.1
+WP_241432498.1@GCF_000337175.1 -> WP_241432498.1_GCF_000337175.1
+WP_208023473.1@GCF_004087835.1 -> WP_208023473.1_GCF_004087835.1
+WP_174682227.1@GCF_013342145.1 -> WP_174682227.1_GCF_013342145.1
+OAQ51225.1@GCA_000690595.2 -> OAQ51225.1_GCA_000690595.2
+
+                                     Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 5.60284e-05 secs using 146.4% CPU
+   1  AEN07551.1_GCA_000224475.1            45.12%    passed     10.69%
+   2  EQB64365.1_GCA_001856825.1            61.57%    failed      0.15%
+   3  DAJC01000023.1_20_GCA_002498845.1     62.52%    failed      0.15%
+   4  DARA01000066.1_3_GCA_002503135.1      66.35%    passed     15.38%
+   5  PWKY01000076.1_62_GCA_003560595.1     73.61%    failed      0.01%
+   6  CP040678.1_2475_GCA_005954745.1       46.46%    failed      0.61%
+   7  SKSD01000001.1_94_GCA_007118145.1     50.29%    passed     23.16%
+   8  WAKV01000040.1_2_GCA_015523185.1      42.64%    failed      0.00%
+   9  MCK4529253.1_GCA_023131835.1          52.01%    failed      0.32%
+  10  CP100465.1_75_GCA_024227995.1         53.73%    passed     50.60%
+  11  MCS7130230.1_GCA_025058955.1          51.43%    failed      0.00%
+  12  MCS7131040.1_GCA_025058955.1          83.56%    failed      0.54%
+  13  WP_148183473.1_GCF_000008665.1        63.48%    passed     35.14%
+  14  WP_021792159.1_GCF_000011185.1        61.57%    failed      0.15%
+  15  WP_008479876.1_GCF_000297255.1        18.36%    failed      0.00%
+  16  WP_157224598.1_GCF_000328685.1        51.82%    passed     21.62%
+  17  WP_004975848.1_GCF_000336775.1        49.14%    passed     18.41%
+  18  WP_008892994.1_GCF_000337495.1        48.57%    passed     19.89%
+  19  WP_008893279.1_GCF_000337495.1        53.15%    failed      3.58%
+  20  WP_083864448.1_GCF_000337615.1        51.43%    passed     53.27%
+  21  WP_007110057.1_GCF_000731985.1        46.85%    passed     20.49%
+  22  WP_161958287.1_GCF_003430825.1        71.70%    failed      1.77%
+  23  WP_211338378.1_GCF_003977755.1        53.15%    passed      6.21%
+  24  WP_135825305.1_GCF_004765785.1        17.97%    failed      0.12%
+  25  WP_135854137.1_GCF_004765815.2        18.16%    failed      0.04%
+  26  WP_136361253.1_GCF_008124605.1        55.45%    passed     19.78%
+  27  WP_174681857.1_GCF_013342145.1        53.15%    failed      1.81%
+  28  WP_212922126.1_GCF_018333235.1        76.86%    failed      3.35%
+  29  WP_234299077.1_GCF_021431925.1        46.08%    failed      0.02%
+  30  WP_250867346.1_GCF_023684405.1        55.83%    passed     24.62%
+  31  WP_175459731.1_GCF_900108095.1        46.85%    passed     35.97%
+  32  WP_197427780.1_GCF_900115675.1        34.42%    passed      5.33%
+  33  WP_149453579.1_GCF_900538055.1        48.37%    failed      0.09%
+  34  WP_135663906.1_GCF_900880625.1        79.35%    passed     12.95%
+  35  WP_079979488.1_GCF_004799665.1        48.18%    passed     45.74%
+  36  WP_103159623.1_GCF_002901945.1        53.92%    failed      0.00%
+  37  WP_082233103.1_GCF_900166625.1        50.67%    failed      4.99%
+  38  WP_143311560.1_GCF_900196725.1        59.08%    passed     67.22%
+  39  WP_253478286.1_GCF_024138125.1        46.27%    failed      0.89%
+  40  WP_248907559.1_GCF_023276375.1        49.33%    passed      6.10%
+  41  WP_211655516.1_GCF_018283455.1        51.43%    failed      2.36%
+  42  WP_048057428.1_GCF_000204925.1        78.20%    failed      0.67%
+  43  NZ_LR134263.1_321_GCF_900636325.1     77.25%    failed      0.09%
+  44  WP_110516892.1_GCF_003226345.1        50.48%    failed      0.27%
+  45  WP_098354128.1_GCF_002561455.1        51.43%    failed      0.92%
+  46  WP_163522828.1_GCF_010747475.1        60.61%    failed      0.79%
+  47  WP_195156013.1_GCF_000334895.1        58.13%    passed      9.41%
+  48  WP_081597641.1_GCF_000230735.2        51.05%    passed      7.33%
+  49  AOIR01000038.1_26_GCA_000337115.1     46.46%    passed     13.30%
+  50  WP_010479029.1_GCF_000258515.1        40.34%    failed      0.03%
+  51  WP_012943185.1_GCF_000025325.1        50.67%    passed     23.31%
+  52  WP_258083318.1_GCF_024707485.1        40.73%    failed      0.00%
+  53  WP_049926653.1_GCF_000455345.1        50.48%    failed      0.76%
+  54  WP_228090750.1_GCF_019710475.1        53.73%    failed      0.14%
+  55  WP_035542916.1_GCF_000786645.1        62.52%    failed      3.75%
+  56  WP_012945653.1_GCF_000025325.1        41.68%    passed     51.32%
+  57  WP_008634360.1_GCF_000469135.2        50.48%    failed      0.40%
+  58  WP_211653467.1_GCF_018283455.1        50.67%    passed      6.29%
+  59  NOK57773.1_GCA_013122435.1            78.20%    failed      3.95%
+  60  WP_006092146.1_GCF_000383975.1        48.37%    passed     18.18%
+  61  WP_014788716.1_GCF_000265525.1        42.45%    failed      0.00%
+  62  WP_226039787.1_GCF_020405225.1        45.70%    passed     23.79%
+  63  WP_009762310.1_GCF_000230955.2        45.12%    passed     10.69%
+  64  WP_161606962.1_GCF_000336935.1        47.42%    passed     25.40%
+  65  WP_008479858.1_GCF_000297255.1        49.52%    failed      0.00%
+  66  WP_136361702.1_GCF_008124605.1        44.93%    passed     79.70%
+  67  ELZ16389.1_GCA_000337115.1            49.33%    passed     17.14%
+  68  WP_231186491.1_GCF_021083305.1        48.57%    passed     68.08%
+  69  WP_002456424.1_GCF_006742205.1        53.92%    failed      0.00%
+  70  WP_238538535.1_GCF_000297255.1        66.73%    failed      0.00%
+  71  WP_206536420.1_GCF_000336955.1        42.26%    passed     17.30%
+  72  CP002989.1_262_GCA_000224475.1        45.12%    passed     10.69%
+  73  WP_220584321.1_GCF_019599545.1        51.05%    failed      0.66%
+  74  WP_148690163.1_GCF_900083515.1        61.95%    failed      2.32%
+  75  WP_164731977.1_GCF_000023965.1        43.79%    passed     82.03%
+  76  WP_052722646.1_GCF_000969965.1        50.67%    passed     20.92%
+  77  WP_166035560.1_GCF_004087835.1        46.85%    passed     36.75%
+  78  WP_016202224.1_GCF_012933555.1        74.57%    failed      0.48%
+  79  CALUAK010000087.1_2_GCA_943914015.1   79.16%    passed     65.68%
+  80  WP_153552385.1_GCF_009617995.1        51.63%    failed      0.63%
+  81  WP_124193256.1_GCF_003841465.1        49.71%    failed      2.07%
+  82  WP_091710089.1_GCF_900100715.1        49.33%    passed     14.27%
+  83  WP_015299009.1_GCF_000230735.2        50.67%    passed      8.57%
+  84  WP_179261544.1_GCF_013402815.2        44.74%    failed      1.30%
+  85  WP_103370993.1_GCF_002902305.1        53.92%    failed      0.00%
+  86  NZ_PPQH01000083.1_2_GCF_002902385.1   57.17%    failed      0.00%
+  87  WP_135852295.1_GCF_004765815.2        45.89%    passed     36.28%
+  88  WP_202932656.1_GCF_004765815.2        46.46%    passed     16.82%
+  89  WP_197427780.1_GCF_002355655.1        37.28%    failed      2.72%
+  90  WP_201822017.1_GCF_016728505.1        54.68%    passed     96.89%
+  91  WP_083864503.1_GCF_000337615.1        50.67%    passed      8.93%
+  92  WP_091587091.1_GCF_002886255.1        53.54%    passed     33.34%
+  93  WP_139025500.1_GCF_000376445.1        48.57%    passed     41.82%
+  94  WP_095644465.1_GCF_002287235.1        66.35%    passed     32.49%
+  95  WP_015298689.1_GCF_000230735.2        48.76%    passed     76.32%
+  96  WP_015299281.1_GCF_000230735.2        45.89%    failed      0.01%
+  97  ATMD01000005.1_21_GCA_001856825.1     61.95%    failed      0.20%
+  98  WP_083870254.1_GCF_000337495.1        41.68%    passed     63.48%
+  99  WP_058381518.1_GCF_001465795.2        50.67%    passed      5.18%
+ 100  WP_082837828.1_GCF_001625445.1        50.86%    passed     35.39%
+ 101  WP_202935063.1_GCF_004143485.2        46.27%    passed     30.86%
+ 102  WP_179261808.1_GCF_013402815.2        46.08%    passed     55.37%
+ 103  WP_004043226.1_GCF_000025685.1        42.64%    failed      0.70%
+ 104  WP_137685344.1_GCF_005406125.1        53.35%    failed      0.76%
+ 105  WP_241432498.1_GCF_000337175.1        78.78%    passed     54.60%
+ 106  WP_208023473.1_GCF_004087835.1        46.46%    passed     51.06%
+ 107  WP_174682227.1_GCF_013342145.1        41.49%    passed     76.01%
+ 108  OAQ51225.1_GCA_000690595.2            54.49%    passed     37.70%
+WARNING: 60 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                 52.32%  51 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: WP_009762310.1_GCF_000230955.2 is identical to AEN07551.1_GCA_000224475.1 but kept for subsequent analysis
+NOTE: WP_021792159.1_GCF_000011185.1 is identical to EQB64365.1_GCA_001856825.1 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000219107 secs using 81.7% CPU
+Identifying sites to remove: done in 0.000400066 secs using 89.74% CPU
+NOTE: 1 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: CP002989.1_262_GCA_000224475.1 (identical to AEN07551.1_GCA_000224475.1) is ignored but added at the end
+Alignment was printed to Halocin_C8_full.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to Halocin_C8_full.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.026 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Optimizing NNI: done in 2.56197 secs using 162% CPU
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -44073.903
+Optimal log-likelihood: -44073.635
+Proportion of invariable sites: 0.013
+Gamma shape alpha: 3.553
+Parameters optimization took 1 rounds (0.182 sec)
+Time for fast ML tree search: 3.758 seconds
+
+NOTE: ModelFinder requires 88 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 523 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            44557.441    211 89536.882    89824.547    90435.653
+  2  LG+I          44496.191    212 89416.381    89707.710    90319.413
+  3  LG+G4         44094.167    212 88612.333    88903.662    89515.365
+  4  LG+I+G4       44073.585    213 88573.169    88868.198    89480.460
+  5  LG+R2         44136.790    213 88699.581    88994.610    89606.871
+  6  LG+R3         44034.594    215 88499.189    88801.729    89414.999
+  7  LG+R4         44024.628    217 88483.257    88793.460    89407.586
+  8  LG+R5         44000.502    219 88439.005    88757.024    89371.853
+  9  LG+R6         43999.712    221 88441.424    88767.417    89382.792
+ 14  LG+I+R2       44104.664    214 88637.328    88936.094    89548.879
+ 15  LG+I+R3       44021.557    216 88475.113    88781.466    89395.183
+ 16  LG+I+R4       44013.696    218 88463.393    88777.485    89391.981
+ 17  LG+I+R5       44013.718    220 88467.436    88789.422    89404.544
+ 30  LG+F+R5       44061.045    238 88598.090    88998.667    89611.870
+ 52  WAG+R5        43954.284    219 88346.569    88664.588    89279.417
+ 74  WAG+F+R5      43952.751    238 88381.503    88782.080    89395.283
+ 96  JTT+R5        44248.065    219 88934.130    89252.150    89866.978
+118  JTT+F+R5      44319.515    238 89115.030    89515.607    90128.810
+140  Q.PFAM+R5     43905.140    219 88248.280    88566.300    89181.128
+162  Q.PFAM+F+R5   44051.105    238 88578.211    88978.788    89591.991
+184  Q.BIRD+R5     44917.538    219 90273.075    90591.095    91205.923
+206  Q.BIRD+F+R5   44950.515    238 90377.031    90777.608    91390.811
+228  Q.MAMMAL+R5   44740.294    219 89918.588    90236.608    90851.436
+250  Q.MAMMAL+F+R5 44729.631    238 89935.263    90335.840    90949.043
+272  Q.INSECT+R5   44399.546    219 89237.092    89555.112    90169.941
+294  Q.INSECT+F+R5 44444.137    238 89364.274    89764.852    90378.055
+316  Q.PLANT+R5    44439.917    219 89317.835    89635.855    90250.683
+338  Q.PLANT+F+R5  44555.388    238 89586.776    89987.353    90600.556
+360  Q.YEAST+R5    44276.277    219 88990.554    89308.574    89923.403
+382  Q.YEAST+F+R5  44390.636    238 89257.272    89657.850    90271.053
+404  JTTDCMUT+R5   44243.944    219 88925.888    89243.908    89858.736
+426  JTTDCMUT+F+R5 44318.200    238 89112.399    89512.977    90126.180
+448  DCMUT+R5      44508.520    219 89455.040    89773.060    90387.889
+470  DCMUT+F+R5    44472.491    238 89420.982    89821.559    90434.762
+492  VT+R5         44004.828    219 88447.656    88765.676    89380.504
+514  VT+F+R5       44014.159    238 88504.318    88904.895    89518.098
+536  PMB+R5        44213.087    219 88864.174    89182.193    89797.022
+558  PMB+F+R5      43991.700    238 88459.399    88859.977    89473.180
+580  BLOSUM62+R5   44227.039    219 88892.078    89210.098    89824.926
+602  BLOSUM62+F+R5 44031.988    238 88539.977    88940.554    89553.757
+624  DAYHOFF+R5    44509.097    219 89456.193    89774.213    90389.042
+646  DAYHOFF+F+R5  44474.377    238 89424.753    89825.331    90438.534
+668  MTREV+R5      46564.973    219 93567.946    93885.965    94500.794
+690  MTREV+F+R5    44746.304    238 89968.607    90369.185    90982.387
+712  MTART+R5      47117.991    219 94673.981    94992.001    95606.829
+734  MTART+F+R5    45585.475    238 91646.951    92047.528    92660.731
+756  MTZOA+R5      46014.821    219 92467.643    92785.662    93400.491
+778  MTZOA+F+R5    45047.733    238 90571.466    90972.043    91585.246
+800  MTMET+R5      46553.899    219 93545.798    93863.817    94478.646
+822  MTMET+F+R5    44884.402    238 90244.803    90645.380    91258.583
+844  MTVER+R5      46664.288    219 93766.577    94084.597    94699.425
+866  MTVER+F+R5    45159.574    238 90795.148    91195.725    91808.928
+888  MTINV+R5      46818.592    219 94075.184    94393.203    95008.032
+910  MTINV+F+R5    44630.328    238 89736.656    90137.234    90750.437
+932  MTMAM+R5      47458.744    219 95355.488    95673.508    96288.336
+954  MTMAM+F+R5    45553.222    238 91582.444    91983.021    92596.224
+976  FLAVI+R5      45627.299    219 91692.598    92010.617    92625.446
+998  FLAVI+F+R5    45419.532    238 91315.064    91715.642    92328.845
+1020  HIVB+R5       45093.809    219 90625.618    90943.638    91558.467
+1042  HIVB+F+R5     44946.262    238 90368.524    90769.101    91382.304
+1064  HIVW+R5       46393.482    219 93224.964    93542.983    94157.812
+1086  HIVW+F+R5     45488.669    238 91453.337    91853.915    92467.118
+1108  FLU+R5        44610.977    219 89659.954    89977.974    90592.802
+1130  FLU+F+R5      44315.101    238 89106.202    89506.779    90119.982
+1152  RTREV+R5      44573.657    219 89585.314    89903.333    90518.162
+1174  RTREV+F+R5    44300.724    238 89077.447    89478.025    90091.227
+1196  CPREV+R5      44196.168    219 88830.336    89148.356    89763.184
+1218  CPREV+F+R5    44283.663    238 89043.326    89443.904    90057.107
+Akaike Information Criterion:           Q.PFAM+R5
+Corrected Akaike Information Criterion: Q.PFAM+R5
+Bayesian Information Criterion:         Q.PFAM+R5
+Best-fit model: Q.PFAM+R5 chosen according to BIC
+
+All model information printed to Halocin_C8_full.model.gz
+CPU time for ModelFinder: 733.251 seconds (0h:12m:13s)
+Wall-clock time for ModelFinder: 183.889 seconds (0h:3m:3s)
+Generating 1000 samples for ultrafast bootstrap (seed: 650603)...
+
+NOTE: 45 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -43921.296
+2. Current log-likelihood: -43899.915
+3. Current log-likelihood: -43899.252
+4. Current log-likelihood: -43899.100
+5. Current log-likelihood: -43898.947
+6. Current log-likelihood: -43898.783
+7. Current log-likelihood: -43898.606
+8. Current log-likelihood: -43898.436
+9. Current log-likelihood: -43898.272
+10. Current log-likelihood: -43898.122
+11. Current log-likelihood: -43897.995
+Optimal log-likelihood: -43897.891
+Site proportion and rates:  (0.036,0.040) (0.056,0.312) (0.224,0.613) (0.274,0.977) (0.411,1.402)
+Parameters optimization took 11 rounds (3.917 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.951874 secs using 671.7% CPU
+Computing ML distances took 0.952120 sec (of wall-clock time) 6.394140 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.000205994 secs using 148.5% CPU
+Constructing RapidNJ tree: done in 0.0116789 secs using 32.89% CPU
+Computing RapidNJ tree took 0.011923 sec (of wall-clock time) 0.004162 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -44038.046
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 1.812 second
+Computing log-likelihood of 98 initial trees ... 9.486 seconds
+Current best score: -43897.891
+
+Do NNI search on 20 best initial trees
+Optimizing NNI: done in 0.714605 secs using 179.7% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -43894.873
+Optimizing NNI: done in 1.99014 secs using 179.1% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -43885.354
+Optimizing NNI: done in 2.26663 secs using 175.5% CPU
+Optimizing NNI: done in 2.75598 secs using 177.1% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -43869.072
+Optimizing NNI: done in 2.13015 secs using 171.6% CPU
+Optimizing NNI: done in 2.21239 secs using 176.6% CPU
+Optimizing NNI: done in 2.13287 secs using 175.2% CPU
+Optimizing NNI: done in 3.09851 secs using 176.2% CPU
+Optimizing NNI: done in 2.74905 secs using 176.3% CPU
+Optimizing NNI: done in 2.32586 secs using 174.2% CPU
+Iteration 10 / LogL: -43898.280 / Time: 0h:3m:45s
+Optimizing NNI: done in 2.45784 secs using 176.5% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 11: -43863.950
+Optimizing NNI: done in 2.61127 secs using 178.9% CPU
+Optimizing NNI: done in 2.40713 secs using 173.5% CPU
+Optimizing NNI: done in 2.44263 secs using 178.7% CPU
+Optimizing NNI: done in 3.37795 secs using 179.8% CPU
+Optimizing NNI: done in 3.03643 secs using 176.2% CPU
+Optimizing NNI: done in 2.77635 secs using 177.3% CPU
+Optimizing NNI: done in 2.10078 secs using 171.4% CPU
+Optimizing NNI: done in 2.33705 secs using 174.5% CPU
+Optimizing NNI: done in 2.29907 secs using 174.5% CPU
+Iteration 20 / LogL: -43897.329 / Time: 0h:4m:12s
+Finish initializing candidate tree set (20)
+Current best tree score: -43863.950 / CPU time: 62.794
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Optimizing NNI: done in 2.27864 secs using 175.8% CPU
+Optimizing NNI: done in 2.15924 secs using 175.3% CPU
+Optimizing NNI: done in 2.34509 secs using 176.4% CPU
+Optimizing NNI: done in 2.40951 secs using 174.5% CPU
+Optimizing NNI: done in 2.54938 secs using 173.4% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 25: -43860.928
+Optimizing NNI: done in 2.56006 secs using 177.6% CPU
+Optimizing NNI: done in 2.26473 secs using 176% CPU
+Optimizing NNI: done in 2.26405 secs using 175% CPU
+Optimizing NNI: done in 2.03153 secs using 173.4% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 29: -43859.876
+Optimizing NNI: done in 1.69161 secs using 175.1% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 30: -43859.574
+Iteration 30 / LogL: -43859.574 / Time: 0h:4m:35s (0h:5m:17s left)
+Optimizing NNI: done in 2.46376 secs using 177.8% CPU
+Optimizing NNI: done in 2.47639 secs using 176.1% CPU
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -43859.548
+Optimizing NNI: done in 2.05036 secs using 179.7% CPU
+Optimizing NNI: done in 2.56137 secs using 176.8% CPU
+Optimizing NNI: done in 2.62578 secs using 177% CPU
+Optimizing NNI: done in 2.12273 secs using 174.1% CPU
+Optimizing NNI: done in 2.04428 secs using 173.3% CPU
+Optimizing NNI: done in 2.2901 secs using 177.6% CPU
+Optimizing NNI: done in 2.17547 secs using 173.5% CPU
+Optimizing NNI: done in 2.46439 secs using 173% CPU
+Iteration 40 / LogL: -43859.880 / Time: 0h:4m:59s (0h:4m:27s left)
+Optimizing NNI: done in 2.0316 secs using 175.7% CPU
+Optimizing NNI: done in 2.1175 secs using 167.6% CPU
+Optimizing NNI: done in 2.45975 secs using 170.8% CPU
+Optimizing NNI: done in 2.21244 secs using 175.1% CPU
+Optimizing NNI: done in 2.36394 secs using 177.8% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 45: -43858.944
+Optimizing NNI: done in 1.7247 secs using 173.1% CPU
+Optimizing NNI: done in 2.37221 secs using 175.8% CPU
+Optimizing NNI: done in 2.08201 secs using 173.5% CPU
+Optimizing NNI: done in 2.32439 secs using 175.8% CPU
+Optimizing NNI: done in 2.50823 secs using 177.8% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 50: -43858.743
+Iteration 50 / LogL: -43858.743 / Time: 0h:5m:22s (0h:4m:43s left)
+Log-likelihood cutoff on original alignment: -43924.847
+Optimizing NNI: done in 2.19221 secs using 175.2% CPU
+Optimizing NNI: done in 1.93506 secs using 176.8% CPU
+Optimizing NNI: done in 2.48637 secs using 174.6% CPU
+Optimizing NNI: done in 2.53791 secs using 178.2% CPU
+Optimizing NNI: done in 2.19753 secs using 176.3% CPU
+Optimizing NNI: done in 2.22247 secs using 174.3% CPU
+Optimizing NNI: done in 1.6584 secs using 171.6% CPU
+Optimizing NNI: done in 2.43996 secs using 174.4% CPU
+Optimizing NNI: done in 2.4029 secs using 176.5% CPU
+Optimizing NNI: done in 2.4247 secs using 177.3% CPU
+Iteration 60 / LogL: -43864.776 / Time: 0h:5m:45s (0h:4m:6s left)
+Optimizing NNI: done in 2.03182 secs using 175% CPU
+Optimizing NNI: done in 2.40567 secs using 177.3% CPU
+Optimizing NNI: done in 2.62805 secs using 178.1% CPU
+Optimizing NNI: done in 2.46935 secs using 179.8% CPU
+Optimizing NNI: done in 2.48882 secs using 172.9% CPU
+Optimizing NNI: done in 2.59741 secs using 175.2% CPU
+Optimizing NNI: done in 2.80482 secs using 176% CPU
+Optimizing NNI: done in 2.30975 secs using 176% CPU
+Optimizing NNI: done in 3.42167 secs using 180.2% CPU
+Optimizing NNI: done in 2.38881 secs using 175.4% CPU
+Iteration 70 / LogL: -43861.603 / Time: 0h:6m:11s (0h:3m:36s left)
+Optimizing NNI: done in 2.1014 secs using 173.3% CPU
+Optimizing NNI: done in 2.21879 secs using 175% CPU
+Optimizing NNI: done in 1.9198 secs using 173.9% CPU
+Optimizing NNI: done in 2.06419 secs using 178% CPU
+Optimizing NNI: done in 2.29254 secs using 177.1% CPU
+Optimizing NNI: done in 2.33571 secs using 178.2% CPU
+Optimizing NNI: done in 2.4356 secs using 178% CPU
+Optimizing NNI: done in 2.7556 secs using 179.9% CPU
+Optimizing NNI: done in 1.93961 secs using 173.4% CPU
+Optimizing NNI: done in 2.42259 secs using 174.9% CPU
+Iteration 80 / LogL: -43860.932 / Time: 0h:6m:33s (0h:3m:5s left)
+Optimizing NNI: done in 2.73902 secs using 178.8% CPU
+Optimizing NNI: done in 1.81847 secs using 176.3% CPU
+Optimizing NNI: done in 2.20285 secs using 176.1% CPU
+Optimizing NNI: done in 1.9769 secs using 176.3% CPU
+Optimizing NNI: done in 2.23257 secs using 179.4% CPU
+Optimizing NNI: done in 2.04595 secs using 176.9% CPU
+Optimizing NNI: done in 1.92956 secs using 180.6% CPU
+Optimizing NNI: done in 2.49971 secs using 178.1% CPU
+Optimizing NNI: done in 2.40645 secs using 174.8% CPU
+Optimizing NNI: done in 2.25616 secs using 178.2% CPU
+Iteration 90 / LogL: -43858.972 / Time: 0h:6m:55s (0h:2m:36s left)
+Optimizing NNI: done in 2.07544 secs using 175.6% CPU
+Optimizing NNI: done in 1.92357 secs using 177.4% CPU
+Optimizing NNI: done in 2.41945 secs using 182% CPU
+Optimizing NNI: done in 2.31571 secs using 177.7% CPU
+Optimizing NNI: done in 2.59289 secs using 180.9% CPU
+Optimizing NNI: done in 2.3166 secs using 175.2% CPU
+Optimizing NNI: done in 1.91683 secs using 177% CPU
+Optimizing NNI: done in 2.03542 secs using 181.1% CPU
+Optimizing NNI: done in 2.02379 secs using 174.4% CPU
+Optimizing NNI: done in 1.92522 secs using 176.6% CPU
+Iteration 100 / LogL: -43858.844 / Time: 0h:7m:17s (0h:2m:8s left)
+Log-likelihood cutoff on original alignment: -43924.847
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+Optimizing NNI: done in 2.31983 secs using 175.2% CPU
+Optimizing NNI: done in 2.22546 secs using 175.5% CPU
+Optimizing NNI: done in 1.97908 secs using 177.1% CPU
+Optimizing NNI: done in 2.52864 secs using 183.6% CPU
+Optimizing NNI: done in 2.1934 secs using 180.6% CPU
+Optimizing NNI: done in 2.38737 secs using 179.5% CPU
+Optimizing NNI: done in 2.1109 secs using 172.7% CPU
+Optimizing NNI: done in 2.56682 secs using 178.7% CPU
+Optimizing NNI: done in 2.18696 secs using 175.5% CPU
+Optimizing NNI: done in 2.58097 secs using 173% CPU
+Iteration 110 / LogL: -43858.776 / Time: 0h:7m:40s (0h:3m:48s left)
+Optimizing NNI: done in 2.28039 secs using 174.1% CPU
+Optimizing NNI: done in 2.15593 secs using 174.8% CPU
+Optimizing NNI: done in 2.28389 secs using 181.9% CPU
+Optimizing NNI: done in 2.98502 secs using 181.8% CPU
+Optimizing NNI: done in 2.84178 secs using 177.9% CPU
+Optimizing NNI: done in 2.48657 secs using 184.6% CPU
+Optimizing NNI: done in 2.28375 secs using 175.5% CPU
+Optimizing NNI: done in 2.30046 secs using 175.4% CPU
+Optimizing NNI: done in 2.93521 secs using 178.7% CPU
+Optimizing NNI: done in 2.28167 secs using 179.8% CPU
+Iteration 120 / LogL: -43858.748 / Time: 0h:8m:5s (0h:3m:22s left)
+Optimizing NNI: done in 2.69167 secs using 181.5% CPU
+Optimizing NNI: done in 2.12795 secs using 178.6% CPU
+Optimizing NNI: done in 2.57127 secs using 178.2% CPU
+Optimizing NNI: done in 2.08654 secs using 179.2% CPU
+Optimizing NNI: done in 2.85462 secs using 182.3% CPU
+Optimizing NNI: done in 2.31807 secs using 179.6% CPU
+Optimizing NNI: done in 2.30552 secs using 179% CPU
+Optimizing NNI: done in 2.16429 secs using 179.4% CPU
+Optimizing NNI: done in 2.39171 secs using 181.3% CPU
+Optimizing NNI: done in 2.34021 secs using 173.9% CPU
+Iteration 130 / LogL: -43858.756 / Time: 0h:8m:29s (0h:2m:56s left)
+Optimizing NNI: done in 2.13629 secs using 176.1% CPU
+Optimizing NNI: done in 2.15607 secs using 179.1% CPU
+Optimizing NNI: done in 2.51578 secs using 178.8% CPU
+Optimizing NNI: done in 2.30589 secs using 177% CPU
+Optimizing NNI: done in 2.19719 secs using 177.1% CPU
+Optimizing NNI: done in 2.91473 secs using 179.5% CPU
+Optimizing NNI: done in 3.10488 secs using 179.1% CPU
+Optimizing NNI: done in 2.49764 secs using 178.8% CPU
+Optimizing NNI: done in 2.45852 secs using 175.5% CPU
+Optimizing NNI: done in 2.59277 secs using 178.8% CPU
+Iteration 140 / LogL: -43858.747 / Time: 0h:8m:54s (0h:2m:31s left)
+Optimizing NNI: done in 2.46223 secs using 182.3% CPU
+Optimizing NNI: done in 2.29087 secs using 178% CPU
+Optimizing NNI: done in 2.09246 secs using 177.7% CPU
+Optimizing NNI: done in 1.76849 secs using 183.7% CPU
+Optimizing NNI: done in 2.57533 secs using 180.1% CPU
+Optimizing NNI: done in 2.48259 secs using 179% CPU
+Optimizing NNI: done in 2.87496 secs using 181.5% CPU
+Optimizing NNI: done in 2.16021 secs using 171% CPU
+Optimizing NNI: done in 1.90446 secs using 178.4% CPU
+Optimizing NNI: done in 1.95919 secs using 184.4% CPU
+Iteration 150 / LogL: -43865.439 / Time: 0h:9m:17s (0h:2m:5s left)
+Log-likelihood cutoff on original alignment: -43924.847
+Optimizing NNI: done in 2.0553 secs using 184.9% CPU
+TREE SEARCH COMPLETED AFTER 151 ITERATIONS / Time: 0h:9m:19s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -43858.743
+Optimal log-likelihood: -43858.742
+Site proportion and rates:  (0.036,0.041) (0.051,0.313) (0.226,0.602) (0.360,1.037) (0.327,1.446)
+Parameters optimization took 1 rounds (0.313 sec)
+BEST SCORE FOUND : -43858.742
+Creating bootstrap support values...
+Split supports printed to NEXUS file Halocin_C8_full.splits.nex
+Total tree length: 73.820
+
+Total number of iterations: 151
+CPU time used for tree search: 668.466 sec (0h:11m:8s)
+Wall-clock time used for tree search: 370.239 sec (0h:6m:10s)
+Total CPU time used: 1427.201 sec (0h:23m:47s)
+Total wall-clock time used: 559.989 sec (0h:9m:19s)
+
+Computing bootstrap consensus tree...
+Reading input file Halocin_C8_full.splits.nex...
+107 taxa and 607 splits.
+Consensus tree written to Halocin_C8_full.contree
+Reading input trees file Halocin_C8_full.contree
+Log-likelihood of consensus tree: -43858.748
+
+Analysis results written to: 
+  IQ-TREE report:                Halocin_C8_full.iqtree
+  Maximum-likelihood tree:       Halocin_C8_full.treefile
+  Likelihood distances:          Halocin_C8_full.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          Halocin_C8_full.splits.nex
+  Consensus tree:                Halocin_C8_full.contree
+  Screen log file:               Halocin_C8_full.log
+
+Date and Time: Fri Sep 12 14:29:29 2025

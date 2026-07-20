@@ -1,0 +1,16 @@
+## gff-version 3
+WP_014732703.1@GCF_000306765.2	SignalP-6.0	signal_peptide	1	37	0.999781	.	.	Note=TAT
+WP_241433888.1@GCF_000337535.1	SignalP-6.0	signal_peptide	1	50	0.884905	.	.	Note=TAT
+WP_155396796.1@GCF_000970305.1	SignalP-6.0	signal_peptide	1	30	0.9985469	.	.	.
+WP_076157611.1@GCF_001955925.1	SignalP-6.0	signal_peptide	1	30	0.9989037	.	.	.
+WP_247730522.1@GCF_023093535.1	SignalP-6.0	signal_peptide	1	35	0.9999689	.	.	Note=TAT
+JAGXOR010000056.1_11@GCA_023659785.1	SignalP-6.0	signal_peptide	1	29	0.98546976	.	.	.
+WP_153552228.1@GCF_009617995.1	SignalP-6.0	signal_peptide	1	36	0.97653586	.	.	Note=TAT
+QEXZ01000077.1_7@GCA_003160755.1	SignalP-6.0	signal_peptide	1	29	0.99901617	.	.	.
+WP_123067460.1@GCF_003719335.1	SignalP-6.0	signal_peptide	1	33	0.9861244	.	.	.
+NQE06396.1@GCA_013180605.1	SignalP-6.0	signal_peptide	1	29	0.99906254	.	.	.
+WP_132280169.1@GCF_004339095.1	SignalP-6.0	signal_peptide	1	32	0.9986202	.	.	.
+WP_175383825.1@GCF_013359905.1	SignalP-6.0	signal_peptide	1	33	0.9759576	.	.	.
+MTLP01000007.1_117@GCA_002009975.1	SignalP-6.0	signal_peptide	1	25	0.99798393	.	.	.
+CALUHR010000006.1_67@GCA_944320495.1	SignalP-6.0	signal_peptide	1	27	0.9992006	.	.	.
+WP_167895259.1@GCF_012027355.1	SignalP-6.0	signal_peptide	1	25	0.9983767	.	.	.

@@ -1,0 +1,23 @@
+id,assembly_accession,protein_id,evalue,bits,tstart,tend,domain,gtdb_phylum,gtdb_class,gtdb_order,gtdb_family,gtdb_genus,gtdb_species,uniprot_id
+WP_014732703.1@GCF_000306765.2,GCF_000306765.2,WP_014732703.1,7.2949999999999995e-233,723,1,359,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax mediterranei,Q48236
+WP_241433888.1@GCF_000337535.1,GCF_000337535.1,WP_241433888.1,2.72e-100,340,48,347,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrialba,Natrialba aegyptia,
+WP_008458115.1@GCF_000337175.1,GCF_000337175.1,WP_008458115.1,2.408e-93,320,1,276,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema gari,L9YSX7
+WP_161605605.1@GCF_000337135.1,GCF_000337135.1,WP_161605605.1,1.9110000000000002e-42,172,6,156,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrialba,Natrialba chahannaoensis,
+WP_155396796.1@GCF_000970305.1,GCF_000970305.1,WP_155396796.1,1.7350000000000002e-28,130,69,300,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina barkeri A,A0A0E3SN68
+WP_076157611.1@GCF_001955925.1,GCF_001955925.1,WP_076157611.1,4.309e-28,129,47,313,Bacteria,Bacillota,Bacilli,Paenibacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp001955925,A0A1R1GAQ2
+WP_247730522.1@GCF_023093535.1,GCF_023093535.1,WP_247730522.1,7.898e-28,128,59,279,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Halovivax,Halovivax limisalsi,
+JAGXOR010000056.1_11@GCA_023659785.1,GCA_023659785.1,JAGXOR010000056.1_11,1.959e-27,127,67,201,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,JAGXOR01,JAGXOR01 sp023659785,
+WP_153552228.1@GCF_009617995.1,GCF_009617995.1,WP_153552228.1,1.627e-26,124,58,281,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halomicrobium,Halomicrobium sp009617995,A0A5Q0UIW4
+JAEXCH010000014.1_14@GCA_023402275.1,GCA_023402275.1,JAEXCH010000014.1_14,1.488e-21,109,181,421,Archaea,Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomethylophilaceae,Methanoplasma,Methanoplasma sp023402275,
+WP_094227589.1@GCF_002243045.1,GCF_002243045.1,WP_094227589.1,1.736e-14,88,37,294,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanolobus,Methanolobus psychrotolerans,
+PXF52170.1@GCA_003194435.1,GCA_003194435.1,PXF52170.1,3.289e-12,81,231,437,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,G60ANME1,G60ANME1 sp003194435,A0A2V3JBQ4
+QEXZ01000077.1_7@GCA_003160755.1,GCA_003160755.1,QEXZ01000077.1_7,1.049e-11,79,67,260,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,QEXZ01,QEXZ01 sp003160755,
+WP_123067460.1@GCF_003719335.1,GCF_003719335.1,WP_123067460.1,3.336e-11,78,78,319,Bacteria,Bacillota,Bacilli,Paenibacillales,Paenibacillaceae,Paenibacillus,Paenibacillus amylolyticus D,A0A5M9X370
+NQE06396.1@GCA_013180605.1,GCA_013180605.1,NQE06396.1,1.413e-10,76,67,260,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,QEXZ01,QEXZ01 sp013180605,
+WP_132280169.1@GCF_004339095.1,GCF_004339095.1,WP_132280169.1,7.936e-11,76,71,278,Bacteria,Bacillota A,Clostridia,Lachnospirales,DSM-24629,Natranaerovirga,Natranaerovirga hydrolytica,A0A4R1MYC7
+WP_175383825.1@GCF_013359905.1,GCF_013359905.1,WP_175383825.1,1.059e-10,76,78,278,Bacteria,Bacillota,Bacilli,Paenibacillales,Paenibacillaceae,Paenibacillus,Paenibacillus taichungensis,
+WP_188202341.1@GCF_904067545.1,GCF_904067545.1,WP_188202341.1,1.054e-08,70,1,175,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus camini,A0A7G2D9G6
+WP_220681389.1@GCF_019633745.1,GCF_019633745.1,WP_220681389.1,1.869e-08,69,137,304,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanofollaceae,Methanofollis,Methanofollis formosanus,A0A8G1A3I7
+MTLP01000007.1_117@GCA_002009975.1,GCA_002009975.1,MTLP01000007.1_117,7.645e-07,64,70,235,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus C,Thermococcus C sp002009975,
+CALUHR010000006.1_67@GCA_944320495.1,GCA_944320495.1,CALUHR010000006.1_67,4.213e-06,61,82,323,Archaea,Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomethylophilaceae,UBA71,UBA71 sp944320495,
+WP_167895259.1@GCF_012027355.1,GCF_012027355.1,WP_167895259.1,9.876e-06,60,68,251,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus sp012027355,A0A8J8AIN5

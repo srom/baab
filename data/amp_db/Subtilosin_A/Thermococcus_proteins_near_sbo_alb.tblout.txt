@@ -1,0 +1,51 @@
+#                                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ----------           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_088863149.1@GCF_002214365.1 -          WP_088863149.1@GCF_002214365.1 -           1.4e-198  658.3  10.9  1.6e-198  658.2  10.9   1.0   1   0   0   1   1   1   1 WP_088863149.1 pantoate kinase [Thermococcus celer]
+WP_088865389.1@GCF_002214465.1 -          WP_088863149.1@GCF_002214365.1 -           3.4e-160  532.3   6.3  3.9e-160  532.2   6.3   1.0   1   0   0   1   1   1   1 WP_088865389.1 pantoate kinase [Thermococcus barossii]
+WP_055428453.1@GCF_002214545.1 -          WP_088863149.1@GCF_002214365.1 -           5.6e-160  531.6   7.9  6.2e-160  531.5   7.9   1.0   1   0   0   1   1   1   1 WP_055428453.1 pantoate kinase [Thermococcus thioreducens]
+WP_014789032.1@GCF_000265525.1 -          WP_088863149.1@GCF_002214365.1 -             2e-158  526.5   7.5  2.2e-158  526.4   7.5   1.0   1   0   0   1   1   1   1 WP_014789032.1 pantoate kinase [Thermococcus cleftensis]
+WP_062370370.1@GCF_000816105.1 -          WP_088863149.1@GCF_002214365.1 -           1.8e-157  523.4   6.7  2.2e-157  523.1   6.7   1.0   1   0   0   1   1   1   1 WP_062370370.1 pantoate kinase [Thermococcus guaymasensis]
+WP_042691580.1@GCF_000585495.1 -          WP_088863149.1@GCF_002214365.1 -             2e-156  519.9   6.3  2.3e-156  519.8   6.3   1.0   1   0   0   1   1   1   1 WP_042691580.1 pantoate kinase [Thermococcus nautili]
+WP_012572478.1@GCF_000018365.1 -          WP_088863149.1@GCF_002214365.1 -           4.8e-155  515.4   5.7  5.4e-155  515.3   5.7   1.0   1   0   0   1   1   1   1 WP_012572478.1 pantoate kinase [Thermococcus onnurineus]
+WP_011251091.1@GCF_000009965.1 -          WP_088863149.1@GCF_002214365.1 -           2.2e-154  513.2   5.2  2.5e-154  513.1   5.2   1.0   1   0   0   1   1   1   1 WP_011251091.1 pantoate kinase [Thermococcus kodakarensis]
+WP_062388649.1@GCF_001592435.1 -          WP_088863149.1@GCF_002214365.1 -           2.5e-153  509.8   4.3  2.8e-153  509.6   4.3   1.0   1   0   0   1   1   1   1 WP_062388649.1 pantoate kinase [Thermococcus peptonophilus]
+WP_088863150.1@GCF_002214365.1 -          WP_088863150.1@GCF_002214365.1 -                  0 1214.3  17.2         0 1214.1  17.2   1.0   1   0   0   1   1   1   1 WP_088863150.1 ATP-dependent DNA ligase [Thermococcus celer]
+WP_055428454.1@GCF_002214545.1 -          WP_088863150.1@GCF_002214365.1 -                  0 1103.8  15.6         0 1103.7  15.6   1.0   1   0   0   1   1   1   1 WP_055428454.1 ATP-dependent DNA ligase [Thermococcus thioreducens]
+WP_088865388.1@GCF_002214465.1 -          WP_088863150.1@GCF_002214365.1 -                  0 1099.2  16.5         0 1099.0  16.5   1.0   1   0   0   1   1   1   1 WP_088865388.1 MULTISPECIES: ATP-dependent DNA ligase [Thermococcus]
+WP_014789033.1@GCF_000265525.1 -          WP_088863150.1@GCF_002214365.1 -                  0 1088.8  17.8         0 1088.6  17.8   1.0   1   0   0   1   1   1   1 WP_014789033.1 ATP-dependent DNA ligase [Thermococcus cleftensis]
+WP_062374014.1@GCF_000816105.1 -          WP_088863150.1@GCF_002214365.1 -                  0 1075.8  18.4         0 1075.6  18.4   1.0   1   0   0   1   1   1   1 WP_062374014.1 ATP-dependent DNA ligase [Thermococcus guaymasensis]
+WP_048053886.1@GCF_000009965.1 -          WP_088863150.1@GCF_002214365.1 -                  0 1074.0  17.7         0 1073.9  17.7   1.0   1   0   0   1   1   1   1 WP_048053886.1 ATP-dependent DNA ligase [Thermococcus kodakarensis]
+WP_062390843.1@GCF_001592435.1 -          WP_088863150.1@GCF_002214365.1 -                  0 1069.8  18.3         0 1069.6  18.3   1.0   1   0   0   1   1   1   1 WP_062390843.1 ATP-dependent DNA ligase [Thermococcus peptonophilus]
+WP_042693257.1@GCF_000585495.1 -          WP_088863150.1@GCF_002214365.1 -                  0 1066.5  18.1         0 1066.3  18.1   1.0   1   0   0   1   1   1   1 WP_042693257.1 ATP-dependent DNA ligase [Thermococcus nautili]
+WP_048055182.1@GCF_000018365.1 -          WP_088863150.1@GCF_002214365.1 -                  0 1066.5  17.5         0 1066.3  17.5   1.0   1   0   0   1   1   1   1 WP_048055182.1 ATP-dependent DNA ligase [Thermococcus onnurineus]
+WP_042691580.1@GCF_000585495.1 -          WP_042691580.1@GCF_000585495.1 -           1.1e-197  655.3   5.7  1.2e-197  655.1   5.7   1.0   1   0   0   1   1   1   1 WP_042691580.1 pantoate kinase [Thermococcus nautili]
+WP_014789032.1@GCF_000265525.1 -          WP_042691580.1@GCF_000585495.1 -           7.4e-176  583.6   5.4  8.3e-176  583.4   5.4   1.0   1   0   0   1   1   1   1 WP_014789032.1 pantoate kinase [Thermococcus cleftensis]
+WP_088865389.1@GCF_002214465.1 -          WP_042691580.1@GCF_000585495.1 -           4.9e-174  577.6   4.0  5.5e-174  577.5   4.0   1.0   1   0   0   1   1   1   1 WP_088865389.1 pantoate kinase [Thermococcus barossii]
+WP_062370370.1@GCF_000816105.1 -          WP_042691580.1@GCF_000585495.1 -           2.1e-170  565.7   4.9  2.5e-170  565.5   4.9   1.0   1   0   0   1   1   1   1 WP_062370370.1 pantoate kinase [Thermococcus guaymasensis]
+WP_062388649.1@GCF_001592435.1 -          WP_042691580.1@GCF_000585495.1 -           2.1e-170  565.7   3.8  2.4e-170  565.5   3.8   1.0   1   0   0   1   1   1   1 WP_062388649.1 pantoate kinase [Thermococcus peptonophilus]
+WP_011251091.1@GCF_000009965.1 -          WP_042691580.1@GCF_000585495.1 -           5.7e-170  564.3   4.1  6.4e-170  564.1   4.1   1.0   1   0   0   1   1   1   1 WP_011251091.1 pantoate kinase [Thermococcus kodakarensis]
+WP_012572478.1@GCF_000018365.1 -          WP_042691580.1@GCF_000585495.1 -           3.2e-164  545.4   4.6  3.6e-164  545.2   4.6   1.0   1   0   0   1   1   1   1 WP_012572478.1 pantoate kinase [Thermococcus onnurineus]
+WP_055428453.1@GCF_002214545.1 -          WP_042691580.1@GCF_000585495.1 -           1.2e-160  533.7   4.4  1.3e-160  533.6   4.4   1.0   1   0   0   1   1   1   1 WP_055428453.1 pantoate kinase [Thermococcus thioreducens]
+WP_088863149.1@GCF_002214365.1 -          WP_042691580.1@GCF_000585495.1 -           5.2e-156  518.4   6.8  5.8e-156  518.3   6.8   1.0   1   0   0   1   1   1   1 WP_088863149.1 pantoate kinase [Thermococcus celer]
+WP_011249198.1@GCF_000009965.1 -          WP_042691580.1@GCF_000585495.1 -             0.0096   15.4   0.0     0.023   14.1   0.0   1.5   1   1   0   1   1   1   1 WP_011249198.1 ATP phosphoribosyltransferase [Thermococcus kodakarensis]
+WP_011249181.1@GCF_000009965.1 -          WP_042691580.1@GCF_000585495.1 -                0.2   11.0   1.5      0.29   10.5   1.5   1.3   1   0   0   1   1   1   0 WP_011249181.1 hypothetical protein [Thermococcus kodakarensis]
+WP_042693257.1@GCF_000585495.1 -          WP_042693257.1@GCF_000585495.1 -                  0 1204.2  20.9         0 1204.0  20.9   1.0   1   0   0   1   1   1   1 WP_042693257.1 ATP-dependent DNA ligase [Thermococcus nautili]
+WP_062374014.1@GCF_000816105.1 -          WP_042693257.1@GCF_000585495.1 -                  0 1146.6  21.2         0 1146.4  21.2   1.0   1   0   0   1   1   1   1 WP_062374014.1 ATP-dependent DNA ligase [Thermococcus guaymasensis]
+WP_048053886.1@GCF_000009965.1 -          WP_042693257.1@GCF_000585495.1 -                  0 1132.0  20.2         0 1131.8  20.2   1.0   1   0   0   1   1   1   1 WP_048053886.1 ATP-dependent DNA ligase [Thermococcus kodakarensis]
+WP_062390843.1@GCF_001592435.1 -          WP_042693257.1@GCF_000585495.1 -                  0 1130.1  21.3         0 1129.9  21.3   1.0   1   0   0   1   1   1   1 WP_062390843.1 ATP-dependent DNA ligase [Thermococcus peptonophilus]
+WP_048055182.1@GCF_000018365.1 -          WP_042693257.1@GCF_000585495.1 -                  0 1115.6  19.6         0 1115.4  19.6   1.0   1   0   0   1   1   1   1 WP_048055182.1 ATP-dependent DNA ligase [Thermococcus onnurineus]
+WP_088865388.1@GCF_002214465.1 -          WP_042693257.1@GCF_000585495.1 -                  0 1110.2  18.3         0 1110.0  18.3   1.0   1   0   0   1   1   1   1 WP_088865388.1 MULTISPECIES: ATP-dependent DNA ligase [Thermococcus]
+WP_014789033.1@GCF_000265525.1 -          WP_042693257.1@GCF_000585495.1 -                  0 1098.7  19.1         0 1098.6  19.1   1.0   1   0   0   1   1   1   1 WP_014789033.1 ATP-dependent DNA ligase [Thermococcus cleftensis]
+WP_055428454.1@GCF_002214545.1 -          WP_042693257.1@GCF_000585495.1 -                  0 1098.6  15.5         0 1098.4  15.5   1.0   1   0   0   1   1   1   1 WP_055428454.1 ATP-dependent DNA ligase [Thermococcus thioreducens]
+WP_088863150.1@GCF_002214365.1 -          WP_042693257.1@GCF_000585495.1 -                  0 1066.9  15.9         0 1066.7  15.9   1.0   1   0   0   1   1   1   1 WP_088863150.1 ATP-dependent DNA ligase [Thermococcus celer]
+#
+# Program:         phmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Thermococcus_proteins_near_sbo_alb.fasta
+# Target file:     Thermococcus_proteins.fasta
+# Option settings: phmmer -o /dev/null --tblout Thermococcus_proteins_near_sbo_alb.tblout.txt Thermococcus_proteins_near_sbo_alb.fasta Thermococcus_proteins.fasta 
+# Current dir:     /Users/rs1521/workspace/data/amp_db/Subtilosin_A
+# Date:            Tue Aug  5 13:53:45 2025
+# [ok]

@@ -1,0 +1,46 @@
+#                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                      accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#              ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_007110057.1@GCF_000731985.1     -          P83716               -           5.4e-185  605.4  16.3  6.1e-185  605.3  16.3   1.0   1   0   0   1   1   1   1 [Natrinema altunense] [MODIFIED]
+WP_008893279.1@GCF_000337495.1     -          P83716               -           4.2e-134  438.6  15.7  4.7e-134  438.5  15.7   1.0   1   0   0   1   1   1   1 [Haloterrigena salina]
+WP_174681857.1@GCF_013342145.1     -          P83716               -             4e-133  435.4  15.7  4.4e-133  435.3  15.7   1.0   1   0   0   1   1   1   1 [Haloterrigena gelatinilytica]
+WP_211338378.1@GCF_003977755.1     -          P83716               -           1.1e-131  430.7  15.9  1.2e-131  430.5  15.9   1.0   1   0   0   1   1   1   1 [Haloterrigena salifodinae]
+WP_015299281.1@GCF_000230735.2     -          P83716               -           3.1e-109  357.1  20.1  3.5e-109  356.9  20.1   1.0   1   0   0   1   1   1   1 [Natrinema pellirubrum]
+WP_241432498.1@GCF_000337175.1     -          P83716               -            8.8e-64  208.1  15.6   9.6e-64  208.0  15.6   1.0   1   0   0   1   1   1   1 [Natrinema gari]
+ELZ16389.1@GCA_000337115.1         -          P83716               -            1.5e-47  155.0   6.6   1.8e-47  154.7   6.6   1.0   1   0   0   1   1   1   1 [Natrinema thermotolerans]
+WP_175459731.1@GCF_900108095.1     -          P83716               -            1.8e-47  154.6  10.1   2.1e-47  154.5  10.1   1.0   1   0   0   1   1   1   1 [Natronorubrum sediminis]
+WP_202935063.1@GCF_004143485.2     -          P83716               -            2.4e-45  147.7   4.7   3.2e-45  147.3   4.7   1.0   1   0   0   1   1   1   1 [Halorussus amylolyticus]
+NZ_CP035119.1_1595@GCF_004087835.1 -          P83716               -            2.6e-44  144.3   4.2   3.1e-44  144.1   4.2   1.0   1   0   0   1   1   1   1 [Halorussus pelagicus]
+WP_253478286.1@GCF_024138125.1     -          P83716               -            6.4e-44  143.0   3.8   8.1e-44  142.7   3.8   1.0   1   0   0   1   1   1   1 [Halorussus sp024138125]
+WP_008892994.1@GCF_000337495.1     -          P83716               -            6.7e-43  139.7   8.2     8e-43  139.4   8.2   1.0   1   0   0   1   1   1   1 [Haloterrigena salina]
+WP_202932656.1@GCF_004765815.2     -          P83716               -            5.6e-42  136.7   6.8   6.8e-42  136.4   6.8   1.0   1   0   0   1   1   1   1 [Halorussus salinus]
+WP_004043226.1@GCF_000025685.1     -          P83716               -            1.3e-41  135.4  30.2     3e-41  134.3  30.2   1.5   1   1   0   1   1   1   1 [Haloferax volcanii]
+WP_206536420.1@GCF_000336955.1     -          P83716               -            9.1e-41  132.7  13.2   8.8e-40  129.5  13.2   1.9   1   1   0   1   1   1   1 [Haloferax larsenii]
+WP_174682227.1@GCF_013342145.1     -          P83716               -            2.3e-38  124.8  12.6   5.2e-38  123.7  12.6   1.5   1   1   0   1   1   1   1 [Haloterrigena gelatinilytica]
+WP_083870254.1@GCF_000337495.1     -          P83716               -            3.4e-38  124.3  11.1   6.1e-38  123.4  11.1   1.3   1   1   0   1   1   1   1 [Haloterrigena salina]
+WP_239639938.1@GCF_000336775.1     -          P83716               -            4.5e-38  123.9  24.6   1.3e-37  122.3  24.6   1.6   1   1   0   1   1   1   1 [Haloferax gibbonsii]
+NZ_CP035119.1_2349@GCF_004087835.1 -          P83716               -            4.6e-37  120.6   5.6   5.7e-37  120.2   5.6   1.0   1   0   0   1   1   1   1 [Halorussus pelagicus]
+WP_136361702.1@GCF_008124605.1     -          P83716               -            1.8e-35  115.3  12.3   1.6e-34  112.2  12.3   1.9   1   1   0   1   1   1   1 [Halobacterium salinarum]
+WP_135852295.1@GCF_004765815.2     -          P83716               -            2.4e-28   92.0  13.2   2.9e-28   91.7  13.2   1.0   1   0   0   1   1   1   1 [Halorussus salinus]
+WP_244289023.1@GCF_008124605.1     -          P83716               -            1.6e-24   79.4  18.7   2.7e-23   75.4  18.7   2.0   1   1   0   1   1   1   1 [Halobacterium salinarum]
+WP_049926653.1@GCF_000455345.1     -          P83716               -            3.1e-24   78.5  11.0     4e-24   78.2  11.0   1.1   1   0   0   1   1   1   1 [Halopiger A goleimassiliensis]
+WP_083864448.1@GCF_000337615.1     -          P83716               -            2.7e-20   65.6  16.0   5.8e-20   64.5  16.0   1.5   1   1   0   1   1   1   1 [Natrinema pallidum]
+CP040678.1_2475@GCA_005954745.1    -          P83716               -            9.4e-20   63.8  14.4   1.7e-19   63.0  14.4   1.4   1   1   0   1   1   1   1 [Halostella pelagica]
+WP_161606962.1@GCF_000336935.1     -          P83716               -            3.1e-19   62.1   7.0   3.8e-19   61.8   7.0   1.0   1   0   0   1   1   1   1 [Halococcus salifodinae]
+OAQ51225.1@GCA_000690595.2         -          P83716               -            1.8e-18   59.6  16.0     4e-18   58.5  16.0   1.5   1   1   0   1   1   1   1 [Natrinema mahii]
+WP_231186491.1@GCF_021083305.1     -          P83716               -            2.9e-17   55.6  21.1   1.3e-15   50.2  21.1   2.0   1   1   0   1   1   1   1 [Haladaptatus sp021083305]
+WP_164731977.1@GCF_000023965.1     -          P83716               -            3.3e-16   52.2   8.9     4e-16   51.9   8.9   1.0   1   0   0   1   1   1   1 [Halomicrobium mukohataei]
+SKSD01000001.1_94@GCA_007118145.1  -          P83716               -            2.4e-15   49.4  17.4   2.8e-14   45.9  17.4   1.9   1   1   0   1   1   1   1 [SKSH01 sp007118145]
+AOIR01000038.1_26@GCA_000337115.1  -          P83716               -            6.1e-14   44.8   3.6   7.7e-14   44.4   3.6   1.1   1   0   0   1   1   1   1 [Natrinema thermotolerans]
+WP_052722646.1@GCF_000969965.1     -          P83716               -            1.1e-12   40.7   7.2   1.6e-12   40.1   7.2   1.4   1   0   0   1   1   1   1 [Methanosarcina sp000969965]
+CP100465.1_75@GCA_024227995.1      -          P83716               -            9.2e-11   34.3  18.2   4.8e-08   25.5  12.1   2.1   1   1   1   2   2   2   2 [Haladaptatus sp024227995]
+#
+# Program:         phmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      sequences/original_proC8.fasta
+# Target file:     sequences/HalC8_GTDB_r214_hits.fasta
+# Option settings: phmmer -o /dev/null --tblout sequences/original_proC8_hits.tblout.txt -E 1e-10 sequences/original_proC8.fasta sequences/HalC8_GTDB_r214_hits.fasta 
+# Current dir:     /Users/rs1521/Documents/STAPHC8
+# Date:            Wed Sep 10 15:13:36 2025
+# [ok]

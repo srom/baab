@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/rs1521/workspace/data/Pfam_38/Pfam-A.hmm
+# Target file:     /Users/rs1521/workspace/data/amp_db/Halocins/Halocin_H4/Halocin_H4_dataset.fasta
+# Option settings: hmmsearch -o /dev/null --domtblout pfam_38.domtblout.txt --cut_ga /Users/rs1521/workspace/data/Pfam_38/Pfam-A.hmm /Users/rs1521/workspace/data/amp_db/Halocins/Halocin_H4/Halocin_H4_dataset.fasta 
+# Current dir:     /Users/rs1521/workspace/data/amp_db/Halocins/Halocin_H4
+# Date:            Wed Aug 13 20:42:27 2025
+# [ok]

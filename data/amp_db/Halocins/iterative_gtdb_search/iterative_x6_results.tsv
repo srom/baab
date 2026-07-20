@@ -1,0 +1,132 @@
+query	target	evalue	bits	tstart	tend	taxlineage
+Halocin_H4	NC_017943.1_248	7.295E-233	723	1	359	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Haloferax;s_Haloferax mediterranei
+Halocin_H4	NZ_AOIP01000056.1_97	2.720E-100	340	48	347	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrialba;s_Natrialba aegyptia
+Halocin_H4	NZ_AOIJ01000063.1_217	2.408E-93	320	1	276	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema gari
+Halocin_H4	NZ_AOIN01000078.1_1	1.911E-42	172	6	156	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrialba;s_Natrialba chahannaoensis
+Halocin_H4	NZ_CP095757.1_544	7.898E-28	128	59	279	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Halovivax;s_Halovivax limisalsi
+Halocin_H4	AOIR01000063.1_62	1.959E-27	127	60	280	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema thermotolerans
+Halocin_H4	NZ_CP044129.1_261	1.627E-26	124	58	281	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halomicrobium;s_Halomicrobium sp009617995
+Halocin_H4	QEXZ01000077.1_7	1.049E-11	79	67	260	d_Archaea;p_Halobacteriota;c_Syntropharchaeia;o_ANME-1;f_ANME-1;g_QEXZ01;s_QEXZ01 sp003160755
+Halocin_H4	QBUL01000183.1_4	1.413E-10	76	67	260	d_Archaea;p_Halobacteriota;c_Syntropharchaeia;o_ANME-1;f_ANME-1;g_QEXZ01;s_QEXZ01 sp013180605
+Halocin_H4	NZ_CP009517.1_2169	1.735E-28	130	69	300	d_Archaea;p_Halobacteriota;c_Methanosarcinia;o_Methanosarcinales;f_Methanosarcinaceae;g_Methanosarcina;s_Methanosarcina barkeri A
+Halocin_H4	DUGT01000203.1_24	3.182E-28	130	69	300	d_Archaea;p_Halobacteriota;c_Methanosarcinia;o_Methanosarcinales;f_Methanosarcinaceae;g_Methanosarcina;s_Methanosarcina sp11020u
+Halocin_H4	JAGXOR010000056.1_11	1.959E-27	127	67	201	d_Archaea;p_Halobacteriota;c_Syntropharchaeia;o_ANME-1;f_ANME-1;g_JAGXOR01;s_JAGXOR01 sp023659785
+Halocin_H4	PQXC01000011.1_2	3.289E-12	81	231	437	d_Archaea;p_Halobacteriota;c_Syntropharchaeia;o_ANME-1;f_ANME-1;g_G60ANME1;s_G60ANME1 sp003194435
+Halocin_H4	NZ_RIAS01000036.1_4	3.336E-11	78	78	319	d_Bacteria;p_Bacillota;c_Bacilli;o_Paenibacillales;f_Paenibacillaceae;g_Paenibacillus;s_Paenibacillus amylolyticus D
+Halocin_H4	NZ_SMGQ01000011.1_424	7.936E-11	76	71	278	d_Bacteria;p_Bacillota A;c_Clostridia;o_Lachnospirales;f_DSM-24629;g_Natranaerovirga;s_Natranaerovirga hydrolytica
+Halocin_H4	NZ_JABMCC010000121.1_673	1.059E-10	76	78	278	d_Bacteria;p_Bacillota;c_Bacilli;o_Paenibacillales;f_Paenibacillaceae;g_Paenibacillus;s_Paenibacillus taichungensis
+Halocin_H4	JAEXCH010000013.1_27	1.869E-08	69	49	245	d_Archaea;p_Thermoplasmatota;c_Thermoplasmata;o_Methanomassiliicoccales;f_Methanomethylophilaceae;g_Methanoplasma;s_Methanoplasma sp023402275
+Halocin_H4	JAGXOR010000056.1_10	2.313E-05	59	1	36	d_Archaea;p_Halobacteriota;c_Syntropharchaeia;o_ANME-1;f_ANME-1;g_JAGXOR01;s_JAGXOR01 sp023659785
+Halocin_H4	JAATFT010000037.1_33	2.560E-32	142	1	210	d_Bacteria;p_Bacillota A;c_Clostridia;o_Lachnospirales;f_Lachnospiraceae;g_Anaerocolumna;s_Anaerocolumna sp015655075
+Halocin_H4	NZ_MRTX01000012.1_15	4.309E-28	129	47	313	d_Bacteria;p_Bacillota;c_Bacilli;o_Paenibacillales;f_Paenibacillaceae;g_Paenibacillus;s_Paenibacillus sp001955925
+Halocin_H4	JAEXCH010000014.1_14	1.488E-21	109	181	421	d_Archaea;p_Thermoplasmatota;c_Thermoplasmata;o_Methanomassiliicoccales;f_Methanomethylophilaceae;g_Methanoplasma;s_Methanoplasma sp023402275
+Halocin_H4	WAPO01000149.1_28	1.241E-15	91	3	318	d_Archaea;p_Methanobacteriota B;c_Thermococci;o_Thermococcales;f_Thermococcaceae;g_Thermococcus;s_Thermococcus sp015520705
+Halocin_H4	CALUHR010000006.1_67	4.213E-06	61	82	323	d_Archaea;p_Thermoplasmatota;c_Thermoplasmata;o_Methanomassiliicoccales;f_Methanomethylophilaceae;g_UBA71;s_UBA71 sp944320495
+Halocin_H4	NC_007955.1_1059	3.924E-04	55	46	299	d_Archaea;p_Halobacteriota;c_Methanosarcinia;o_Methanosarcinales;f_Methanosarcinaceae;g_Methanococcoides;s_Methanococcoides burtonii
+Halocin_H4	NZ_MBKP01000012.1_36	1.736E-14	88	37	294	d_Archaea;p_Halobacteriota;c_Methanosarcinia;o_Methanosarcinales;f_Methanosarcinaceae;g_Methanolobus;s_Methanolobus psychrotolerans
+Halocin_H4	MTLP01000007.1_117	7.645E-07	64	70	235	d_Archaea;p_Methanobacteriota B;c_Thermococci;o_Thermococcales;f_Thermococcaceae;g_Thermococcus C;s_Thermococcus C sp002009975
+Halocin_H4	NZ_JONQ01000011.1_150	5.206E-04	55	249	327	d_Archaea;p_Halobacteriota;c_Methanosarcinia A;o_Methanosarcinales A;f_Methermicoccaceae;g_Methermicoccus;s_Methermicoccus shengliensis
+Halocin_H4	NZ_LR881183.1_1455	1.054E-08	70	1	175	d_Archaea;p_Methanobacteriota B;c_Thermococci;o_Thermococcales;f_Thermococcaceae;g_Thermococcus;s_Thermococcus camini
+Halocin_H4	NZ_CP037968.1_2369	1.869E-08	69	137	304	d_Archaea;p_Halobacteriota;c_Methanomicrobia;o_Methanomicrobiales;f_Methanofollaceae;g_Methanofollis;s_Methanofollis formosanus
+Halocin_H4	WANV01000030.1_197	4.213E-06	61	98	251	d_Archaea;p_Methanobacteriota B;c_Thermococci;o_Thermococcales;f_Thermococcaceae;g_Thermococcus;s_Thermococcus sp015521605
+Halocin_H4	NZ_SNUH01000002.1_460	9.876E-06	60	68	251	d_Archaea;p_Methanobacteriota B;c_Thermococci;o_Thermococcales;f_Thermococcaceae;g_Thermococcus;s_Thermococcus sp012027355
+Halocin_C8	NZ_JNCS01000004.1_296	6.877E-168	531	1	283	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema altunense
+Halocin_C8	NZ_AOIS01000017.1_52	5.841E-137	442	1	283	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Haloterrigena;s_Haloterrigena salina
+Halocin_C8	NZ_JABUQZ010000001.1_3516	1.869E-135	438	1	283	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Haloterrigena;s_Haloterrigena gelatinilytica
+Halocin_C8	NZ_RQWN01000003.1_527	1.122E-133	433	1	283	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Haloterrigena;s_Haloterrigena salifodinae
+Halocin_C8	NC_019962.1_3778	2.673E-94	319	9	294	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema pellirubrum
+Halocin_C8	NZ_AOIJ01000052.1_25	6.562E-52	196	2	114	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema gari
+Halocin_C8	NC_013966.1_286	1.641E-33	143	8	298	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Haloferax;s_Haloferax volcanii
+Halocin_C8	NZ_FNWL01000002.1_725	7.723E-33	141	8	273	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natronorubrum;s_Natronorubrum sediminis
+Halocin_C8	NZ_AOLJ01000018.1_115	1.053E-32	140	25	314	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Haloferax;s_Haloferax gibbonsii
+Halocin_C8	AOIR01000031.1_72	8.010E-31	135	6	254	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema thermotolerans
+Halocin_C8	NZ_AOIS01000013.1_6	2.446E-27	124	17	265	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Haloterrigena;s_Haloterrigena salina
+Halocin_C8	NZ_ML974131.1_203	2.111E-26	122	7	267	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus amylolyticus
+Halocin_C8	NZ_CP035119.1_1595	2.871E-26	121	8	258	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus pelagicus
+Halocin_C8	NZ_AOLI01000017.1_204	3.905E-26	121	7	291	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Haloferax;s_Haloferax larsenii
+Halocin_C8	NZ_JABUQZ010000001.1_3948	1.336E-25	119	6	296	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Haloterrigena;s_Haloterrigena gelatinilytica
+Halocin_C8	NZ_CP099993.1_2066	3.359E-25	118	7	267	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus sp024138125
+Halocin_C8	NZ_SBIS02000007.1_351	1.147E-24	117	8	258	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus salinus
+Halocin_C8	NZ_AOIS01000027.1_81	7.230E-24	114	6	295	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Haloterrigena;s_Haloterrigena salina
+Halocin_C8	NZ_VRYN01000036.1_1	3.288E-21	106	33	277	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Halobacteriaceae;g_Halobacterium;s_Halobacterium salinarum
+Halocin_C8	NZ_CP035119.1_2349	3.773E-20	103	6	268	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus pelagicus
+Halocin_C8	NZ_VRYN01000005.1_8	1.260E-14	87	34	235	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Halobacteriaceae;g_Halobacterium;s_Halobacterium salinarum
+Halocin_C8	NZ_ML974127.1_156	4.190E-14	85	10	287	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus salinus
+Halocin_C8	NZ_HG315690.1_1402	3.222E-10	73	15	263	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Halopiger A;s_Halopiger A goleimassiliensis
+Halocin_C8	CP040678.1_2475	4.602E-09	70	83	280	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_QS-9-68-17;g_Halostella;s_Halostella pelagica
+Halocin_C8	NZ_AOII01000014.1_48	5.037E-07	63	27	235	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema pallidum
+Halocin_C8	NZ_JAJFAY010000003.1_196	5.037E-07	63	71	268	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Haladaptatus;s_Haladaptatus sp021083305
+Halocin_C8	JHUT02000017.1_13	2.166E-06	61	27	235	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema mahii
+Halocin_C8	NZ_AOME01000068.1_17	3.731E-12	79	1	280	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Halococcaceae;g_Halococcus;s_Halococcus salifodinae
+Halocin_C8	SKSD01000001.1_94	4.039E-11	76	6	256	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_SKSH01;g_SKSH01;s_SKSH01 sp007118145
+Halocin_C8	NC_013202.1_958	4.332E-10	73	35	302	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halomicrobium;s_Halomicrobium mukohataei
+Halocin_C8	NZ_CP099993.1_647	8.296E-09	69	5	249	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus sp024138125
+Halocin_C8	NZ_CP019067.1_300	3.877E-06	61	43	259	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halorientalis;s_Halorientalis sp001989615
+Halocin_C8	AOIR01000038.1_26	7.101E-04	53	5	294	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema thermotolerans
+Halocin_C8	NC_019962.1_2354	1.252E-31	137	1	266	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema pellirubrum
+Halocin_C8	NZ_RDFA01000008.1_146	3.387E-16	91	38	277	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halorientalis;s_Halorientalis pallida
+Halocin_C8	CP100465.1_75	9.843E-11	75	9	246	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Haladaptatus;s_Haladaptatus sp024227995
+Halocin_C8	NZ_KB913017.1_495	2.898E-06	61	17	274	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natronorubrum;s_Natronorubrum tibetense
+Halocin_C8	DARA01000066.1_3	2.960E-05	58	113	180	d_Archaea;p_Halobacteriota;c_Methanomicrobia;o_Methanomicrobiales;f_Methanoculleaceae;g_UBA207;s_UBA207 sp002503135
+Halocin_C8	NC_000917.1_1621	5.282E-05	57	136	207	d_Archaea;p_Halobacteriota;c_Archaeoglobi;o_Archaeoglobales;f_Archaeoglobaceae;g_Archaeoglobus;s_Archaeoglobus fulgidus
+Halocin_C8	JAMXHR010000010.1_984	9.421E-05	56	193	265	d_Archaea;p_Halobacteriota;c_Methanosarcinia;o_Methanosarcinales;f_Methanosarcinaceae;g_Methanosarcina;s_Methanosarcina barkeri C
+Halocin_C8	NZ_CP009503.1_1446	9.421E-05	56	185	267	d_Archaea;p_Halobacteriota;c_Methanosarcinia;o_Methanosarcinales;f_Methanosarcinaceae;g_Methanosarcina;s_Methanosarcina sp000969965
+Halocin_C8	NC_019962.1_2078	1.258E-04	56	1	264	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema pellirubrum
+Halocin_C8	NZ_CP044129.1_270	1.258E-04	56	40	331	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halomicrobium;s_Halomicrobium sp009617995
+Halocin_C8	NZ_AOID01000026.1_60	1.679E-04	55	6	259	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema versiforme
+Halocin_C8	NZ_AOII01000036.1_36	2.991E-04	55	1	264	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema pallidum
+Halocin_C8	NZ_ML974131.1_190	5.324E-04	54	2	103	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus amylolyticus
+Halocin_C8	NC_013743.1_2014	4.547E-23	112	1	264	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Haloterrigena;s_Haloterrigena turkmenica
+Halocin_C8	NZ_JAGSOI010000007.1_24	6.490E-08	66	30	250	d_Archaea;p_Halobacteriota;c_Methanosarcinia;o_Methanosarcinales;f_Methanosarcinaceae;g_Methanococcoides;s_Methanococcoides seepicolus
+Halocin_C8	JAKCFJ010000002.1_667	1.166E-07	65	1	263	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halocatena;s_Halocatena sp025041175
+Halocin_C8	NZ_CP090371.1_1097	2.807E-07	64	39	312	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Halobaculum;s_Halobaculum sp021431925
+Halocin_C8	NZ_BIXZ01000012.1_61	3.760E-07	64	9	247	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Haloarcula;s_Haloarcula mannanilytica
+Halocin_C8	NZ_VSLZ01000004.1_181	2.215E-05	58	144	211	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus sp010747475
+Halocin_C8	NZ_FZMP01000010.1_36	2.215E-05	58	150	223	d_Archaea;p_Halobacteriota;c_Methanosarcinia;o_Methanosarcinales;f_Methanoperedenaceae;g_Methanoperedens;s_Methanoperedens nitroreducens A
+Halocin_C8	NZ_CP035119.1_428	2.215E-05	58	1	251	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus pelagicus
+Halocin_C8	NZ_BAFM01000006.1_110	5.282E-05	57	2	221	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Halococcaceae;g_Halococcus;s_Halococcus agarilyticus
+Halocin_C8	NZ_CP044129.1_444	1.258E-04	56	5	265	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halomicrobium;s_Halomicrobium sp009617995
+Halocin_C8	NZ_SBIU01000004.1_208	2.991E-04	55	6	101	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus halobius
+Halocin_C8	NZ_CP084473.1_75	2.166E-06	61	3	277	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema sp020405225
+Halocin_C8	NZ_JALLPK010000001.1_2583	3.991E-04	54	209	281	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halocatena;s_Halocatena sp023276375
+Halocin_C8	NZ_CP100400.1_3154	2.005E-08	68	1	270	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus sp024218795
+Halocin_C8	NZ_ML219768.1_381	2.005E-08	68	1	270	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus ruber
+Halocin_S8	NZ_SBIU01000004.1_397	3.502E-15	89	3	255	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus halobius
+Halocin_S8	NZ_ML974127.1_1223	1.328E-12	81	1	256	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus salinus
+Halocin_S8	NZ_SPQG01000001.1_170	3.220E-12	80	125	302	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halorhabdus;s_Halorhabdus amylolytica
+Halocin_S8	NZ_CP024045.1_38	3.848E-27	125	9	279	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrarchaeobaculum;s_Natrarchaeobaculum sulfurireducens
+Halocin_S8	NC_019964.1_884	2.250E-22	111	1	283	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Halovivax;s_Halovivax ruber
+Halocin_S8	NZ_CP084472.1_4102	2.547E-21	108	1	177	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema sp020405225
+Halocin_S8	NZ_AOLI01000017.1_295	4.338E-19	101	10	291	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Haloferax;s_Haloferax larsenii
+Halocin_S8	NC_019962.1_496	7.349E-13	82	2	178	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema pellirubrum
+Halocin_S8	NZ_CP035119.1_435	3.835E-07	64	22	330	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus pelagicus
+Halocin_S8	NC_017944.1_67	1.219E-05	59	2	183	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Haloferax;s_Haloferax mediterranei
+Halocin_S8	NZ_CP096021.1_44	3.844E-05	58	7	156	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halocatena;s_Halocatena sp023115355
+Halocin_S8	NC_017944.1_68	2.750E-09	71	13	109	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Haloferax;s_Haloferax mediterranei
+Halocin_S8	NZ_CP019327.1_209	4.928E-09	70	1	328	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natronorubrum;s_Natronorubrum daqingense
+Halocin_S8	NZ_FNKQ01000004.1_2	1.181E-08	69	14	279	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Halopelagius;s_Halopelagius longus
+Halocin_S8	NC_019964.1_106	2.150E-07	65	12	311	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Halovivax;s_Halovivax ruber
+Halocin_S8	NZ_CP024047.1_297	5.145E-06	61	12	160	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrarchaeobaculum;s_Natrarchaeobaculum sulfurireducens
+Halocin_S8	NZ_JDTH01000002.1_1579	3.209E-19	101	14	288	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Haladaptatus;s_Haladaptatus cibarius
+Halocin_S8	NZ_AOME01000068.1_6	1.447E-18	99	15	284	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Halococcaceae;g_Halococcus;s_Halococcus salifodinae
+Halocin_S8	NZ_REFZ01000003.1_7	6.356E-15	88	1	307	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrarchaeobius;s_Natrarchaeobius chitinivorans A
+Halocin_S8	NC_019964.1_2448	1.671E-13	84	7	329	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Halovivax;s_Halovivax ruber
+Halocin_S8	NZ_RAPO01000007.1_26	1.476E-10	75	10	298	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Halopiger;s_Halopiger aswanensis
+Halocin_S8	NZ_AOIN01000099.1_30	1.979E-10	74	10	300	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrialba;s_Natrialba chahannaoensis
+Halocin_S8	NZ_VSLZ01000001.1_886	1.534E-09	72	1	158	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Halorussus;s_Halorussus sp010747475
+Halocin_S8	NZ_CP019893.1_2403	2.750E-09	71	1	292	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrarchaeobaculum;s_Natrarchaeobaculum aegyptiacum
+Halocin_S8	NZ_CP100756.1_2469	9.017E-08	66	10	178	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema sp024266705
+Halocin_S8	NZ_JAAOIR010000005.1_84	1.610E-07	65	23	293	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Halorubellus;s_Halorubellus sp011440375
+Halocin_S8	NZ_JAAKXY010000004.1_238	3.835E-07	64	1	188	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natronolimnobius;s_Natronolimnobius sp011043775
+Halocin_S8	NZ_RRCH01000041.1_7	9.408E-25	118	6	263	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloarculaceae;g_Halocatena;s_Halocatena pleomorpha
+Halocin_S8	NZ_CP024047.1_765	7.873E-16	91	1	307	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrarchaeobaculum;s_Natrarchaeobaculum sulfurireducens
+Halocin_S8	NZ_AOII01000069.1_47	2.091E-14	87	3	294	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema pallidum
+Halocin_S8	NZ_AOLK01000002.1_39	6.863E-14	85	1	193	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Haloferax;s_Haloferax elongans
+Halocin_S8	NZ_AOLI01000017.1_297	2.248E-13	83	1	243	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Haloferax;s_Haloferax larsenii
+Halocin_S8	NZ_AOLI01000022.1_27	4.066E-13	83	1	175	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Haloferax;s_Haloferax larsenii
+Halocin_S8	NC_012028.1_405	4.764E-10	73	41	232	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Halorubrum;s_Halorubrum lacusprofundi
+Halocin_S8	CP002989.1_52	4.764E-10	73	41	232	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haloferacaceae;g_Halolamina;s_Halolamina sp000224475
+Halocin_S8	NZ_JAJCVI010000004.1_369	2.150E-07	65	1	182	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Halorubellus;s_Halorubellus salinus
+Halocin_S8	NZ_CP085336.1_407	2.547E-21	108	32	311	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Haladaptataceae;g_Haladaptatus;s_Haladaptatus sp020618475
+Halocin_S8	NZ_FNLC01000002.1_1060	4.561E-11	76	1	293	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natronobacterium;s_Natronobacterium texcoconense
+Halocin_S8	NZ_LWLN01000001.1_3382	2.112E-08	68	2	260	d_Archaea;p_Halobacteriota;c_Halobacteria;o_Halobacteriales;f_Natrialbaceae;g_Natrinema;s_Natrinema saccharevitans

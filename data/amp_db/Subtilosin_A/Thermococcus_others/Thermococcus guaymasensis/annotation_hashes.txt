@@ -1,0 +1,2 @@
+# Assembly accession	Descriptors hash	Descriptors last changed	Features hash	Features last changed	Locations hash	Locations last change	Protein names hash	Protein names last changed
+GCF_000816105.1	9878D3D1780700C78A1972F18F923737	2022/04/19 02:05:00	24400F3F69A06452DEB30E713CC50D11	2022/04/19 02:05:00	5436C8B1DB38F1E8A9128A2B0171F2F8	2022/04/19 02:05:00	E3A7EB0965C800DFC14F52613A082262	2022/04/19 02:05:00

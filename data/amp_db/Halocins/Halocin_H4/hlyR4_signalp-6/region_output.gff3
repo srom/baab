@@ -1,0 +1,13 @@
+## gff-version 3
+WP_123064576.1@GCF_003719335.1 Peptidase_S8 [Paenibacillus amylolyticus D]	SignalP-6.0	n-region	1	4	.	.	.	.
+WP_123064576.1@GCF_003719335.1 Peptidase_S8 [Paenibacillus amylolyticus D]	SignalP-6.0	h-region	5	20	.	.	.	.
+WP_123064576.1@GCF_003719335.1 Peptidase_S8 [Paenibacillus amylolyticus D]	SignalP-6.0	c-region	21	25	.	.	.	.
+WP_123063612.1@GCF_003719335.1 Peptidase_S8 [Paenibacillus amylolyticus D]	SignalP-6.0	n-region	1	10	.	.	.	.
+WP_123063612.1@GCF_003719335.1 Peptidase_S8 [Paenibacillus amylolyticus D]	SignalP-6.0	h-region	11	25	.	.	.	.
+WP_123063612.1@GCF_003719335.1 Peptidase_S8 [Paenibacillus amylolyticus D]	SignalP-6.0	c-region	26	29	.	.	.	.
+WP_281364809.1@GCF_013359905.1 Peptidase_S8 [Paenibacillus taichungensis]	SignalP-6.0	n-region	1	4	.	.	.	.
+WP_281364809.1@GCF_013359905.1 Peptidase_S8 [Paenibacillus taichungensis]	SignalP-6.0	h-region	5	20	.	.	.	.
+WP_281364809.1@GCF_013359905.1 Peptidase_S8 [Paenibacillus taichungensis]	SignalP-6.0	c-region	21	25	.	.	.	.
+WP_175382701.1@GCF_013359905.1 Peptidase_S8 [Paenibacillus taichungensis]	SignalP-6.0	n-region	1	9	.	.	.	.
+WP_175382701.1@GCF_013359905.1 Peptidase_S8 [Paenibacillus taichungensis]	SignalP-6.0	h-region	10	25	.	.	.	.
+WP_175382701.1@GCF_013359905.1 Peptidase_S8 [Paenibacillus taichungensis]	SignalP-6.0	c-region	26	29	.	.	.	.

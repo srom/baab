@@ -1,0 +1,50 @@
+## gff-version 3
+WP_014732703.1@GCF_000306765.2	SignalP-6.0	n-region	1	14	.	.	.	.
+WP_014732703.1@GCF_000306765.2	SignalP-6.0	h-region	15	33	.	.	.	.
+WP_014732703.1@GCF_000306765.2	SignalP-6.0	c-region	34	37	.	.	.	.
+WP_014732703.1@GCF_000306765.2	SignalP-6.0	twin-arginine motif	12	13	.	.	.	.
+WP_241433888.1@GCF_000337535.1	SignalP-6.0	n-region	1	29	.	.	.	.
+WP_241433888.1@GCF_000337535.1	SignalP-6.0	h-region	30	47	.	.	.	.
+WP_241433888.1@GCF_000337535.1	SignalP-6.0	c-region	48	50	.	.	.	.
+WP_241433888.1@GCF_000337535.1	SignalP-6.0	twin-arginine motif	27	28	.	.	.	.
+WP_155396796.1@GCF_000970305.1	SignalP-6.0	n-region	1	7	.	.	.	.
+WP_155396796.1@GCF_000970305.1	SignalP-6.0	h-region	8	27	.	.	.	.
+WP_155396796.1@GCF_000970305.1	SignalP-6.0	c-region	28	30	.	.	.	.
+WP_076157611.1@GCF_001955925.1	SignalP-6.0	n-region	1	11	.	.	.	.
+WP_076157611.1@GCF_001955925.1	SignalP-6.0	h-region	12	23	.	.	.	.
+WP_076157611.1@GCF_001955925.1	SignalP-6.0	c-region	24	30	.	.	.	.
+WP_247730522.1@GCF_023093535.1	SignalP-6.0	n-region	1	10	.	.	.	.
+WP_247730522.1@GCF_023093535.1	SignalP-6.0	h-region	11	29	.	.	.	.
+WP_247730522.1@GCF_023093535.1	SignalP-6.0	c-region	30	35	.	.	.	.
+WP_247730522.1@GCF_023093535.1	SignalP-6.0	twin-arginine motif	8	9	.	.	.	.
+JAGXOR010000056.1_11@GCA_023659785.1	SignalP-6.0	n-region	1	8	.	.	.	.
+JAGXOR010000056.1_11@GCA_023659785.1	SignalP-6.0	h-region	9	26	.	.	.	.
+JAGXOR010000056.1_11@GCA_023659785.1	SignalP-6.0	c-region	27	29	.	.	.	.
+WP_153552228.1@GCF_009617995.1	SignalP-6.0	n-region	1	12	.	.	.	.
+WP_153552228.1@GCF_009617995.1	SignalP-6.0	h-region	13	31	.	.	.	.
+WP_153552228.1@GCF_009617995.1	SignalP-6.0	c-region	32	36	.	.	.	.
+WP_153552228.1@GCF_009617995.1	SignalP-6.0	twin-arginine motif	10	11	.	.	.	.
+QEXZ01000077.1_7@GCA_003160755.1	SignalP-6.0	n-region	1	9	.	.	.	.
+QEXZ01000077.1_7@GCA_003160755.1	SignalP-6.0	h-region	10	26	.	.	.	.
+QEXZ01000077.1_7@GCA_003160755.1	SignalP-6.0	c-region	27	29	.	.	.	.
+WP_123067460.1@GCF_003719335.1	SignalP-6.0	n-region	1	11	.	.	.	.
+WP_123067460.1@GCF_003719335.1	SignalP-6.0	h-region	12	27	.	.	.	.
+WP_123067460.1@GCF_003719335.1	SignalP-6.0	c-region	28	33	.	.	.	.
+NQE06396.1@GCA_013180605.1	SignalP-6.0	n-region	1	9	.	.	.	.
+NQE06396.1@GCA_013180605.1	SignalP-6.0	h-region	10	26	.	.	.	.
+NQE06396.1@GCA_013180605.1	SignalP-6.0	c-region	27	29	.	.	.	.
+WP_132280169.1@GCF_004339095.1	SignalP-6.0	n-region	1	12	.	.	.	.
+WP_132280169.1@GCF_004339095.1	SignalP-6.0	h-region	13	26	.	.	.	.
+WP_132280169.1@GCF_004339095.1	SignalP-6.0	c-region	27	32	.	.	.	.
+WP_175383825.1@GCF_013359905.1	SignalP-6.0	n-region	1	11	.	.	.	.
+WP_175383825.1@GCF_013359905.1	SignalP-6.0	h-region	12	27	.	.	.	.
+WP_175383825.1@GCF_013359905.1	SignalP-6.0	c-region	28	33	.	.	.	.
+MTLP01000007.1_117@GCA_002009975.1	SignalP-6.0	n-region	1	5	.	.	.	.
+MTLP01000007.1_117@GCA_002009975.1	SignalP-6.0	h-region	6	19	.	.	.	.
+MTLP01000007.1_117@GCA_002009975.1	SignalP-6.0	c-region	20	25	.	.	.	.
+CALUHR010000006.1_67@GCA_944320495.1	SignalP-6.0	n-region	1	8	.	.	.	.
+CALUHR010000006.1_67@GCA_944320495.1	SignalP-6.0	h-region	9	22	.	.	.	.
+CALUHR010000006.1_67@GCA_944320495.1	SignalP-6.0	c-region	23	27	.	.	.	.
+WP_167895259.1@GCF_012027355.1	SignalP-6.0	n-region	1	4	.	.	.	.
+WP_167895259.1@GCF_012027355.1	SignalP-6.0	h-region	5	18	.	.	.	.
+WP_167895259.1@GCF_012027355.1	SignalP-6.0	c-region	19	25	.	.	.	.

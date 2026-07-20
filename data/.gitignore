@@ -1,0 +1,59 @@
+# ---------------------------------------------------------------------------
+# Large, reproducible reference data.
+#
+# These files are copied into data/ so the notebooks run end-to-end locally,
+# but they are intentionally NOT committed to the repository. They can be
+# re-downloaded / regenerated from their original sources, as described in the
+# paper's Methods:
+#   * NCBI assemblies       -> per-genome protein FASTAs (*_protein.faa[.gz])
+#                              and annotations (*_genomic.gff[.gz])
+#   * GTDB release r214.1    -> genome metadata tables (*_metadata_r214.tsv)
+#   * AlphaFold predictions  -> structure / MSA outputs (fold_*/, *.a3m)
+# ---------------------------------------------------------------------------
+
+# GTDB r214.1 release metadata (large TSVs; the small *_r214.tree files ARE kept)
+gtdb_r214.1/*_metadata_r214.tsv
+
+# NCBI genome downloads: every per-assembly file is prefixed with its
+# GCF_/GCA_ accession (genomic .fna/.gff/.gbff, protein .faa/.gpff, cds/rna
+# fasta, feature/assembly reports, etc.). The whole assembly folder is
+# reproducible from NCBI, so exclude them all.
+**/genomes/
+**/GCF_*
+**/GCA_*
+
+# NCBI genome downloads, bare-named variants (no GCF_/GCA_ prefix)
+**/genomic.gff
+**/genomic.gff.gz
+**/genomic.fna
+**/genomic.fna.gz
+**/genomic.gbff
+**/genomic.gbff.gz
+**/protein.faa
+**/protein.faa.gz
+**/protein.gpff.gz
+
+# AlphaFold structure-prediction / MSA outputs
+**/fold_*/
+**/*.a3m
+
+# Operon-mapper raw outputs (regenerated from the assemblies)
+**/operon_mapper_*/
+
+# IQ-TREE search intermediates (the final *.treefile is kept)
+**/*.ufboot
+**/*.ckp.gz
+**/*.bionj
+**/*.mldist
+**/*.iqtree
+**/*.splits.nex
+**/*.contree
+**/*.model.gz
+**/*.uniqueseq.phy
+
+# Large reproducible all-vs-all search tables
+**/*_vs_all.tsv
+
+# macOS cruft
+.DS_Store
+**/.DS_Store

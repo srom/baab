@@ -1,0 +1,59 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_227805058.1       -          NZ_CP010835.1_1113   -           7.4e-199  655.9  11.1  8.3e-199  655.8  11.1   1.0   1   0   0   1   1   1   1 ATP-binding cassette domain-containing protein [Pyrococcus kukulkanii]
+WP_068324773.1       -          NZ_CP010835.1_1113   -            1.9e-55  185.2   5.5   1.1e-53  179.5   5.5   2.1   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068324383.1       -          NZ_CP010835.1_1113   -            3.6e-55  184.3   4.2   1.8e-53  178.7   4.2   2.0   1   1   0   1   1   1   1 ATP-binding cassette domain-containing protein [Pyrococcus kukulkanii]
+WP_068324455.1       -          NZ_CP010835.1_1113   -            4.4e-54  180.7   6.7   7.5e-53  176.7   6.7   2.0   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068323895.1       -          NZ_CP010835.1_1113   -              5e-50  167.4   2.7   3.4e-48  161.4   1.2   2.0   1   1   1   2   2   2   1 ATP-binding cassette domain-containing protein [Pyrococcus kukulkanii]
+WP_068323805.1       -          NZ_CP010835.1_1113   -              3e-44  148.4   3.1   3.6e-44  148.2   3.1   1.0   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068321836.1       -          NZ_CP010835.1_1113   -            2.4e-43  145.5   1.2   3.8e-43  144.8   1.2   1.3   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068322835.1       -          NZ_CP010835.1_1113   -            3.5e-43  145.0   7.0   9.6e-43  143.5   7.0   1.6   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068323351.1       -          NZ_CP010835.1_1113   -            1.9e-38  129.4   9.7   3.6e-23   79.3   1.3   2.7   1   1   0   2   2   2   2 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068324364.1       -          NZ_CP010835.1_1113   -            2.8e-31  105.9   1.7   6.2e-31  104.8   0.4   1.8   1   1   1   2   2   2   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068321344.1       -          NZ_CP010835.1_1113   -            1.3e-28   97.1   4.8   1.6e-16   57.4   1.0   3.1   2   1   1   3   3   3   3 ribosome biogenesis/translation initiation ATPase RLI [Pyrococcus kukulkanii]
+WP_068323590.1       -          NZ_CP010835.1_1113   -            2.9e-28   96.0   0.1   3.6e-28   95.7   0.1   1.1   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_074964163.1       -          NZ_CP010835.1_1113   -            2.3e-27   93.1   2.2   2.5e-27   92.9   2.2   1.1   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068319982.1       -          NZ_CP010835.1_1113   -            6.4e-27   91.6   1.1     7e-27   91.5   0.2   1.4   2   0   0   2   2   2   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068323506.1       -          NZ_CP010835.1_1113   -              2e-26   89.9   1.4   3.4e-26   89.2   1.4   1.3   1   1   0   1   1   1   1 metal ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068321160.1       -          NZ_CP010835.1_1113   -            2.8e-25   86.2   0.6   3.2e-25   86.0   0.6   1.0   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068324031.1       -          NZ_CP010835.1_1113   -            5.5e-25   85.2   0.2   8.2e-25   84.7   0.2   1.2   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068322743.1       -          NZ_CP010835.1_1113   -            3.9e-24   82.5   0.3   5.2e-24   82.0   0.3   1.2   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068321031.1       -          NZ_CP010835.1_1113   -            5.9e-24   81.9   0.3   7.8e-24   81.4   0.3   1.1   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068324622.1       -          NZ_CP010835.1_1113   -            6.8e-24   81.7   0.2   1.2e-23   80.8   0.2   1.3   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068322339.1       -          NZ_CP010835.1_1113   -            2.3e-23   79.9   0.2   3.3e-23   79.4   0.2   1.2   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068323932.1       -          NZ_CP010835.1_1113   -            7.1e-23   78.3   2.3   8.9e-23   78.0   2.3   1.0   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068319886.1       -          NZ_CP010835.1_1113   -            8.6e-23   78.0   1.2   1.1e-22   77.7   1.2   1.1   1   0   0   1   1   1   1 energy-coupling factor ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068321830.1       -          NZ_CP010835.1_1113   -            2.9e-22   76.3   1.7   1.7e-21   73.8   1.7   1.9   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068322531.1       -          NZ_CP010835.1_1113   -              2e-21   73.6   0.3   2.8e-21   73.1   0.3   1.1   1   0   0   1   1   1   1 tungstate ABC transporter ATP-binding protein WtpC [Pyrococcus kukulkanii]
+WP_068324406.1       -          NZ_CP010835.1_1113   -            2.6e-21   73.1   0.1   3.1e-21   72.9   0.1   1.0   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068320105.1       -          NZ_CP010835.1_1113   -            9.9e-21   71.3   0.2   3.7e-20   69.4   0.2   1.8   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_227805127.1       -          NZ_CP010835.1_1113   -            9.9e-21   71.3   1.4   1.2e-20   71.0   1.4   1.2   1   0   0   1   1   1   1 ATP-binding cassette domain-containing protein [Pyrococcus kukulkanii]
+WP_068323137.1       -          NZ_CP010835.1_1113   -              1e-20   71.2   1.2   1.2e-20   71.0   1.2   1.1   1   0   0   1   1   1   1 ATP-binding cassette domain-containing protein [Pyrococcus kukulkanii]
+WP_068320104.1       -          NZ_CP010835.1_1113   -            5.3e-20   68.9   1.4   2.7e-19   66.6   1.4   1.8   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068321381.1       -          NZ_CP010835.1_1113   -            9.9e-20   68.0   1.5   1.2e-19   67.7   1.5   1.0   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068320368.1       -          NZ_CP010835.1_1113   -            1.3e-19   67.6   0.4     2e-19   67.0   0.4   1.2   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068321469.1       -          NZ_CP010835.1_1113   -            1.5e-16   57.5   0.4   2.1e-15   53.8   0.4   2.2   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068324028.1       -          NZ_CP010835.1_1113   -            2.2e-16   57.0   0.3   1.5e-09   34.5   0.0   2.3   1   1   1   2   2   2   2 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068320366.1       -          NZ_CP010835.1_1113   -            2.2e-16   57.0   0.4   2.4e-15   53.6   0.4   2.0   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_227805133.1       -          NZ_CP010835.1_1113   -              7e-16   55.4   0.2   9.3e-16   54.9   0.2   1.1   1   0   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068321466.1       -          NZ_CP010835.1_1113   -            9.8e-16   54.9   0.4   6.9e-15   52.1   0.4   1.9   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Pyrococcus kukulkanii]
+WP_068321517.1       -          NZ_CP010835.1_1113   -              1e-13   48.3   4.4   7.4e-13   45.4   3.2   2.4   2   1   0   2   2   2   1 ABC transporter ATP-binding protein/permease [Pyrococcus kukulkanii]
+WP_068324513.1       -          NZ_CP010835.1_1113   -            2.7e-13   46.9   1.8   8.2e-13   45.3   1.8   1.7   1   1   0   1   1   1   1 Fe-S cluster assembly ATPase SufC [Pyrococcus kukulkanii]
+WP_068321514.1       -          NZ_CP010835.1_1113   -            2.2e-12   43.9   0.5   1.4e-11   41.3   0.5   2.1   1   1   0   1   1   1   1 ABC transporter ATP-binding protein/permease [Pyrococcus kukulkanii]
+WP_068323883.1       -          NZ_CP010835.1_1113   -              1e-10   38.4   0.1   1.6e-10   37.8   0.1   1.2   1   0   0   1   1   1   1 GNAT family N-acetyltransferase [Pyrococcus kukulkanii]
+WP_068324828.1       -          NZ_CP010835.1_2138   -                  0 1276.5   0.6         0 1276.3   0.6   1.0   1   0   0   1   1   1   1 radical SAM protein [Pyrococcus kukulkanii]
+WP_068320638.1       -          NZ_CP010835.1_2138   -            8.8e-14   47.6   0.8   6.6e-13   44.7   0.0   2.0   2   0   0   2   2   2   1 tungsten cofactor oxidoreductase radical SAM maturase [Pyrococcus kukulkanii]
+WP_068319929.1       -          NZ_CP010835.1_2138   -            2.6e-13   46.0   0.0   3.3e-13   45.7   0.0   1.0   1   0   0   1   1   1   1 GTP 3',8-cyclase MoaA [Pyrococcus kukulkanii]
+WP_068324179.1       -          NZ_CP010835.1_2138   -            3.3e-09   32.5   0.0   6.5e-09   31.5   0.0   1.4   1   0   0   1   1   1   1 radical SAM protein [Pyrococcus kukulkanii]
+WP_068319964.1       -          NZ_CP010835.1_2138   -            3.3e-08   29.2   0.1   4.2e-08   28.8   0.1   1.3   1   1   0   1   1   1   1 radical SAM protein [Pyrococcus kukulkanii]
+#
+# Program:         phmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      wider_gtdb_search/P_kuku.fasta
+# Target file:     /Users/rs1521/workspace/data/amp_db/Subtilosin_A/Pyrococcus kukulkanii/GCF_001577775.1_ASM157777v1_protein.faa
+# Option settings: phmmer -o /dev/null --tblout wider_gtdb_search/P_kukulkanii_map.tblout.txt -T 20 wider_gtdb_search/P_kuku.fasta /Users/rs1521/workspace/data/amp_db/Subtilosin_A/Pyrococcus kukulkanii/GCF_001577775.1_ASM157777v1_protein.faa 
+# Current dir:     /Users/rs1521/workspace/data/amp_db/Subtilosin_A
+# Date:            Mon Nov 10 15:05:41 2025
+# [ok]

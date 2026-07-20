@@ -1,0 +1,19 @@
+{
+    "exit_code": 0,
+    "arguments": [
+        "--fastafile",
+        "Halocin_H4_dataset_curated.fasta",
+        "--organism",
+        "other",
+        "--mode",
+        "fast",
+        "--output_dir",
+        "/home/signalp/output",
+        "--format",
+        "all"
+    ],
+    "app_uri": "DTU/SignalP-6:0.0.56",
+    "ended_at": "2025-08-14T15:16:10.246863Z",
+    "job_uuid": "2d79684b-2c15-4001-80b8-474951be78b0",
+    "started_at": "2025-08-14T15:15:24.919491Z"
+}

@@ -1,0 +1,48 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+WP_008479876.1@GCF_000297255.1 -           1438 DUF6531              PF20148.5     73   1.3e-11   37.6   0.0   1   1   5.9e-13   6.4e-11   35.3   0.0     4    71   488   559   486   561 0.83 [Nitrolancea hollandica]
+WP_136361702.1@GCF_008124605.1 -            296 Hac8_like_N          PF22862.1    106   1.2e-53  173.0   1.5   1   1   3.5e-54   1.8e-53  172.4   1.5     1   106    30   135    30   135 0.99 [Halobacterium salinarum]
+WP_007110057.1@GCF_000731985.1 -            283 Hac8_like_N          PF22862.1    106   7.3e-51  164.1   0.5   1   1   1.4e-51   7.3e-51  164.1   0.5     1   106    51   156    51   156 0.99 [Natrinema altunense] [MODIFIED]
+WP_206536420.1@GCF_000336955.1 -            310 Hac8_like_N          PF22862.1    106     7e-48  154.5   2.5   1   1   2.4e-48   1.2e-47  153.7   2.5     1   106    44   149    44   149 0.99 [Haloferax larsenii]
+WP_004043226.1@GCF_000025685.1 -            305 Hac8_like_N          PF22862.1    106     5e-47  151.7   2.4   1   1   1.8e-47   9.2e-47  150.9   2.4     1   106    52   164    52   164 0.97 [Haloferax volcanii]
+WP_174681857.1@GCF_013342145.1 -            248 Hac8_like_N          PF22862.1    106   7.3e-44  141.6   0.4   1   1     2e-44     1e-43  141.1   0.4     1   106    16   121    16   121 0.99 [Haloterrigena gelatinilytica]
+WP_211338378.1@GCF_003977755.1 -            248 Hac8_like_N          PF22862.1    106     2e-43  140.2   0.3   1   1   6.5e-44   3.3e-43  139.4   0.3     1   106    16   121    16   121 0.99 [Haloterrigena salifodinae]
+WP_004975848.1@GCF_000336775.1 -            270 Hac8_like_N          PF22862.1    106   2.6e-43  139.8   1.0   1   1   9.3e-44   4.8e-43  138.9   1.0     1   106    17   129    17   129 0.97 WP_239639938.1@GCF_000336775.1 [Haloferax gibbonsii]
+WP_008893279.1@GCF_000337495.1 -            248 Hac8_like_N          PF22862.1    106   3.4e-43  139.4   0.4   1   1   9.6e-44   4.9e-43  138.9   0.4     1   106    16   121    16   121 0.99 [Haloterrigena salina]
+WP_015299281.1@GCF_000230735.2 -            294 Hac8_like_N          PF22862.1    106     5e-39  126.0   1.1   1   1   1.7e-39   8.9e-39  125.2   1.1     1   105    58   162    58   163 0.98 [Natrinema pellirubrum]
+ELZ16389.1@GCA_000337115.1     -            273 Hac8_like_N          PF22862.1    106     5e-30   97.1   2.5   1   1   1.5e-30   7.8e-30   96.4   2.5     1   105    18   122    18   123 0.99 [Natrinema thermotolerans]
+WP_175459731.1@GCF_900108095.1 -            289 Hac8_like_N          PF22862.1    106   1.1e-29   95.9   2.3   1   1   3.5e-30   1.8e-29   95.3   2.3     1   106    32   137    32   137 0.99 [Natronorubrum sediminis]
+WP_008892994.1@GCF_000337495.1 -            277 Hac8_like_N          PF22862.1    106   2.4e-28   91.6   2.7   1   1   5.5e-29   2.8e-28   91.4   2.0     1   105    23   127    23   128 0.99 [Haloterrigena salina]
+WP_202935063.1@GCF_004143485.2 -            289 Hac8_like_N          PF22862.1    106   5.3e-27   87.3   0.8   1   1     1e-27   5.3e-27   87.3   0.8     6   106    49   148    44   148 0.94 [Halorussus amylolyticus]
+WP_253478286.1@GCF_024138125.1 -            289 Hac8_like_N          PF22862.1    106   5.6e-27   87.3   1.0   1   1   1.9e-27   9.7e-27   86.5   1.0     6   106    49   148    44   148 0.94 [Halorussus sp024138125]
+WP_166035560.1@GCF_004087835.1 -            288 Hac8_like_N          PF22862.1    106     1e-26   86.4   1.5   1   1   2.6e-27   1.3e-26   86.0   0.8     2   105    45   148    44   149 0.97 NZ_CP035119.1_2349@GCF_004087835.1 [Halorussus pelagicus]
+WP_208023473.1@GCF_004087835.1 -            288 Hac8_like_N          PF22862.1    106   9.2e-26   83.4   1.2   1   1   3.3e-26   1.7e-25   82.5   1.2     6   106    49   148    44   148 0.94 NZ_CP035119.1_1595@GCF_004087835.1 [Halorussus pelagicus]
+WP_136361253.1@GCF_008124605.1 -            242 Hac8_like_N          PF22862.1    106   2.9e-25   81.8   0.2   1   1   8.1e-26   4.2e-25   81.2   0.2    30   105     3    78     1    79 0.97 WP_244289023.1@GCF_008124605.1 [Halobacterium salinarum]
+WP_202932656.1@GCF_004765815.2 -            288 Hac8_like_N          PF22862.1    106   4.7e-24   77.9   1.9   1   1   1.6e-24   8.2e-24   77.1   1.9     6   106    49   148    44   148 0.94 [Halorussus salinus]
+WP_083870254.1@GCF_000337495.1 -            315 Hac8_like_N          PF22862.1    106   6.1e-24   77.5   0.1   1   1   3.6e-24   1.9e-23   75.9   0.0     1   105    50   154    50   155 0.98 [Haloterrigena salina]
+WP_174682227.1@GCF_013342145.1 -            316 Hac8_like_N          PF22862.1    106   7.7e-24   77.2   0.4   1   1   1.1e-23   5.5e-23   74.4   0.0     1   105    50   154    50   155 0.98 [Haloterrigena gelatinilytica]
+WP_231186491.1@GCF_021083305.1 -            285 Hac8_like_N          PF22862.1    106   1.8e-09   31.0   0.3   1   1   5.6e-10   2.9e-09   30.3   0.3     2    99    78   171    77   178 0.89 [Haladaptatus sp021083305]
+WP_008479876.1@GCF_000297255.1 -           1438 RHS_repeat           PF05593.20    38   4.3e-89  284.4 140.0   1   8     2e-12   1.1e-10   34.5   0.5     1    38   599   636   599   636 0.96 [Nitrolancea hollandica]
+WP_008479876.1@GCF_000297255.1 -           1438 RHS_repeat           PF05593.20    38   4.3e-89  284.4 140.0   2   8   3.1e-10   1.7e-08   27.6   0.8     8    37   735   764   732   765 0.92 [Nitrolancea hollandica]
+WP_008479876.1@GCF_000297255.1 -           1438 RHS_repeat           PF05593.20    38   4.3e-89  284.4 140.0   3   8     1e-10   5.4e-09   29.2   1.1     3    35   861   893   859   894 0.90 [Nitrolancea hollandica]
+WP_008479876.1@GCF_000297255.1 -           1438 RHS_repeat           PF05593.20    38   4.3e-89  284.4 140.0   4   8   3.5e-09   1.9e-07   24.2   2.1     2    37   903   938   902   939 0.95 [Nitrolancea hollandica]
+WP_008479876.1@GCF_000297255.1 -           1438 RHS_repeat           PF05593.20    38   4.3e-89  284.4 140.0   5   8   3.3e-13   1.8e-11   37.1   1.6     1    37   944   979   944   980 0.96 [Nitrolancea hollandica]
+WP_008479876.1@GCF_000297255.1 -           1438 RHS_repeat           PF05593.20    38   4.3e-89  284.4 140.0   6   8   5.4e-14   2.9e-12   39.6   2.2     1    37   985  1020   985  1021 0.97 [Nitrolancea hollandica]
+WP_008479876.1@GCF_000297255.1 -           1438 RHS_repeat           PF05593.20    38   4.3e-89  284.4 140.0   7   8   6.3e-10   3.4e-08   26.6   1.6     1    37  1027  1063  1027  1065 0.97 [Nitrolancea hollandica]
+WP_008479876.1@GCF_000297255.1 -           1438 RHS_repeat           PF05593.20    38   4.3e-89  284.4 140.0   8   8   4.2e-09   2.3e-07   24.0   2.8     1    37  1081  1118  1081  1119 0.77 [Nitrolancea hollandica]
+WP_008479876.1@GCF_000297255.1 -           1438 TEN_YD-shell         PF25023.2    901   1.8e-51  167.9  59.7   1   3   1.6e-11   5.6e-10   30.6   6.0   341   467   593   714   576   720 0.90 [Nitrolancea hollandica]
+WP_008479876.1@GCF_000297255.1 -           1438 TEN_YD-shell         PF25023.2    901   1.8e-51  167.9  59.7   2   3   3.7e-13   1.3e-11   36.0   1.1   321   399   979  1058   972  1075 0.90 [Nitrolancea hollandica]
+WP_008479876.1@GCF_000297255.1 -           1438 TEN_YD-shell         PF25023.2    901   1.8e-51  167.9  59.7   3   3   1.3e-23   4.6e-22   70.6  17.1   630   873  1089  1332  1071  1350 0.87 [Nitrolancea hollandica]
+WP_008479858.1@GCF_000297255.1 -            292 TEN_YD-shell         PF25023.2    901   3.9e-19   60.9   0.6   1   1   4.3e-18   1.5e-16   52.3   0.2   773   900    84   224    78   225 0.76 [Nitrolancea hollandica]
+WP_238538535.1@GCF_000297255.1 -            181 TEN_YD-shell         PF25023.2    901   2.8e-11   34.9   0.2   1   1   7.8e-13   2.8e-11   34.9   0.2   803   873     2    73     1   113 0.84 [Nitrolancea hollandica]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/rs1521/workspace/data/Pfam_38/Pfam-A.hmm
+# Target file:     sequences/HalC8_GTDB_r214_hits.fasta
+# Option settings: hmmsearch -o /dev/null --domtblout sequences/pfam_38.domtblout.txt --cut_ga --cpu 4 /Users/rs1521/workspace/data/Pfam_38/Pfam-A.hmm sequences/HalC8_GTDB_r214_hits.fasta 
+# Current dir:     /Users/rs1521/Documents/STAPHC8
+# Date:            Fri Sep 12 14:14:02 2025
+# [ok]

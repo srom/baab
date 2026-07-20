@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_011011767.1       -          NC_003413.1_658      -                  0 1258.6   0.6         0 1258.4   0.6   1.0   1   0   0   1   1   1   1 radical SAM/SPASM domain-containing protein [Pyrococcus furiosus]
+WP_011011459.1       -          NC_003413.1_658      -            1.6e-19   66.6   1.9   1.1e-17   60.5   0.0   2.1   2   0   0   2   2   2   2 tungsten cofactor oxidoreductase radical SAM maturase [Pyrococcus furiosus]
+WP_011011202.1       -          NC_003413.1_658      -              4e-14   48.7   0.0   4.7e-14   48.5   0.0   1.1   1   0   0   1   1   1   1 GTP 3',8-cyclase MoaA [Pyrococcus furiosus]
+WP_011012061.1       -          NC_003413.1_658      -            3.7e-12   42.2   0.0   5.3e-12   41.7   0.0   1.1   1   0   0   1   1   1   1 radical SAM protein [Pyrococcus furiosus]
+WP_223209022.1       -          NC_003413.1_658      -              1e-08   30.9   0.0   1.3e-08   30.5   0.0   1.1   1   0   0   1   1   1   1 radical SAM protein [Pyrococcus furiosus]
+WP_011012601.1       -          NC_003413.1_658      -            1.9e-08   30.0   0.0   3.1e-08   29.3   0.0   1.2   1   0   0   1   1   1   1 radical SAM protein [Pyrococcus furiosus]
+WP_011012775.1       -          NC_003413.1_658      -            3.7e-08   29.0   0.0   5.7e-08   28.4   0.0   1.3   1   0   0   1   1   1   1 radical SAM protein [Pyrococcus furiosus]
+WP_004068689.1       -          NC_003413.1_658      -            5.1e-08   28.6   0.5    0.0002   16.7   0.0   2.1   1   1   1   2   2   2   2 MULTISPECIES: radical SAM protein [Thermococcaceae]
+WP_223209018.1       -          NC_003413.1_658      -            2.6e-07   26.2   0.1   3.6e-07   25.8   0.1   1.2   1   0   0   1   1   1   1 radical SAM protein [Pyrococcus furiosus]
+WP_048059029.1       -          NC_003413.1_658      -            8.4e-06   21.3   3.8   5.2e-05   18.6   3.8   1.9   1   1   0   1   1   1   1 radical SAM protein [Pyrococcus furiosus]
+WP_011012864.1       -          NC_003413.1_658      -            1.5e-05   20.4   0.0   2.1e-05   19.9   0.0   1.1   1   0   0   1   1   1   1 4-demethylwyosine synthase TYW1 [Pyrococcus furiosus]
+#
+# Program:         phmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      wider_gtdb_search/NC_003413.1_658.fasta
+# Target file:     /Users/rs1521/workspace/data/amp_db/Subtilosin_A/Pyrococcus furiosus/GCF_000007305.1_ASM730v1_protein.faa
+# Option settings: phmmer -o /dev/null --tblout wider_gtdb_search/P_furiosus_map.tblout.txt -T 20 wider_gtdb_search/NC_003413.1_658.fasta /Users/rs1521/workspace/data/amp_db/Subtilosin_A/Pyrococcus furiosus/GCF_000007305.1_ASM730v1_protein.faa 
+# Current dir:     /Users/rs1521/workspace/data/amp_db/Subtilosin_A
+# Date:            Mon Nov 10 13:56:37 2025
+# [ok]

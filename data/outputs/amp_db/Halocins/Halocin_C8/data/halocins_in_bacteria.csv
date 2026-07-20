@@ -1,0 +1,20 @@
+assembly_accession,protein_id,amp_id,amp_desc,evalue,bitscore,domain,gtdb_phylum,gtdb_class,gtdb_order,gtdb_family,gtdb_genus,gtdb_species,ncbi_organism_name
+GCF_019710475.1,WP_228090750.1,Halocin_C8,TIGR04449,4.3e-08,32.0,Bacteria,Actinomycetota,Actinomycetia,Mycobacteriales,Micromonosporaceae,Glycomyces,Glycomyces sp019710475,Glycomyces sp. TRM65418
+GCF_012933555.1,WP_016202224.1,Halocin_C8,TIGR04449,2.6e-07,29.5,Bacteria,Bacillota,Bacilli,Bacillales,DSM-18226,Niallia,Niallia alba,Niallia alba
+GCF_018333235.1,WP_212922126.1,Halocin_C8,TIGR04449,3.1e-06,25.7,Bacteria,Bacillota,Bacilli,Bacillales_D,Amphibacillaceae,Paucisalibacillus,Paucisalibacillus bavariensis,Ornithinibacillus bavariensis
+GCF_000469135.2,WP_008634360.1,Halocin_C8,TIGR04449,4.4e-08,31.8,Bacteria,Bacillota,Bacilli,Bacillales_D,Halobacillaceae,Halobacillus,Halobacillus sp001592845,Bacillus sp. SB49
+GCF_900166625.1,WP_082233103.1,Halocin_C8,TIGR04449,4.2e-08,31.9,Bacteria,Bacillota,Bacilli,Bacillales_D,Halobacillaceae,Halobacillus_A,Halobacillus_A massiliensis,Halobacillus massiliensis
+GCF_002886255.1,WP_091587091.1,Halocin_C8,TIGR04449,6.4e-06,25.0,Bacteria,Bacillota,Bacilli,Bacillales_H,Marinococcaceae,Alteribacillus,Alteribacillus bidgolensis,Alteribacillus bidgolensis
+GCF_003226345.1,WP_110516892.1,Halocin_C8,TIGR04449,1e-08,33.8,Bacteria,Bacillota,Bacilli,Bacillales_H,Salisediminibacteriaceae,Alteribacter,Alteribacter lacisalsi,Bacillus lacisalsi
+GCF_900538055.1,WP_149453579.1,Halocin_C8,TIGR04449,4.7e-06,24.4,Bacteria,Bacillota,Bacilli,RES148,Pasteuriaceae,Pasteuria,Pasteuria penetrans,Pasteuria penetrans
+GCF_002901945.1,WP_103159623.1,Halocin_C8,TIGR04449,1.3e-08,32.7,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus chromogenes,Staphylococcus chromogenes
+GCF_006742205.1,WP_002456424.1,Halocin_C8,TIGR04449,1.2e-08,32.8,Bacteria,Bacillota,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis
+GCF_004339095.1,WP_132280169.1,Halocin_H4,,4.743e-06,45.0,Bacteria,Bacillota_A,Clostridia,Lachnospirales,DSM-24629,Natranaerovirga,Natranaerovirga hydrolytica,Natranaerovirga hydrolytica
+GCA_013122435.1,NOK57773.1,Halocin_C8,TIGR04449,1.2e-08,34.5,Bacteria,Chloroflexota,Chloroflexia,Chloroflexales,Roseiflexaceae,AL-N1,AL-N1 sp013122435,Chloroflexi bacterium AL-N1
+GCF_000297255.1,WP_008479858.1,Halocin_C8,TIGR04449,1.8e-13,49.0,Bacteria,Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,Nitrolancea hollandica,Nitrolancea hollandica Lb
+GCF_000297255.1,WP_008479876.1,Halocin_C8,TIGR04449,1.5e-10,39.7,Bacteria,Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,Nitrolancea hollandica,Nitrolancea hollandica Lb
+GCF_000297255.1,WP_238538535.1,Halocin_C8,TIGR04449,3.7e-13,48.0,Bacteria,Chloroflexota,Chloroflexia,Thermomicrobiales,Thermomicrobiaceae,Nitrolancea,Nitrolancea hollandica,Nitrolancea hollandica Lb
+GCA_003551155.1,PUMA01000117.1_2,Halocin_H4,,0.0008871,37.0,Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfonatronovibrionaceae,Desulfonatronospira,Desulfonatronospira sp003551155,Desulfonatronospira sp.
+GCA_001819555.1,OGZ35675.1,Halocin_H4,,0.0008743,36.0,Bacteria,Patescibacteria,Paceibacteria,Portnoybacterales,UBA2143,WO2-40-15,WO2-40-15 sp001819555,Candidatus Portnoybacteria bacterium RIFCSPHIGHO2_02_FULL_39_12
+GCA_016713135.1,MBK8069876.1,Halocin_H4,,0.0001401,41.0,Bacteria,Pseudomonadota,Gammaproteobacteria,Xanthomonadales,SZUA-5,JADKFD01,JADKFD01 sp016713135,Rhodanobacteraceae bacterium
+GCA_023131835.1,MCK4529253.1,Halocin_C8,TIGR04449,9.5e-07,27.5,Bacteria,WOR-3,UBA3072,UBA3072,UBA3072,JAGLZA01,JAGLZA01 sp023131835,candidate division WOR-3 bacterium

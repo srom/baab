@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_088863144.1       -          NP_391616.1          -            1.2e-15   48.1   1.4   1.3e-15   48.0   1.4   1.1   1   0   0   1   1   1   1 subtilosin A family bacteriocin [Thermococcus celer]
+WP_042691590.1       -          NP_391616.1          -            1.2e-13   42.0   0.4   1.2e-13   41.9   0.4   1.0   1   0   0   1   1   1   1 subtilosin A family bacteriocin [Thermococcus nautili]
+WP_088863145.1       -          NP_391617.1          -            4.7e-60  194.4   0.1   5.3e-60  194.2   0.1   1.1   1   0   0   1   1   1   1 radical SAM protein [Thermococcus celer]
+WP_042691587.1       -          NP_391617.1          -            2.4e-54  175.5   0.0   2.9e-54  175.3   0.0   1.0   1   0   0   1   1   1   1 radical SAM protein [Thermococcus nautili]
+WP_157895742.1       -          NP_391619.1          -              2e-26   84.5   0.0   2.5e-26   84.2   0.0   1.1   1   0   0   1   1   1   1 ATP-binding cassette domain-containing protein [Thermococcus celer]
+WP_051482183.1       -          NP_391619.1          -            6.1e-24   76.4   0.1   9.6e-24   75.8   0.1   1.3   1   1   0   1   1   1   1 ABC transporter ATP-binding protein [Thermococcus nautili]
+#
+# Program:         phmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/rs1521/workspace/data/amp_db/Subtilosin_A/query_proteins.fasta
+# Target file:     /Users/rs1521/workspace/data/amp_db/Subtilosin_A/target_proteins.fasta
+# Option settings: phmmer -o /dev/null --tblout /Users/rs1521/workspace/data/amp_db/Subtilosin_A/query_vs_targets.tblout.txt /Users/rs1521/workspace/data/amp_db/Subtilosin_A/query_proteins.fasta /Users/rs1521/workspace/data/amp_db/Subtilosin_A/target_proteins.fasta 
+# Current dir:     /Users/rs1521
+# Date:            Tue Jul 29 20:09:03 2025
+# [ok]

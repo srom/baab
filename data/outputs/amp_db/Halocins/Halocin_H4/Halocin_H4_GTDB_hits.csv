@@ -1,0 +1,32 @@
+query,target,evalue,bits,tstart,tend,domain,gtdb_phylum,gtdb_class,gtdb_order,gtdb_family,gtdb_genus,gtdb_species
+Halocin_H4,NC_017943.1_248,7.2949999999999995e-233,723,1,359,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax,Haloferax mediterranei
+Halocin_H4,NZ_AOIP01000056.1_97,2.72e-100,340,48,347,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrialba,Natrialba aegyptia
+Halocin_H4,NZ_AOIJ01000063.1_217,2.408e-93,320,1,276,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema gari
+Halocin_H4,NZ_AOIN01000078.1_1,1.9110000000000002e-42,172,6,156,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrialba,Natrialba chahannaoensis
+Halocin_H4,JAATFT010000037.1_33,2.56e-32,142,1,210,Bacteria,Bacillota A,Clostridia,Lachnospirales,Lachnospiraceae,Anaerocolumna,Anaerocolumna sp015655075
+Halocin_H4,NZ_CP009517.1_2169,1.7350000000000002e-28,130,69,300,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina barkeri A
+Halocin_H4,DUGT01000203.1_24,3.1820000000000003e-28,130,69,300,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina sp11020u
+Halocin_H4,NZ_MRTX01000012.1_15,4.309e-28,129,47,313,Bacteria,Bacillota,Bacilli,Paenibacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp001955925
+Halocin_H4,NZ_CP095757.1_544,7.898e-28,128,59,279,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Halovivax,Halovivax limisalsi
+Halocin_H4,AOIR01000063.1_62,1.959e-27,127,60,280,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natrinema,Natrinema thermotolerans
+Halocin_H4,JAGXOR010000056.1_11,1.959e-27,127,67,201,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,JAGXOR01,JAGXOR01 sp023659785
+Halocin_H4,NZ_CP044129.1_261,1.627e-26,124,58,281,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Halomicrobium,Halomicrobium sp009617995
+Halocin_H4,JAEXCH010000014.1_14,1.488e-21,109,181,421,Archaea,Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomethylophilaceae,Methanoplasma,Methanoplasma sp023402275
+Halocin_H4,WAPO01000149.1_28,1.241e-15,91,3,318,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus sp015520705
+Halocin_H4,NZ_MBKP01000012.1_36,1.736e-14,88,37,294,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanolobus,Methanolobus psychrotolerans
+Halocin_H4,PQXC01000011.1_2,3.289e-12,81,231,437,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,G60ANME1,G60ANME1 sp003194435
+Halocin_H4,QEXZ01000077.1_7,1.049e-11,79,67,260,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,QEXZ01,QEXZ01 sp003160755
+Halocin_H4,NZ_RIAS01000036.1_4,3.336e-11,78,78,319,Bacteria,Bacillota,Bacilli,Paenibacillales,Paenibacillaceae,Paenibacillus,Paenibacillus amylolyticus D
+Halocin_H4,QBUL01000183.1_4,1.413e-10,76,67,260,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,QEXZ01,QEXZ01 sp013180605
+Halocin_H4,NZ_SMGQ01000011.1_424,7.936e-11,76,71,278,Bacteria,Bacillota A,Clostridia,Lachnospirales,DSM-24629,Natranaerovirga,Natranaerovirga hydrolytica
+Halocin_H4,NZ_JABMCC010000121.1_673,1.059e-10,76,78,278,Bacteria,Bacillota,Bacilli,Paenibacillales,Paenibacillaceae,Paenibacillus,Paenibacillus taichungensis
+Halocin_H4,NZ_LR881183.1_1455,1.054e-08,70,1,175,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus camini
+Halocin_H4,JAEXCH010000013.1_27,1.869e-08,69,49,245,Archaea,Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomethylophilaceae,Methanoplasma,Methanoplasma sp023402275
+Halocin_H4,NZ_CP037968.1_2369,1.869e-08,69,137,304,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanofollaceae,Methanofollis,Methanofollis formosanus
+Halocin_H4,MTLP01000007.1_117,7.645e-07,64,70,235,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus C,Thermococcus C sp002009975
+Halocin_H4,CALUHR010000006.1_67,4.213e-06,61,82,323,Archaea,Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomethylophilaceae,UBA71,UBA71 sp944320495
+Halocin_H4,WANV01000030.1_197,4.213e-06,61,98,251,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus sp015521605
+Halocin_H4,NZ_SNUH01000002.1_460,9.876e-06,60,68,251,Archaea,Methanobacteriota B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus sp012027355
+Halocin_H4,JAGXOR010000056.1_10,2.313e-05,59,1,36,Archaea,Halobacteriota,Syntropharchaeia,ANME-1,ANME-1,JAGXOR01,JAGXOR01 sp023659785
+Halocin_H4,NC_007955.1_1059,0.0003924,55,46,299,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides,Methanococcoides burtonii
+Halocin_H4,NZ_JONQ01000011.1_150,0.0005206,55,249,327,Archaea,Halobacteriota,Methanosarcinia A,Methanosarcinales A,Methermicoccaceae,Methermicoccus,Methermicoccus shengliensis

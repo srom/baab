@@ -1,0 +1,5 @@
+## gff-version 3
+WP_123064576.1@GCF_003719335.1 Peptidase_S8 [Paenibacillus amylolyticus D]	SignalP-6.0	signal_peptide	1	25	0.99898356	.	.	.
+WP_123063612.1@GCF_003719335.1 Peptidase_S8 [Paenibacillus amylolyticus D]	SignalP-6.0	signal_peptide	1	29	0.9984841	.	.	.
+WP_281364809.1@GCF_013359905.1 Peptidase_S8 [Paenibacillus taichungensis]	SignalP-6.0	signal_peptide	1	25	0.99913514	.	.	.
+WP_175382701.1@GCF_013359905.1 Peptidase_S8 [Paenibacillus taichungensis]	SignalP-6.0	signal_peptide	1	29	0.99872786	.	.	.

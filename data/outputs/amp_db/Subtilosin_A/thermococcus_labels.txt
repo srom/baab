@@ -1,0 +1,12 @@
+LABELS
+SEPARATOR COMMA
+DATA
+GCF_000265525.1,Thermococcus cleftensis
+GCF_002214365.1,Thermococcus celer
+GCF_002214545.1,Thermococcus thioreducens
+GCF_002214465.1,Thermococcus barossii
+GCF_000018365.1,Thermococcus onnurineus
+GCF_000009965.1,Thermococcus kodakarensis
+GCF_001592435.1,Thermococcus peptonophilus
+GCF_000585495.1,Thermococcus nautili
+GCF_000816105.1,Thermococcus guaymasensis

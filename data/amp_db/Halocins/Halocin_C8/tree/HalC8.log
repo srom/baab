@@ -1,0 +1,658 @@
+IQ-TREE multicore version 2.1.2 COVID-edition for Linux 64-bit built Mar 30 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    hx1-c09-6-1 (AVX512, FMA3, 503 GB RAM)
+Command: iqtree -s /gpfs/home/rs1521/StaphC8/tree/alignment_final.fasta -pre HalC8 -m MFP -B 1000 -alrt 1000 -bnni -T AUTO --threads-max 32
+Seed:    245106 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 26 12:38:17 2024
+Kernel:  AVX+FMA - auto-detect threads (32 CPU cores detected)
+
+Reading alignment file /gpfs/home/rs1521/StaphC8/tree/alignment_final.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 220 sequences with 277 columns, 277 distinct patterns
+274 parsimony-informative, 0 singleton sites, 3 constant sites
+WARNING: Some sequence names are changed as follows:
+AEN07551.1@GCA_000224475.1 -> AEN07551.1_GCA_000224475.1
+WP_009762310.1@GCF_000230955.2 -> WP_009762310.1_GCF_000230955.2
+WP_197427780.1@GCF_900115675.1 -> WP_197427780.1_GCF_900115675.1
+WP_157224598.1@GCF_000328685.1 -> WP_157224598.1_GCF_000328685.1
+WP_149453579.1@GCF_900538055.1 -> WP_149453579.1_GCF_900538055.1
+WP_082837828.1@GCF_001625445.1 -> WP_082837828.1_GCF_001625445.1
+EQB64365.1@GCA_001856825.1 -> EQB64365.1_GCA_001856825.1
+WP_021792159.1@GCF_000011185.1 -> WP_021792159.1_GCF_000011185.1
+DAJC01000023.1_20@GCA_002498845.1 -> DAJC01000023.1_20_GCA_002498845.1
+WAKV01000040.1_2@GCA_015523185.1 -> WAKV01000040.1_2_GCA_015523185.1
+MCS7130230.1@GCA_025058955.1 -> MCS7130230.1_GCA_025058955.1
+WP_148183473.1@GCF_000008665.1 -> WP_148183473.1_GCF_000008665.1
+MCK4529253.1@GCA_023131835.1 -> MCK4529253.1_GCA_023131835.1
+DARA01000066.1_3@GCA_002503135.1 -> DARA01000066.1_3_GCA_002503135.1
+WP_082233103.1@GCF_900166625.1 -> WP_082233103.1_GCF_900166625.1
+WP_103159623.1@GCF_002901945.1 -> WP_103159623.1_GCF_002901945.1
+WP_238538535.1@GCF_000297255.1 -> WP_238538535.1_GCF_000297255.1
+WP_164731977.1@GCF_000023965.1 -> WP_164731977.1_GCF_000023965.1
+SKSD01000001.1_94@GCA_007118145.1 -> SKSD01000001.1_94_GCA_007118145.1
+WP_250867346.1@GCF_023684405.1 -> WP_250867346.1_GCF_023684405.1
+WP_239639938.1@GCF_000336775.1 -> WP_239639938.1_GCF_000336775.1
+WP_008893279.1@GCF_000337495.1 -> WP_008893279.1_GCF_000337495.1
+WP_174681857.1@GCF_013342145.1 -> WP_174681857.1_GCF_013342145.1
+WP_211338378.1@GCF_003977755.1 -> WP_211338378.1_GCF_003977755.1
+WP_007110057.1@GCF_000731985.1 -> WP_007110057.1_GCF_000731985.1
+WP_008892994.1@GCF_000337495.1 -> WP_008892994.1_GCF_000337495.1
+ELZ16389.1@GCA_000337115.1 -> ELZ16389.1_GCA_000337115.1
+WP_206536420.1@GCF_000336955.1 -> WP_206536420.1_GCF_000336955.1
+WP_244289023.1@GCF_008124605.1 -> WP_244289023.1_GCF_008124605.1
+WP_253478286.1@GCF_024138125.1 -> WP_253478286.1_GCF_024138125.1
+WP_202935063.1@GCF_004143485.2 -> WP_202935063.1_GCF_004143485.2
+WP_202932656.1@GCF_004765815.2 -> WP_202932656.1_GCF_004765815.2
+WP_083870254.1@GCF_000337495.1 -> WP_083870254.1_GCF_000337495.1
+WP_174682227.1@GCF_013342145.1 -> WP_174682227.1_GCF_013342145.1
+WP_175459731.1@GCF_900108095.1 -> WP_175459731.1_GCF_900108095.1
+WP_135852295.1@GCF_004765815.2 -> WP_135852295.1_GCF_004765815.2
+CP040678.1_2475@GCA_005954745.1 -> CP040678.1_2475_GCA_005954745.1
+WP_083864448.1@GCF_000337615.1 -> WP_083864448.1_GCF_000337615.1
+OAQ51225.1@GCA_000690595.2 -> OAQ51225.1_GCA_000690595.2
+WP_049926653.1@GCF_000455345.1 -> WP_049926653.1_GCF_000455345.1
+WP_231186491.1@GCF_021083305.1 -> WP_231186491.1_GCF_021083305.1
+WP_195156013.1@GCF_000334895.1 -> WP_195156013.1_GCF_000334895.1
+WP_161606962.1@GCF_000336935.1 -> WP_161606962.1_GCF_000336935.1
+WP_234299077.1@GCF_021431925.1 -> WP_234299077.1_GCF_021431925.1
+CP100465.1_75@GCA_024227995.1 -> CP100465.1_75_GCA_024227995.1
+WP_081597641.1@GCF_000230735.2 -> WP_081597641.1_GCF_000230735.2
+WP_248907559.1@GCF_023276375.1 -> WP_248907559.1_GCF_023276375.1
+WP_083864503.1@GCF_000337615.1 -> WP_083864503.1_GCF_000337615.1
+WP_153552385.1@GCF_009617995.1 -> WP_153552385.1_GCF_009617995.1
+
+                                   Gap/Ambiguity  Composition  p-value
+   1  AEN07551.1_GCA_000224475.1          18.77%    failed      0.97%
+   2  WP_009762310.1_GCF_000230955.2      18.77%    failed      0.97%
+   3  CP002989.1_262                      18.77%    failed      0.97%
+   4  WP_197427780.1_GCF_900115675.1       7.94%    failed      0.43%
+   5  NZ_FOXI01000014.1_10                 7.94%    failed      0.43%
+   6  A0A1I5UQF1                           7.94%    failed      0.43%
+   7  A0A6G2FUG1                          18.77%    failed      0.91%
+   8  WP_157224598.1_GCF_000328685.1      19.13%    passed      5.16%
+   9  L0JZR0                              27.08%    passed      9.33%
+  10  NZ_CP084472.1_3305                  13.00%    passed     28.76%
+  11  A0A7D5KJY3                          13.00%    passed     91.17%
+  12  A0A4D6HFK7                          12.27%    passed     29.82%
+  13  NZ_CAAHFB010000001.1_1648           18.77%    failed      4.82%
+  14  WP_149453579.1_GCF_900538055.1      21.30%    passed      7.60%
+  15  WP_082837828.1_GCF_001625445.1      13.36%    passed     18.47%
+  16  A0A161XFS4                          23.10%    passed     34.78%
+  17  EQB64365.1_GCA_001856825.1          35.38%    failed      0.87%
+  18  WP_021792159.1_GCF_000011185.1      35.38%    failed      0.87%
+  19  ATMD01000005.1_21                   35.38%    failed      0.87%
+  20  NC_002689.2_1603                    35.38%    failed      0.87%
+  21  A0A7K4FLI4                          35.38%    failed      0.87%
+  22  Q978B7                              35.38%    failed      0.87%
+  23  T0MSV0                              35.38%    failed      0.87%
+  24  A0A1R4A9B7                          35.38%    failed      0.87%
+  25  T0NDA5                              35.38%    failed      0.55%
+  26  A0A0Q0RYC2                          35.38%    failed      0.49%
+  27  A0A1N5WFV7                          35.38%    failed      4.05%
+  28  DAJC01000023.1_20_GCA_002498845.1   36.82%    failed      0.68%
+  29  DAJC01000023.1_19                   36.82%    failed      0.68%
+  30  WAKV01000040.1_2_GCA_015523185.1    25.27%    failed      2.66%
+  31  WAKV01000040.1_2                    25.27%    failed      2.66%
+  32  I3ZTP7                              25.27%    failed      3.31%
+  33  NZ_CP102602.1_1598                  23.10%    failed      0.01%
+  34  A0A8J8DYP0                          23.10%    failed      0.00%
+  35  A0A8J8DY53                          23.10%    failed      0.02%
+  36  A0A8J8EMF9                          23.10%    failed      0.02%
+  37  A0A8J8JIG8                          23.10%    failed      0.02%
+  38  NZ_AJLF01000002.1_27                22.38%    failed      0.59%
+  39  A0AAE4NU05                          22.38%    failed      1.04%
+  40  MCS7130230.1_GCA_025058955.1        25.63%    failed      0.00%
+  41  JANXDV010000019.1_2                 25.27%    failed      0.00%
+  42  WP_148183473.1_GCF_000008665.1      41.16%    passed     18.61%
+  43  O28702                              37.18%    failed      1.23%
+  44  A0A117KLI3                          37.18%    failed      0.95%
+  45  A0A075WFM8                          22.02%    passed     36.67%
+  46  MCK4529253.1_GCA_023131835.1        20.94%    failed      0.73%
+  47  JAGLZA010000417.1_6                 24.19%    failed      1.18%
+  48  A0A7C1F7V1                          46.21%    failed      2.99%
+  49  DARA01000066.1_3_GCA_002503135.1    41.16%    passed     14.08%
+  50  DARA01000066.1_3                    41.16%    passed     14.08%
+  51  JALFAQ010000035.1_29                37.18%    passed     51.73%
+  52  A0A8G1J0K7                          16.61%    failed      0.05%
+  53  NZ_JAAMTH010000001.1_3313           15.16%    passed      6.59%
+  54  NZ_JAAMTH010000001.1_858            14.44%    passed      9.40%
+  55  A0A0U2Z4M8                          14.44%    passed      7.59%
+  56  A0A2A8V226                          15.16%    passed      6.13%
+  57  A0A2W0H8Y2                          14.80%    failed      1.04%
+  58  WP_082233103.1_GCF_900166625.1      15.16%    passed      8.34%
+  59  A0A0B0D932                          36.46%    failed      4.67%
+  60  L5NAY5                              15.88%    passed      5.27%
+  61  NZ_JAIEZV010000002.1_369            15.52%    passed      7.48%
+  62  WP_103159623.1_GCF_002901945.1      19.49%    failed      0.00%
+  63  A0A380FY09                          25.63%    failed      0.00%
+  64  A0A2K4FEA0                          19.49%    failed      0.00%
+  65  A0A1E9A322                          19.49%    failed      0.00%
+  66  A0A1Z3U3W1                          19.49%    failed      0.00%
+  67  A0A0H2VGU6                          19.49%    failed      0.00%
+  68  CALTXP010000111.1_2                 19.49%    failed      0.00%
+  69  A0A509LRT7                          19.49%    failed      0.00%
+  70  Q5HNA8                              19.49%    failed      0.00%
+  71  A0A9Q5P106                          19.49%    failed      0.00%
+  72  A0A8I0W9I0                          19.49%    failed      0.00%
+  73  A0A233V7Q7                          19.86%    failed      0.00%
+  74  A0A233VLU4                          19.86%    failed      0.00%
+  75  A0A929TID4                          19.49%    failed      1.26%
+  76  NZ_CP068159.1_483                   22.38%    passed     68.06%
+  77  A0A0K1RC71                          22.38%    passed     56.29%
+  78  A0A1G8NNL8                          17.69%    passed     15.10%
+  79  A0A3A5JJX3                          13.36%    passed     42.89%
+  80  I4EKE5                              20.22%    failed      0.00%
+  81  WP_238538535.1_GCF_000297255.1      46.21%    failed      0.05%
+  82  I4EKE7                              47.65%    failed      0.07%
+  83  WP_164731977.1_GCF_000023965.1       8.30%    passed     64.64%
+  84  A0A4D6KBW0                           8.30%    passed     64.64%
+  85  A0A5P8LW38                           8.30%    passed     64.64%
+  86  C7P188                              18.05%    passed     20.60%
+  87  A0A345NIG9                          38.99%    failed      0.14%
+  88  SKSD01000001.1_94_GCA_007118145.1   15.88%    passed     72.10%
+  89  SKSD01000001.1_94                   15.88%    passed     72.10%
+  90  WP_250867346.1_GCF_023684405.1      19.13%    passed     16.64%
+  91  A0A9E5D9C8                          19.13%    passed     16.64%
+  92  NZ_JAGSOI010000007.1_24             14.44%    passed      6.62%
+  93  JAMXHR010000010.1_984               10.83%    failed      1.52%
+  94  A0A0E3NKG2                          10.47%    passed     33.65%
+  95  A0A6C0VKD2                          33.57%    passed     62.09%
+  96  NZ_FZMP01000010.1_36                21.30%    passed     55.19%
+  97  A0A284VIX2                          28.52%    passed     76.90%
+  98  A0A2A2HTT2                          34.30%    passed     28.62%
+  99  A0A7Z7FCV1                           9.39%    passed     13.85%
+ 100  WP_239639938.1_GCF_000336775.1      10.47%    passed     59.80%
+ 101  NZ_AOLJ01000018.1_115                0.72%    passed     26.71%
+ 102  A0A0K1IUZ8                           0.72%    passed     26.71%
+ 103  M0H5W0                               0.72%    passed     26.71%
+ 104  A0A371LX49                           0.72%    passed     33.26%
+ 105  A0A8T5C7M9                           0.72%    passed     12.64%
+ 106  A0A384L8J8                           0.72%    passed     12.64%
+ 107  D4GQY8                               0.72%    passed     12.64%
+ 108  A0A371K9U1                           0.72%    passed     13.00%
+ 109  A0A371KIN0                           0.72%    passed     13.00%
+ 110  A0A371KPK0                           0.72%    passed     13.00%
+ 111  A0A498DZ70                           0.72%    passed     13.00%
+ 112  A0A498EAK4                           0.72%    passed     13.00%
+ 113  A0A558GC35                           0.72%    passed     13.00%
+ 114  A0A6C0UTI0                           0.72%    passed     13.00%
+ 115  A0A842PTS4                           0.72%    passed     13.00%
+ 116  L5NYT2                               0.72%    passed     13.00%
+ 117  M0HYN6                               0.72%    passed     13.00%
+ 118  M0GM17                               0.72%    passed     11.45%
+ 119  A0A371LSZ9                          43.32%    passed     14.11%
+ 120  M0FGL7                               0.72%    passed     14.11%
+ 121  M0FJY7                               0.72%    passed     14.11%
+ 122  M0GN70                               0.72%    passed     14.11%
+ 123  WP_008893279.1_GCF_000337495.1      13.00%    passed      6.68%
+ 124  NZ_AOIS01000017.1_52                 2.17%    passed     22.38%
+ 125  M0CHT2                              13.00%    passed      6.68%
+ 126  WP_174681857.1_GCF_013342145.1      13.00%    failed      4.12%
+ 127  NZ_JABUQZ010000001.1_3516            2.17%    passed     19.20%
+ 128  A0A8J8GIP9                          13.00%    failed      4.12%
+ 129  A0A1W6ALE1                          24.19%    passed      6.63%
+ 130  WP_211338378.1_GCF_003977755.1      13.00%    passed     13.02%
+ 131  NZ_RQWN01000003.1_527                2.17%    passed     45.94%
+ 132  A0A8T8E6W5                          13.00%    passed     10.83%
+ 133  WP_007110057.1_GCF_000731985.1      13.00%    passed     37.44%
+ 134  A0A1W6ALC8                           2.17%    passed     58.29%
+ 135  L9ZDM4                              13.00%    passed     37.44%
+ 136  P83716                               2.17%    passed     61.25%
+ 137  A0A0K0KFP1                           2.17%    passed     56.66%
+ 138  A0A0K0KFP9                           2.17%    passed     56.66%
+ 139  A0A0K0KFY8                           2.17%    passed     56.66%
+ 140  A0A0K0KG39                           2.17%    passed     56.66%
+ 141  A0A0K0KGM5                           2.17%    passed     56.66%
+ 142  A0A1W6ALB1                           2.17%    passed     56.66%
+ 143  A0A1W6ALC4                           2.17%    passed     56.66%
+ 144  A0A1W6ALD1                           2.17%    passed     56.66%
+ 145  A0A1W6ALE2                          24.19%    passed     46.23%
+ 146  A0A1W6ALE4                           2.17%    passed     69.50%
+ 147  A0A1W6ALD3                           2.17%    passed     57.59%
+ 148  A0A1W6ALE0                          24.19%    passed     40.99%
+ 149  A0A482Y060                          47.29%    passed     76.29%
+ 150  A0A0K0KFQ3                           4.33%    passed     51.98%
+ 151  A0A1W6ALD9                           4.33%    passed     51.98%
+ 152  L0JQ08                               2.53%    failed      0.06%
+ 153  L9Y9U7                               2.53%    failed      0.06%
+ 154  WP_008892994.1_GCF_000337495.1      12.64%    passed     52.93%
+ 155  NZ_AOIS01000013.1_6                 11.19%    passed     63.58%
+ 156  M0CHN6                              12.64%    passed     52.93%
+ 157  ELZ16389.1_GCA_000337115.1          11.91%    passed     56.67%
+ 158  A0A895AJK3                           7.58%    passed     70.62%
+ 159  A0A4D6GZZ5                           7.58%    passed     70.62%
+ 160  A0A895AJV8                           7.58%    passed     70.62%
+ 161  A0A841HDW6                          16.61%    passed     36.05%
+ 162  Q9HHM0                              16.61%    passed     36.05%
+ 163  WP_206536420.1_GCF_000336955.1       2.53%    passed      9.71%
+ 164  M0H930                               7.58%    passed     30.07%
+ 165  A0A1H7T849                           2.53%    passed      9.23%
+ 166  WP_244289023.1_GCF_008124605.1      26.35%    passed     63.55%
+ 167  A0A4D6GVY6                          26.35%    passed     63.55%
+ 168  A0A663A714                          22.02%    passed     69.28%
+ 169  A0A510N5R3                          22.02%    passed     65.01%
+ 170  B0R494                              22.02%    passed     65.01%
+ 171  A0A841HCK3                          26.35%    passed     48.88%
+ 172  A0A895AV76                          18.41%    passed     59.67%
+ 173  A0A895AGW4                           7.22%    passed     68.32%
+ 174  WP_253478286.1_GCF_024138125.1       6.14%    failed      3.15%
+ 175  WP_202935063.1_GCF_004143485.2       6.14%    passed     55.81%
+ 176  WP_202932656.1_GCF_004765815.2       6.50%    passed     37.28%
+ 177  NZ_CP035119.1_1595                   6.50%    passed     65.21%
+ 178  WP_083870254.1_GCF_000337495.1       3.25%    passed     82.33%
+ 179  A0A8T8DWK0                           3.25%    passed     79.77%
+ 180  WP_174682227.1_GCF_013342145.1       3.25%    passed     96.26%
+ 181  A0A482Y2L7                           6.86%    passed     83.53%
+ 182  NZ_CP035119.1_2349                   7.94%    passed     22.40%
+ 183  WP_175459731.1_GCF_900108095.1       9.03%    passed     87.69%
+ 184  A0A1H6FZD9                           5.42%    passed     88.27%
+ 185  U1PME0                               9.39%    failed      0.21%
+ 186  WP_135852295.1_GCF_004765815.2      10.47%    passed     33.37%
+ 187  CP040678.1_2475_GCA_005954745.1     12.64%    passed     30.57%
+ 188  CP040678.1_2475                     12.64%    passed     30.57%
+ 189  WP_083864448.1_GCF_000337615.1      14.44%    passed     86.58%
+ 190  L9ZA08                              19.86%    passed     62.08%
+ 191  OAQ51225.1_GCA_000690595.2          19.86%    passed     50.61%
+ 192  A0AAF0T0E6                          45.13%    passed     27.92%
+ 193  WP_049926653.1_GCF_000455345.1      13.72%    passed      5.60%
+ 194  WP_231186491.1_GCF_021083305.1      12.27%    passed     69.55%
+ 195  L9VJX3                               9.75%    passed     26.36%
+ 196  WP_195156013.1_GCF_000334895.1      22.02%    passed     13.50%
+ 197  A0A3A5JHE5                          15.16%    passed     79.09%
+ 198  WP_161606962.1_GCF_000336935.1       7.58%    passed     32.16%
+ 199  M0N127                              42.96%    passed     82.30%
+ 200  WP_234299077.1_GCF_021431925.1      13.72%    failed      1.43%
+ 201  CP100465.1_75_GCA_024227995.1       13.36%    passed     45.78%
+ 202  CP100465.1_75                       13.36%    passed     45.78%
+ 203  A0A6G3ZMD2                          27.44%    failed      0.55%
+ 204  A0A4C2ENS6                          16.97%    failed      0.62%
+ 205  D2S212                              10.47%    passed     57.86%
+ 206  A0A3N6M7T8                          18.77%    passed     19.75%
+ 207  A0A7D5KXX8                          10.11%    failed      1.05%
+ 208  L0JJ00                              11.91%    passed     90.69%
+ 209  WP_081597641.1_GCF_000230735.2      17.33%    passed     26.82%
+ 210  L0JLR2                               9.75%    passed     39.28%
+ 211  AOIR01000038.1_26                    9.75%    passed     41.24%
+ 212  A0A4P9TFS7                           9.75%    passed     52.86%
+ 213  WP_248907559.1_GCF_023276375.1      12.64%    passed      9.39%
+ 214  D2RT16                              12.27%    passed     28.36%
+ 215  L0JNK8                              12.27%    passed      8.70%
+ 216  WP_083864503.1_GCF_000337615.1      12.27%    passed      7.45%
+ 217  WP_153552385.1_GCF_009617995.1      18.77%    passed     15.14%
+ 218  A0A5Q0UL39                          27.80%    failed      1.07%
+ 219  A0A847UEQ4                          43.32%    passed     47.99%
+ 220  A0A1M7C1A1                          16.25%    passed     57.26%
+****  TOTAL                               16.42%  71 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: WP_009762310.1_GCF_000230955.2 is identical to AEN07551.1_GCA_000224475.1 but kept for subsequent analysis
+NOTE: NZ_FOXI01000014.1_10 is identical to WP_197427780.1_GCF_900115675.1 but kept for subsequent analysis
+NOTE: WP_021792159.1_GCF_000011185.1 is identical to EQB64365.1_GCA_001856825.1 but kept for subsequent analysis
+NOTE: DAJC01000023.1_19 is identical to DAJC01000023.1_20_GCA_002498845.1 but kept for subsequent analysis
+NOTE: WAKV01000040.1_2 is identical to WAKV01000040.1_2_GCA_015523185.1 but kept for subsequent analysis
+NOTE: A0A8J8EMF9 is identical to A0A8J8DY53 but kept for subsequent analysis
+NOTE: DARA01000066.1_3 is identical to DARA01000066.1_3_GCA_002503135.1 but kept for subsequent analysis
+NOTE: A0A1Z3U3W1 is identical to A0A1E9A322 but kept for subsequent analysis
+NOTE: CALTXP010000111.1_2 is identical to A0A0H2VGU6 but kept for subsequent analysis
+NOTE: A0A4D6KBW0 is identical to WP_164731977.1_GCF_000023965.1 but kept for subsequent analysis
+NOTE: SKSD01000001.1_94 is identical to SKSD01000001.1_94_GCA_007118145.1 but kept for subsequent analysis
+NOTE: A0A9E5D9C8 is identical to WP_250867346.1_GCF_023684405.1 but kept for subsequent analysis
+NOTE: A0A0K1IUZ8 is identical to NZ_AOLJ01000018.1_115 but kept for subsequent analysis
+NOTE: A0A384L8J8 is identical to A0A8T5C7M9 but kept for subsequent analysis
+NOTE: A0A371KIN0 is identical to A0A371K9U1 but kept for subsequent analysis
+NOTE: M0FJY7 is identical to M0FGL7 but kept for subsequent analysis
+NOTE: M0CHT2 is identical to WP_008893279.1_GCF_000337495.1 but kept for subsequent analysis
+NOTE: A0A8J8GIP9 is identical to WP_174681857.1_GCF_013342145.1 but kept for subsequent analysis
+NOTE: L9ZDM4 is identical to WP_007110057.1_GCF_000731985.1 but kept for subsequent analysis
+NOTE: A0A0K0KFP9 is identical to A0A0K0KFP1 but kept for subsequent analysis
+NOTE: A0A1W6ALD9 is identical to A0A0K0KFQ3 but kept for subsequent analysis
+NOTE: L9Y9U7 is identical to L0JQ08 but kept for subsequent analysis
+NOTE: M0CHN6 is identical to WP_008892994.1_GCF_000337495.1 but kept for subsequent analysis
+NOTE: A0A4D6GZZ5 is identical to A0A895AJK3 but kept for subsequent analysis
+NOTE: Q9HHM0 is identical to A0A841HDW6 but kept for subsequent analysis
+NOTE: A0A4D6GVY6 is identical to WP_244289023.1_GCF_008124605.1 but kept for subsequent analysis
+NOTE: B0R494 is identical to A0A510N5R3 but kept for subsequent analysis
+NOTE: CP040678.1_2475 is identical to CP040678.1_2475_GCA_005954745.1 but kept for subsequent analysis
+NOTE: CP100465.1_75 is identical to CP100465.1_75_GCA_024227995.1 but kept for subsequent analysis
+NOTE: 30 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: CP002989.1_262 (identical to AEN07551.1_GCA_000224475.1) is ignored but added at the end
+NOTE: A0A1I5UQF1 (identical to WP_197427780.1_GCF_900115675.1) is ignored but added at the end
+NOTE: ATMD01000005.1_21 (identical to EQB64365.1_GCA_001856825.1) is ignored but added at the end
+NOTE: NC_002689.2_1603 (identical to EQB64365.1_GCA_001856825.1) is ignored but added at the end
+NOTE: A0A7K4FLI4 (identical to EQB64365.1_GCA_001856825.1) is ignored but added at the end
+NOTE: Q978B7 (identical to EQB64365.1_GCA_001856825.1) is ignored but added at the end
+NOTE: T0MSV0 (identical to EQB64365.1_GCA_001856825.1) is ignored but added at the end
+NOTE: A0A1R4A9B7 (identical to EQB64365.1_GCA_001856825.1) is ignored but added at the end
+NOTE: A0A8J8JIG8 (identical to A0A8J8DY53) is ignored but added at the end
+NOTE: A0A509LRT7 (identical to A0A0H2VGU6) is ignored but added at the end
+NOTE: Q5HNA8 (identical to A0A0H2VGU6) is ignored but added at the end
+NOTE: A0A5P8LW38 (identical to WP_164731977.1_GCF_000023965.1) is ignored but added at the end
+NOTE: M0H5W0 (identical to NZ_AOLJ01000018.1_115) is ignored but added at the end
+NOTE: D4GQY8 (identical to A0A8T5C7M9) is ignored but added at the end
+NOTE: A0A371KPK0 (identical to A0A371K9U1) is ignored but added at the end
+NOTE: A0A498DZ70 (identical to A0A371K9U1) is ignored but added at the end
+NOTE: A0A498EAK4 (identical to A0A371K9U1) is ignored but added at the end
+NOTE: A0A558GC35 (identical to A0A371K9U1) is ignored but added at the end
+NOTE: A0A6C0UTI0 (identical to A0A371K9U1) is ignored but added at the end
+NOTE: A0A842PTS4 (identical to A0A371K9U1) is ignored but added at the end
+NOTE: L5NYT2 (identical to A0A371K9U1) is ignored but added at the end
+NOTE: M0HYN6 (identical to A0A371K9U1) is ignored but added at the end
+NOTE: M0GN70 (identical to M0FGL7) is ignored but added at the end
+NOTE: A0A0K0KFY8 (identical to A0A0K0KFP1) is ignored but added at the end
+NOTE: A0A0K0KG39 (identical to A0A0K0KFP1) is ignored but added at the end
+NOTE: A0A0K0KGM5 (identical to A0A0K0KFP1) is ignored but added at the end
+NOTE: A0A1W6ALB1 (identical to A0A0K0KFP1) is ignored but added at the end
+NOTE: A0A1W6ALC4 (identical to A0A0K0KFP1) is ignored but added at the end
+NOTE: A0A1W6ALD1 (identical to A0A0K0KFP1) is ignored but added at the end
+NOTE: A0A895AJV8 (identical to A0A895AJK3) is ignored but added at the end
+Alignment was printed to HalC8.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to HalC8.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.067 seconds
+Measuring multi-threading efficiency up to 32 CPU cores
+Increase to 10 rounds for branch lengths
+25 trees examined
+Threads: 1 / Time: 32.957 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -93908
+Threads: 2 / Time: 17.980 sec / Speedup: 1.833 / Efficiency: 92% / LogL: -93908
+Threads: 3 / Time: 13.250 sec / Speedup: 2.487 / Efficiency: 83% / LogL: -93908
+Threads: 4 / Time: 10.900 sec / Speedup: 3.024 / Efficiency: 76% / LogL: -93908
+Threads: 5 / Time: 9.177 sec / Speedup: 3.591 / Efficiency: 72% / LogL: -93908
+Threads: 6 / Time: 8.467 sec / Speedup: 3.892 / Efficiency: 65% / LogL: -93908
+Threads: 7 / Time: 7.627 sec / Speedup: 4.321 / Efficiency: 62% / LogL: -93908
+Threads: 8 / Time: 7.456 sec / Speedup: 4.420 / Efficiency: 55% / LogL: -93908
+Threads: 9 / Time: 7.074 sec / Speedup: 4.659 / Efficiency: 52% / LogL: -93908
+Threads: 10 / Time: 6.845 sec / Speedup: 4.815 / Efficiency: 48% / LogL: -93908
+BEST NUMBER OF THREADS: 9
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -41028.638
+Optimal log-likelihood: -41028.395
+Proportion of invariable sites: 0.011
+Gamma shape alpha: 2.258
+Parameters optimization took 1 rounds (0.133 sec)
+Time for fast ML tree search: 1.334 seconds
+
+NOTE: ModelFinder requires 89 MB RAM!
+ModelFinder will test up to 546 protein models (sample size: 277) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            41684.864    377 84123.729    369135.729   85489.983
+  2  LG+I          41541.774    378 83839.547    370363.547   85209.426
+  3  LG+G4         41060.099    378 82876.197    369400.197   84246.076
+  4  LG+I+G4       41028.402    379 82814.803    370854.803   84188.306
+  5  LG+R2         41189.856    379 83137.712    371177.712   84511.214
+  6  LG+R3         40983.324    381 82728.648    373812.648   84109.399
+  7  LG+R4         40941.174    383 82648.347    376792.347   84036.346
+  8  LG+R5         40925.348    385 82620.696    379840.696   84015.943
+  9  LG+R6         40924.204    387 82622.408    382934.408   84024.903
+ 21  LG+F+R5       41246.395    404 83300.789    410540.789   84764.892
+ 22  LG+F+R6       41244.302    406 83300.604    413784.604   84771.955
+ 34  WAG+R5        40887.028    385 82544.055    379764.055   83939.302
+WARNING: Log-likelihood -40890.6 of WAG+R6 worse than WAG+R5 -40887
+ 35  WAG+R6        40890.626    387 82555.251    382867.251   83957.746
+ 47  WAG+F+R5      41055.679    404 82919.359    410159.359   84383.462
+WARNING: Log-likelihood -41060.1 of WAG+F+R6 worse than WAG+F+R5 -41055.7
+ 48  WAG+F+R6      41060.147    406 82932.294    413416.294   84403.645
+ 60  JTT+R5        41158.029    385 83086.058    380306.058   84481.305
+WARNING: Log-likelihood -41159.1 of JTT+R6 worse than JTT+R5 -41158
+ 61  JTT+R6        41159.066    387 83092.133    383404.133   84494.628
+ 73  JTT+F+R5      41418.015    404 83644.029    410884.029   85108.132
+WARNING: Log-likelihood -41419.9 of JTT+F+R6 worse than JTT+F+R5 -41418
+ 74  JTT+F+R6      41419.856    406 83651.712    414135.712   85123.063
+ 86  JTTDCMut+R5   41157.046    385 83084.093    380304.093   84479.339
+WARNING: Log-likelihood -41158.9 of JTTDCMut+R6 worse than JTTDCMut+R5 -41157
+ 87  JTTDCMut+R6   41158.920    387 83091.840    383403.840   84494.335
+ 99  JTTDCMut+F+R5 41418.851    404 83645.701    410885.701   85109.804
+WARNING: Log-likelihood -41420.5 of JTTDCMut+F+R6 worse than JTTDCMut+F+R5 -41418.9
+100  JTTDCMut+F+R6 41420.453    406 83652.905    414136.905   85124.256
+112  DCMut+R5      41423.472    385 83616.944    380836.944   85012.191
+WARNING: Log-likelihood -41425.9 of DCMut+R6 worse than DCMut+R5 -41423.5
+113  DCMut+R6      41425.899    387 83625.797    383937.797   85028.292
+125  DCMut+F+R5    41569.278    404 83946.557    411186.557   85410.660
+WARNING: Log-likelihood -41571.8 of DCMut+F+R6 worse than DCMut+F+R5 -41569.3
+126  DCMut+F+R6    41571.828    406 83955.656    414439.656   85427.007
+138  VT+R5         40932.980    385 82635.960    379855.960   84031.207
+WARNING: Log-likelihood -40938.4 of VT+R6 worse than VT+R5 -40933
+139  VT+R6         40938.397    387 82650.794    382962.794   84053.288
+151  VT+F+R5       41146.396    404 83100.791    410340.791   84564.894
+WARNING: Log-likelihood -41151.3 of VT+F+R6 worse than VT+F+R5 -41146.4
+152  VT+F+R6       41151.320    406 83114.639    413598.639   84585.990
+164  PMB+R5        41119.845    385 83009.690    380229.690   84404.936
+WARNING: Log-likelihood -41124.4 of PMB+R6 worse than PMB+R5 -41119.8
+165  PMB+R6        41124.395    387 83022.791    383334.791   84425.286
+177  PMB+F+R5      41085.818    404 82979.636    410219.636   84443.739
+WARNING: Log-likelihood -41090.2 of PMB+F+R6 worse than PMB+F+R5 -41085.8
+178  PMB+F+R6      41090.153    406 82992.306    413476.306   84463.658
+190  Blosum62+R5   41146.158    385 83062.316    380282.316   84457.563
+WARNING: Log-likelihood -41151.3 of Blosum62+R6 worse than Blosum62+R5 -41146.2
+191  Blosum62+R6   41151.347    387 83076.695    383388.695   84479.189
+203  Blosum62+F+R5 41161.293    404 83130.586    410370.586   84594.689
+WARNING: Log-likelihood -41166.4 of Blosum62+F+R6 worse than Blosum62+F+R5 -41161.3
+204  Blosum62+F+R6 41166.380    406 83144.760    413628.760   84616.111
+216  Dayhoff+R5    41424.126    385 83618.252    380838.252   85013.499
+WARNING: Log-likelihood -41426.6 of Dayhoff+R6 worse than Dayhoff+R5 -41424.1
+217  Dayhoff+R6    41426.559    387 83627.119    383939.119   85029.614
+229  Dayhoff+F+R5  41570.956    404 83949.912    411189.912   85414.015
+WARNING: Log-likelihood -41573.5 of Dayhoff+F+R6 worse than Dayhoff+F+R5 -41571
+230  Dayhoff+F+R6  41573.504    406 83959.007    414443.007   85430.358
+242  mtREV+R5      43222.472    385 87214.944    384434.944   88610.191
+243  mtREV+R6      43214.663    387 87203.326    387515.326   88605.821
+255  mtREV+F+R5    41792.016    404 84392.031    411632.031   85856.134
+256  mtREV+F+R6    41788.600    406 84389.199    414873.199   85860.550
+268  mtART+R5      43841.307    385 88452.615    385672.615   89847.861
+269  mtART+R6      43824.683    387 88423.366    388735.366   89825.861
+281  mtART+F+R5    42771.337    404 86350.674    413590.674   87814.777
+282  mtART+F+R6    42759.181    406 86330.363    416814.363   87801.714
+294  mtZOA+R5      42777.199    385 86324.398    383544.398   87719.644
+295  mtZOA+R6      42763.779    387 86301.558    386613.558   87704.052
+307  mtZOA+F+R5    42251.896    404 85311.792    412551.792   86775.896
+308  mtZOA+F+R6    42239.172    406 85290.343    415774.343   86761.695
+320  mtMet+R5      43218.299    385 87206.598    384426.598   88601.844
+321  mtMet+R6      43216.830    387 87207.659    387519.659   88610.154
+333  mtMet+F+R5    42022.265    404 84852.530    412092.530   86316.633
+334  mtMet+F+R6    42019.159    406 84850.318    415334.318   86321.669
+346  mtVer+R5      43377.711    385 87525.421    384745.421   88920.668
+347  mtVer+R6      43370.865    387 87515.730    387827.730   88918.224
+359  mtVer+F+R5    42276.335    404 85360.670    412600.670   86824.773
+360  mtVer+F+R6    42273.005    406 85358.010    415842.010   86829.361
+372  mtInv+R5      43430.777    385 87631.555    384851.555   89026.801
+373  mtInv+R6      43426.283    387 87626.566    387938.566   89029.061
+385  mtInv+F+R5    41794.762    404 84397.523    411637.523   85861.626
+386  mtInv+F+R6    41790.989    406 84393.979    414877.979   85865.330
+398  mtMAM+R5      44124.727    385 89019.454    386239.454   90414.701
+399  mtMAM+R6      44118.463    387 89010.926    389322.926   90413.421
+411  mtMAM+F+R5    42616.525    404 86041.051    413281.051   87505.154
+412  mtMAM+F+R6    42612.087    406 86036.175    416520.175   87507.526
+424  HIVb+R5       41899.439    385 84568.878    381788.878   85964.124
+WARNING: Log-likelihood -41900.8 of HIVb+R6 worse than HIVb+R5 -41899.4
+425  HIVb+R6       41900.816    387 84575.632    384887.632   85978.127
+437  HIVb+F+R5     41994.196    404 84796.391    412036.391   86260.494
+438  HIVb+F+R6     41992.930    406 84797.860    415281.860   86269.211
+450  HIVw+R5       43119.788    385 87009.576    384229.576   88404.823
+451  HIVw+R6       43119.730    387 87013.461    387325.461   88415.955
+463  HIVw+F+R5     42481.662    404 85771.324    413011.324   87235.427
+464  HIVw+F+R6     42481.372    406 85774.745    416258.745   87246.096
+476  FLU+R5        41484.316    385 83738.631    380958.631   85133.878
+477  FLU+R6        41476.910    387 83727.821    384039.821   85130.315
+489  FLU+F+R5      41340.106    404 83488.213    410728.213   84952.316
+490  FLU+F+R6      41337.503    406 83487.006    413971.006   84958.358
+502  rtREV+R5      41432.963    385 83635.926    380855.926   85031.173
+503  rtREV+R6      41430.099    387 83634.198    383946.198   85036.692
+515  rtREV+F+R5    41503.543    404 83815.086    411055.086   85279.189
+516  rtREV+F+R6    41503.036    406 83818.073    414302.073   85289.424
+528  cpREV+R5      41069.343    385 82908.686    380128.686   84303.933
+WARNING: Log-likelihood -41070.4 of cpREV+R6 worse than cpREV+R5 -41069.3
+529  cpREV+R6      41070.428    387 82914.856    383226.856   84317.351
+541  cpREV+F+R5    41414.183    404 83636.366    410876.366   85100.469
+542  cpREV+F+R6    41413.526    406 83639.053    414123.053   85110.404
+Akaike Information Criterion:           WAG+R5
+Corrected Akaike Information Criterion: LG
+Bayesian Information Criterion:         WAG+R5
+Best-fit model: WAG+R5 chosen according to BIC
+
+All model information printed to HalC8.model.gz
+CPU time for ModelFinder: 8861.886 seconds (2h:27m:41s)
+Wall-clock time for ModelFinder: 1053.660 seconds (0h:17m:33s)
+Generating 1000 samples for ultrafast bootstrap (seed: 245106)...
+
+NOTE: 45 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -40887.028
+Optimal log-likelihood: -40886.974
+Site proportion and rates:  (0.031,0.061) (0.040,0.362) (0.204,0.658) (0.390,0.962) (0.336,1.415)
+Parameters optimization took 1 rounds (0.359 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.471616 sec (of wall-clock time) 3.887884 sec(of CPU time)
+Computing RapidNJ tree took 0.096855 sec (of wall-clock time) 0.330631 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -40998.305
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 6.075 second
+Computing log-likelihood of 98 initial trees ... 3.722 seconds
+Current best score: -40886.974
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -40880.423
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -40874.808
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -40859.853
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 6: -40858.782
+Iteration 10 / LogL: -40862.017 / Time: 0h:0m:26s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 11: -40857.316
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 15: -40855.186
+Iteration 20 / LogL: -40863.045 / Time: 0h:0m:42s
+Finish initializing candidate tree set (20)
+Current best tree score: -40855.186 / CPU time: 41.359
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 25: -40854.262
+Iteration 30 / LogL: -40854.901 / Time: 0h:0m:57s (0h:3m:8s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 40: -40852.390
+Iteration 40 / LogL: -40852.390 / Time: 0h:1m:12s (0h:3m:7s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 50: -40851.789
+Iteration 50 / LogL: -40851.789 / Time: 0h:1m:27s (0h:2m:59s left)
+Iteration 60 / LogL: -40882.406 / Time: 0h:1m:42s (0h:2m:36s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 69: -40850.808
+Iteration 70 / LogL: -41100.308 / Time: 0h:1m:57s (0h:2m:48s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 72: -40850.076
+Iteration 80 / LogL: -40851.494 / Time: 0h:2m:12s (0h:2m:34s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 87: -40849.740
+Iteration 90 / LogL: -40853.719 / Time: 0h:2m:27s (0h:2m:40s left)
+Iteration 100 / LogL: -40882.793 / Time: 0h:2m:40s (0h:2m:21s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 104: -40847.521
+Iteration 110 / LogL: -40861.843 / Time: 0h:2m:56s (0h:2m:32s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 112: -40847.242
+Iteration 120 / LogL: -40849.537 / Time: 0h:3m:11s (0h:2m:27s left)
+Iteration 130 / LogL: -40849.088 / Time: 0h:3m:25s (0h:2m:10s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 136: -40846.864
+Iteration 140 / LogL: -40849.489 / Time: 0h:3m:40s (0h:2m:32s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 144: -40846.458
+Iteration 150 / LogL: -40853.185 / Time: 0h:3m:54s (0h:2m:28s left)
+Iteration 160 / LogL: -40848.748 / Time: 0h:4m:9s (0h:2m:11s left)
+Iteration 170 / LogL: -40847.294 / Time: 0h:4m:23s (0h:1m:55s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 177: -40846.027
+Iteration 180 / LogL: -40901.122 / Time: 0h:4m:38s (0h:2m:30s left)
+Iteration 190 / LogL: -40848.441 / Time: 0h:4m:52s (0h:2m:14s left)
+Iteration 200 / LogL: -40846.803 / Time: 0h:5m:5s (0h:1m:58s left)
+Iteration 210 / LogL: -41031.423 / Time: 0h:5m:19s (0h:1m:42s left)
+Iteration 220 / LogL: -41044.502 / Time: 0h:5m:32s (0h:1m:26s left)
+Iteration 230 / LogL: -40858.056 / Time: 0h:5m:46s (0h:1m:11s left)
+Iteration 240 / LogL: -40847.065 / Time: 0h:5m:59s (0h:0m:55s left)
+Iteration 250 / LogL: -40876.011 / Time: 0h:6m:13s (0h:0m:40s left)
+Iteration 260 / LogL: -40849.335 / Time: 0h:6m:27s (0h:0m:25s left)
+Iteration 270 / LogL: -40848.078 / Time: 0h:6m:41s (0h:0m:10s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 278: -40845.966
+Iteration 280 / LogL: -41031.235 / Time: 0h:6m:55s (0h:2m:25s left)
+BETTER TREE FOUND at iteration 289: -40845.965
+Iteration 290 / LogL: -40847.444 / Time: 0h:7m:9s (0h:2m:27s left)
+Iteration 300 / LogL: -40846.490 / Time: 0h:7m:22s (0h:2m:11s left)
+Iteration 310 / LogL: -40846.319 / Time: 0h:7m:36s (0h:1m:56s left)
+Iteration 320 / LogL: -41230.538 / Time: 0h:7m:50s (0h:1m:41s left)
+Iteration 330 / LogL: -40846.863 / Time: 0h:8m:4s (0h:1m:26s left)
+Iteration 340 / LogL: -40860.323 / Time: 0h:8m:17s (0h:1m:11s left)
+Iteration 350 / LogL: -40851.606 / Time: 0h:8m:31s (0h:0m:57s left)
+Iteration 360 / LogL: -40848.966 / Time: 0h:8m:45s (0h:0m:42s left)
+Iteration 370 / LogL: -40864.701 / Time: 0h:8m:59s (0h:0m:27s left)
+Iteration 380 / LogL: -40939.836 / Time: 0h:9m:13s (0h:0m:13s left)
+Iteration 390 / LogL: -40846.029 / Time: 0h:9m:27s (0h:0m:-2s left)
+Refining ufboot trees with NNI 1 branch...
+100 samples done
+200 samples done
+300 samples done
+400 samples done
+500 samples done
+600 samples done
+700 samples done
+800 samples done
+900 samples done
+1000 samples done
+Total 1000 ufboot trees refined
+TREE SEARCH COMPLETED AFTER 390 ITERATIONS / Time: 0h:13m:45s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -40845.965
+Optimal log-likelihood: -40845.956
+Site proportion and rates:  (0.031,0.058) (0.041,0.372) (0.222,0.657) (0.371,0.974) (0.335,1.421)
+Parameters optimization took 1 rounds (0.270 sec)
+BEST SCORE FOUND : -40845.956
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.252 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file HalC8.splits.nex
+Total tree length: 69.152
+
+Total number of iterations: 390
+CPU time used for tree search: 7313.909 sec (2h:1m:53s)
+Wall-clock time used for tree search: 824.307 sec (0h:13m:44s)
+Total CPU time used: 7328.625 sec (2h:2m:8s)
+Total wall-clock time used: 826.471 sec (0h:13m:46s)
+UFBoot trees printed to HalC8.ufboot
+
+Computing bootstrap consensus tree...
+Reading input file HalC8.splits.nex...
+190 taxa and 1484 splits.
+Consensus tree written to HalC8.contree
+Reading input trees file HalC8.contree
+Log-likelihood of consensus tree: -40845.988
+
+Analysis results written to: 
+  IQ-TREE report:                HalC8.iqtree
+  Maximum-likelihood tree:       HalC8.treefile
+  Likelihood distances:          HalC8.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          HalC8.splits.nex
+  Consensus tree:                HalC8.contree
+  UFBoot trees:                  HalC8.ufboot
+  Screen log file:               HalC8.log
+
+Date and Time: Fri Jul 26 13:09:38 2024
