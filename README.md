@@ -4,8 +4,8 @@ Code and data from paper:
 
 > Bacteriocins in archaea and archaeocins in bacteria
 > 
-> Romain Strock and Tobias Warnecke
-> biorxiv 2026
+> Romain Strock and Tobias Warnecke<br />
+> biorxiv 2026<br />
 > DOI: [10.64898/2026.07.27.741052](https://www.biorxiv.org/content/10.64898/2026.07.27.741052v1)
 
 - Data (inputs): `data/`
